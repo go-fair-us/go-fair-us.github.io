@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+baseurl: "/gofairna"
+url: "https://libcce.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -29,7 +29,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: "libcce/gofairna"
   gitter:
   google_plus:
   instagram:

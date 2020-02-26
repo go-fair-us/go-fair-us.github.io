@@ -6,7 +6,7 @@ url: "https://libcce.github.io/"
 theme_settings:
   # Meta
   title: GO FAIR North America Network
-  avatar: assets/img/avatar.png
+  avatar: assets/img/logo.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines

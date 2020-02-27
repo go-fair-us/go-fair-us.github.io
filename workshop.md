@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshop
-feature-title: Advancing FAIR and GO FAIR in the US
+feature-title: Advancing FAIR and GO FAIR in North America
 permalink: /workshop/
 feature-img: "assets/img/gofair_smaller.png"
 ---

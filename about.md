@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/sample_feature_img_2.png"
+feature-img: "assets/img/gofair_smaller.png"
 ---
 
 <p>The <strong>GO FAIR USA Support and Coordination office</strong> is hosted by the US National Data Services (NDS) at the San Diego Supercomputer Center (SDSC), University of California San Diego. The US NDS was founded by a consortium that included academia, government, infrastructure providers, and non-profit institutions interested in creating and bridging evolving technologies and platforms that support the publication, discovery, and reuse of data. GO FAIR USA was established in February 2019 as one of the first GO FAIR national offices, see a press release announcing the office start.</p>

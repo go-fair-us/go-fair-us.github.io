@@ -9,12 +9,12 @@ theme_settings:
   avatar: assets/img/logo.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "GO FAIR North America Network : Advancing FAIR in North America" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Share your FAIR</p>
-  header_text_feature_image:
+     <p>Advancing FAIR in North America</p>
+  header_text_feature_image: assets/img/gofair_smaller.png
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 

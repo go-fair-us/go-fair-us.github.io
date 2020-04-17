@@ -1,9 +1,8 @@
 ---
 layout: page
 title: FAIR Principles
-feature-title: Advancing FAIR and GO FAIR in North America
 permalink: /principles/
-feature-img: "assets/img/gofair_smaller.png"
+feature-img: "assets/img/gofair_background.jpg"
 ---
 
 
@@ -35,5 +34,5 @@ feature-img: "assets/img/gofair_smaller.png"
 	R1.1. (meta)data are released with a<u> clear and accessible data usage license.</u><br />
 	R1.2. (meta)data are associated with their <u>provenance.</u><br />
 	R1.3. (meta)data <u>meet domain-relevant community standards.</u></p>
-  
+
 <p>The latest developments on FAIR are available at <a href="https://www.go-fair.org/fair-principles/">GO-FAIR</a>.</p>

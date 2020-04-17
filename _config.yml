@@ -14,7 +14,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <p>Advancing FAIR in North America</p>
-  header_text_feature_image: 
+  header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
@@ -27,7 +27,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "libcce/gofairna"
+  github:
   gitter:
   google_plus:
   instagram:
@@ -81,3 +81,8 @@ plugins: [jekyll-paginate]
 exclude:
   - Gemfile
   - Gemfile.lock
+  - desktop.ini
+  - assets/desktop.ini
+  - assets/css/desktop.ini
+  - assets/img/desktop.ini
+  - assets/js/desktop.ini

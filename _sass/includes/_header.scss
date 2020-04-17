@@ -1,9 +1,9 @@
 .site-header {
-  @extend %padding-small;
   background: $brand-color;
   border-bottom: 1px solid $border-color;
   display: inline-block;
   float: left;
+  padding: 1% 4%;
   width: 100%;
 
   a {
@@ -11,12 +11,13 @@
   }
 
   .avatar {
-    height: 2em;
-    width: 2em;
+    height: 4em;
+    width: 12em;
     float: left;
     margin-top: -3px;
     border-radius: 0.2em;
-    margin-right: 1em;
+    padding-right: 1em;
+    object-fit: contain;
   }
 
   .site-title {
@@ -24,12 +25,17 @@
     font-weight: bold;
     font-size: 1em;
     line-height: 1.5;
+    padding: 1em 0;
+  }
+
+  .site-title a {
+    padding: 1em 0;
   }
 
   .site-nav {
     ul {
       margin: 0;
-      padding: 0;
+      padding: 0.8em 0;
       list-style: none;
       line-height: 1.5;
       float: right;

@@ -30,6 +30,10 @@ header {
     font-size: 3em;
     margin: 0;
   }
+
+  .post-title {
+    color: $link-color;
+  }
 }
 .meta {
   color: rgba($text-color, .5);

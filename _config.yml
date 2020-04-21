@@ -7,14 +7,14 @@ theme_settings:
   # Meta
   title: GO FAIR North America Network
   avatar: assets/img/logo.svg
-  favicon: assets/favicon.ico
+  favicon: assets/gofair_favicon.ico
   gravatar: # Email MD5 hash
   description: "GO FAIR North America Network : Advancing FAIR in North America" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Advancing FAIR in North America</p>
-  header_text_feature_image:
+     <h1 class="title">Advancing FAIR in North America</h1>
+  header_text_feature_image: assets/img/gofair_background.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 

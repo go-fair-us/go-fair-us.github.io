@@ -15,8 +15,7 @@ theme_settings:
   header_text: >
      <h1 class="title">Advancing FAIR in North America</h1>
   header_text_feature_image: assets/img/gofair_background.jpg
-  footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+  footer_text:
 
   # Icons
   rss: false

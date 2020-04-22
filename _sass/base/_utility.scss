@@ -26,11 +26,14 @@ a.button {
   @extend .button-link;
 }
 .button-link {
+  transition: all .1s linear;
+
   &:hover {
-    background: $link-color;
-    border: 1px solid $link-color;
+    background: $hover-color;
+    border: 1px solid $hover-color;
     color: $background-color;
     text-decoration: none;
+    transition: all .1s linear;
   }
 }
 .body-link {

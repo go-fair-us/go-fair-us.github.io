@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Connect
-feature-title: Advancing FAIR and GO FAIR in North America
+feature-title: Connect with GO FAIR
 permalink: /connect/
-feature-img: "assets/img/gofair_smaller.png"
+feature-img: "assets/img/gofair_background.jpg"
 ---
 
-There are several ways to connect with the Go FAIR North America Network:  
+There are several ways to connect with the Go FAIR North America Network:
 
 * Group Email List: [Google Group?](). Our main communication channel? Sign up to receive periodic updates?
 

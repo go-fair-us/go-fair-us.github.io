@@ -27,7 +27,12 @@ article {
 }
 header {
   h1 {
+    font-size: 3em;
     margin: 0;
+  }
+
+  .post-title {
+    color: $link-color;
   }
 }
 .meta {
@@ -46,7 +51,7 @@ header {
     color: $feature-image-text-color;
     background-size: $feature-image-size;
     margin-bottom: 0;
-    padding: $padding-large/2.5 $padding-large;
+    padding: $padding-large/2 $padding-large;
     .meta {
       color: rgba($feature-image-text-color, .7);
     }

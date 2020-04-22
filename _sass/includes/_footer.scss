@@ -1,8 +1,33 @@
 .site-footer {
   @extend %padding-regular;
-  display: inline-block;
+  display: block;
   text-align: center;
   width: 100%;
-  color: lighten($text-color, 30%);
+  background-color: $footer-color;
+  color: $footer-text-color;
   font-size: 0.9em;
+  overflow: hidden;
+  padding: 60px 0;
+  position: relative;
+  z-index: 1;
+
+  .footer-globe {
+    background: url("../../assets/img/globe-white.svg");
+    background-size: cover;
+    width: 500px;
+    height: 500px;
+    opacity: .05;
+    position: absolute;
+    bottom: -60px;
+    right: -60px;
+    z-index: -1;
+  }
+
+  .footer-row {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
 }

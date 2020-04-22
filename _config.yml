@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/gofairna"
-url: "https://libcce.github.io/"
+baseurl:
+url: "https://go-fair-us.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:

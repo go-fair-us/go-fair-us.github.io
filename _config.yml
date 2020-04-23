@@ -5,15 +5,15 @@ url: "https://go-fair-us.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: GO FAIR North America Network
+  title: GO FAIR US
   avatar: assets/img/logo.svg
   favicon: assets/gofair_favicon.ico
   gravatar: # Email MD5 hash
-  description: "GO FAIR North America Network : Advancing FAIR in North America" # used by search engines
+  description: "GO FAIR US : Advancing FAIR in the US" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1 class="title">Advancing FAIR in North America</h1>
+     <h1 class="title">Advancing FAIR in the US</h1>
   header_text_feature_image: assets/img/gofair_background.jpg
   footer_text:
 

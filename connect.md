@@ -6,18 +6,16 @@ permalink: /connect/
 feature-img: "assets/img/gofair_background.jpg"
 ---
 
-There are several ways to connect with the Go FAIR North America Network:
+There are several ways to connect with the Go FAIR US Network:
 
-* Group Email List: [Google Group?](). Our main communication channel? Sign up to receive periodic updates?
+* [Google Group](https://groups.google.com/forum) Email List. Our main communication channel. Sign up to receive periodic updates.
 
-* [Slack Channel](). Sign up to the Go FAIR North America Slack to chat with community members via our primary chatroom, and get quicker responses.
+* [Slack Channel](https://gofair.slack.com/). Sign up to the Go FAIR US Slack to chat with community members and get quicker responses.
 
-* [Go FAIR North American Network on Twitter](). Follow us, learn about what community members are doing, and get updates.
+* [Go FAIR US on Twitter](https://twitter.com/gofairus). Follow us, learn about what community members are doing, and get updates.
 
-* [Go FAIR North America Blog Posts](): Where we post stories from the community and updates from our governance groups.
+* [Go FAIR US Blog Posts](http://www.gofair.us/): Where we post updates and stories from the community and governance groups.
 
-* [Other Forms?]() for Code of Conduct, anything else?
+* Submit Issues/Pull Requests to Our Website/Resources: [Go FAIR US](https://github.com/go-fair-us).
 
-* Submit Issues/Pull Requests to Our Website and Training Material: [Go FAIR North American](https://github.com/libcce/gofairna).
-
-* General Inquiries: Get in touch via [emails](mailto:emails).
+* General Inquiries: Get in touch via [gofairus@gmail.com](mailto:gofairus@gmail.com).

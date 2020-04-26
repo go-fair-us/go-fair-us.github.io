@@ -16,7 +16,7 @@ theme_settings:
      <h1 class="title">Advancing FAIR in the US</h1>
   header_text_feature_image: assets/img/gofair_background.jpg
   footer_text: > 
-     <table style="width: 100%;border-collapse: collapse;border-style: hidden" border="0"><tbody><tr style="height: 54px"><td style="width: 8%;height: 80px"><a href="https://creativecommons.org/licenses/by/4.0/"><img class="wp-image-1400 alignleft" src="https://www.go-fair.org/wp-content/uploads/2018/01/by-300x105.png" alt="" width="127" height="44" /></a></td><td style="width: 92%;height: 80px"><p style="font-size: 11px;text-align: left">Except where otherwise noted, content on this website is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 License</a> by <a href="http://www.go-fair.org">GO FAIR</a></p></td></tr></tbody></table>
+     <p style="font-size: 11px;text-align: left"><a href="https://creativecommons.org/licenses/by/4.0/"><img class="wp-image-1400 alignleft" src="https://www.go-fair.org/wp-content/uploads/2018/01/by-300x105.png" alt="" width="127" height="44" /></a> Except where otherwise noted, content on this website is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 License</a> by <a href="http://www.go-fair.org">GO FAIR</a></p>
 
   # Icons
   rss: false

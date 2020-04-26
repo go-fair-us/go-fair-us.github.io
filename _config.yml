@@ -15,7 +15,7 @@ theme_settings:
   header_text: >
      <h1 class="title">Advancing FAIR in the US</h1>
   header_text_feature_image: assets/img/gofair_background.jpg
-  footer_text: a
+  footer_text: <table border="1"><tr><td>xdjkfjdkjfkdjfkdjf</td><td>ykjdfkjdkfjdkfjd</td></tr></table>
   # Icons
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"

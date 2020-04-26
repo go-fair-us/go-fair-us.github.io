@@ -3,12 +3,12 @@
 {% endif %}
 	
 <footer class="site-footer">
-	{% if site.theme_settings.footer_text %}
-	<p class="text">x{{ site.theme_settings.footer_text }}</p>
-	{% endif %}
 	<div class="footer-globe"></div>
 	<div class="footer-row">
-		y<div class="footer-logo">
-			z<img src="{{ site.baseurl }}/assets/img/logo-white.svg" height="40" />
+		<div class="footer-logo">
+			<img src="{{ site.baseurl }}/assets/img/logo-white.svg" height="40" />
 		</div>
+	{% if site.theme_settings.footer_text %}
+	<p class="text">{{ site.theme_settings.footer_text }}</p>
+	{% endif %}
 </footer>

@@ -6,10 +6,17 @@
 	<div class="footer-globe"></div>
 	<div class="footer-row">
 		<div class="footer-logo">
-			<img src="{{ site.baseurl }}/assets/img/logo-white.svg" height="40" />
-	{% if site.theme_settings.footer_text %}
-	<p class="text">{{ site.theme_settings.footer_text }}</p>
-	{% endif %}
+			<table>
+				<tr>
+				  <td><img src="{{ site.baseurl }}/assets/img/logo-white.svg" height="40" /></td>
+				  <td>
+					{% if site.theme_settings.footer_text %}
+					<p class="text">{{ site.theme_settings.footer_text }}</p>
+					{% endif %}
+				  </td>
+					<td>ABCDEFGHIJKLMNOPQRSTUVWXYZ</td>
+				</tr>
+			</table>
 		</div>
 	</div>
 </footer>

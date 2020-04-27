@@ -10,11 +10,13 @@
 				<tr>
 				  <td><img src="{{ site.baseurl }}/assets/img/logo-white.svg" height="40" /></td>
 				  <td>
-					{% if site.theme_settings.footer_text %}
+					{% if site.theme_settings.footer_text1 %}
 					<p class="text">{{ site.theme_settings.footer_text }}</p>
 					{% endif %}
 				  </td>
-					<td>ABCDEFGHIJKLMNOPQRSTUVWXYZ</td>
+					{% if site.theme_settings.footer_text2 %}
+					<p class="text">{{ site.theme_settings.footer_text }}</p>
+					{% endif %}
 				</tr>
 			</table>
 		</div>

@@ -15,8 +15,7 @@ theme_settings:
   header_text: >
      <h1 class="title">Advancing FAIR in the US</h1>
   header_text_feature_image: assets/img/gofair_background.jpg
-  footer_text1: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Except where otherwise noted, content on this website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> by GO FAIR.
-  footer_text2: Link 1 <br /> Link 2 <br /> Link 3 <br /> Link 4 <br />
+  # footer text located in includes / footer
   # Icons
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"

@@ -1,18 +1,40 @@
 {% if site.theme_settings.katex and page.id %}
 <script src="{{ "/assets/js/katex_init.js" | relative_url }}"></script>
 {% endif %}
-	
+
 <footer class="site-footer">
 	<div class="footer-globe"></div>
 	<div class="footer-row">
-		<div class="footer-logo">
+		<div class="footer-col footer-logo">
+			<img src="{{ site.baseurl }}/assets/img/logo-white.svg" height="40" />
+		</div>
+		<div class="footer-col footer-copyright">
 			<table style="width: 100%;border-collapse: collapse;border-style: hidden" border="0">
 				<tr>
-				  <td><img src="{{ site.baseurl }}/assets/img/logo-white.svg" height="40" /></td>
-				  <td><p style="font-size: 11px;text-align: left"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Except where otherwise noted, content on this website is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> by GO FAIR.</td>
-				  <td>Link 1 <br /> Link 2 <br /> Link 3 <br /> Link 4 <br /></td>
+					<td style="width: 40%; height: 80px;">
+						<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+							<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" width="127" />
+						</a>
+					</td>
+					<td style="width: 60%; height: 80px;">
+						<p style="font-size: 11px;text-align: left">Except where otherwise noted, content on this website is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> by <a href="http://www.go-fair.org/">GO FAIR</a>.</p>
+					</td>
 				</tr>
 			</table>
+		</div>
+		<div class="footer-col footer-nav">
+			<ul class="footer-menu">
+				<li>
+					<a href="https://www.go-fair.org/go-fair-initiative/contact/">Contact</a>
+				</li>
+				<li>
+					<a href="https://www.go-fair.org/imprint/">Imprint</a>
+				</li>
+				<li>
+					<a href="https://www.go-fair.org/legal-notice/">Legal notice</a>
+				</li>
+				{% include icons.html %}
+			</ul>
 		</div>
 	</div>
 </footer>

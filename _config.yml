@@ -18,14 +18,14 @@ theme_settings:
   # footer text located in includes / footer
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: gofairus@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github:
+  github: go-fair-us
   gitter:
   google_plus:
   instagram:
@@ -36,7 +36,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: gofairofficial
+  twitter: gofairus
   wordpress:
   youtube:
 
@@ -44,7 +44,7 @@ theme_settings:
   google_analytics: "UA-164622183-1"
   disqus_shortname:
   katex: true # Enable if using math markup
-  search: false # Enable the search feature
+  search: true # Enable the search feature
 
   # Localization strings
   str_follow_on: "Follow on"

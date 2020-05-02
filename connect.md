@@ -6,18 +6,20 @@ permalink: /connect/
 feature-img: "assets/img/gofair_background.jpg"
 ---
 
-There are several ways to connect with the Go FAIR US Network:
+There are several ways to connect with Go FAIR US:
 
-- [Google Group](https://groups.google.com/forum) Email List. Our main communication channel. Sign up to receive periodic updates.
+<ul>
+  <li><a href="https://groups.google.com/forum/#!forum/gofairus">Google Group</a> Email List. Our main communication channel. Sign up to receive periodic updates.</li>
 
-- [Slack Channel](https://gofair.slack.com/). Sign up to the Go FAIR US Slack to chat with community members and get quicker responses.
+  <li><a href="https://gofair.slack.com/">Slack Channel</a>. Sign up to the Go FAIR US Slack to chat with community members and get quicker responses.</li>
 
-- [Go FAIR US on Twitter](https://twitter.com/gofairus). Follow us, learn about what community members are doing, and get updates.
+  <li><a href="https://twitter.com/gofairus">Go FAIR US on Twitter</a>. Follow us, learn about what community members are doing, and get updates.</li>
 
-- [Go FAIR US Blog Posts](http://www.gofair.us/): Where we post updates and stories from the community and governance groups.
+  <li>Go FAIR US <a href="{{ site.baseurl }}/news/">News & Events</a>. Stay up-to-date on news and events of interest to the Go FAIR US community.</li>
 
-- Submit Issues/Pull Requests to Our Website/Resources: [Go FAIR US](https://github.com/go-fair-us).
+  <li>Submit Issues/Pull Requests to Our <a href="https://github.com/go-fair-us">Go FAIR US GitHub Organization</a>.</li>
 
-- General Inquiries: Get in touch via [gofairus@gmail.com](mailto:gofairus@gmail.com).
+  <li><a href="">Contact Form</a>. Send the Go FAIR US Steering Committee general inquiries.</li>
+</ul>
 
-The Consortium is dedicated to **providing a harassment-free experience for everyone**, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of Consortium members in any form. Sexual language and imagery is generally not appropriate for any venue, including meetings, presentations, or discussions.
+<p>Go FAIR US is dedicated to **providing a harassment-free experience for everyone**, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of Consortium members in any form. Sexual language and imagery is generally not appropriate for any venue, including meetings, presentations, or discussions.</p>

@@ -18,7 +18,7 @@ theme_settings:
   # footer text located in includes / footer
   # Icons
   rss: false
-  email_address: gofairus@gmail.com # Full email address, e.g. "sam@example.com"
+  email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:

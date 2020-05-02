@@ -51,7 +51,7 @@ header {
     color: $feature-image-text-color;
     background-size: $feature-image-size;
     margin-bottom: 0;
-    padding: $regular/2 $padding-regular;
+    padding: %padding-regular;
     .meta {
       color: rgba($feature-image-text-color, .7);
     }

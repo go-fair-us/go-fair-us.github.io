@@ -17,7 +17,7 @@ theme_settings:
   header_text_feature_image: assets/img/gofair_background.jpg
   # footer text located in includes / footer
   # Icons
-  rss: false
+  rss: true
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
@@ -63,7 +63,7 @@ theme_settings:
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
 
   # Post navigation
-  post_navigation: false
+  post_navigation: true
 
 # PAGINATION
 paginate: 5

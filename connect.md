@@ -4,6 +4,7 @@ title: Connect
 feature-title: Connect with GO FAIR US
 permalink: /connect/
 feature-img: "assets/img/gofair_background.jpg"
+order: 4
 ---
 
 There are several ways to connect with Go FAIR US:

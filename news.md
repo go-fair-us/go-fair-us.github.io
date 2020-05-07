@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News & Events
+title: News and Events
 permalink: /news/
 feature-img: "assets/img/gofair_background.jpg"
 order: 3

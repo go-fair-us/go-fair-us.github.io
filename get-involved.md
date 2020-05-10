@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Connect
-feature-title: Connect with GO FAIR US
-permalink: /connect/
+title: Get Involved
+feature-title: Get Involved with GO FAIR US
+permalink: /get-involved/
 feature-img: "assets/img/gofair_background.jpg"
 order: 4
 ---

@@ -1,48 +1,22 @@
 ---
 layout: page
-title: News and Events
+title: News
 permalink: /news/
 feature-img: "assets/img/gofair_background.jpg"
 order: 3
 ---
 
-  <div class="posts">
-    {% for post in paginator.posts %}
-    <div class="post-teaser">
-      <header>
-        <h1>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title }}
-          </a>
-        </h1>
-        <p class="meta">
-          {{ post.date | date: "%B %-d, %Y" }}
-        </p>
-      </header>
-      <div class="excerpt">
-        {{ post.excerpt }}
-        <a class="button" href="{{ post.url | relative_url }}">
-          {{ site.theme_settings.str_continue_reading }}
-        </a>
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url | replace: '//', '/' }}" class="button" >
-      <i class="fa fa-chevron-left"></i>
-      {{ site.theme_settings.str_previous_page }}
+{% assign sorted = site.news | sort: "date" | reverse %}
+{% for news in sorted %}
+  <hr>
+  <h3>
+    <a href="{{ news.url | prepend: site.baseurl }}">
+      {{ news.title }}
     </a>
-    {% endif %}
-    {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url | replace: '//', '/' }}" class="button" >
-      {{ site.theme_settings.str_next_page }}
-      <i class="fa fa-chevron-right"></i>
-    </a>
-    {% endif %}
-  </div>
-  {% endif %}
-</div>
+  </h3>
+  <p class="meta">{{ news.date | date: "%B %-d, %Y" }}</p>
+  <p class="excerpt">{{ news.excerpt }}</p>
+  <a class="button" href="{{ news.url | relative_url }}">
+    {{ site.theme_settings.str_continue_reading }}
+  </a>
+{% endfor %}

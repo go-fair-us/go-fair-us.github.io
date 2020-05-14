@@ -69,6 +69,13 @@ theme_settings:
 paginate: 5
 paginate_path: "blog/page:num"
 
+# COLLECTIONS
+collections:
+  events:
+    output: true
+  news:
+    output: true
+
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge
@@ -84,3 +91,5 @@ exclude:
   - assets/css/desktop.ini
   - assets/img/desktop.ini
   - assets/js/desktop.ini
+  - _events/desktop.ini
+  - _news/desktop.ini

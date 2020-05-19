@@ -4,53 +4,72 @@ layout: default
 
 <div class="home">
   {% if site.theme_settings.header_text %}
-  <div class="call-out"
-  style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
+  <div class="call-out" style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
     {{ site.theme_settings.header_text }}
   </div>
   {% endif %}
 
-  <div class="posts">
-    {% for post in paginator.posts %}
-    <div class="post-teaser">
-      <header>
-        <h1>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title }}
-          </a>
-        </h1>
-        <p class="meta">
-          {{ post.date | date: "%B %-d, %Y" }}
-        </p>
-      </header>
-      <div class="excerpt">
-        {{ post.excerpt }}
-        <a class="button" href="{{ post.url | relative_url }}">
-          {{ site.theme_settings.str_continue_reading }}
-        </a>
+  <div class="flex-row">
+    <div class="flex-col" id="vl-border">
+      <div id="news-section">
+        <h2>
+          <i class="fa fa-paper-plane"></i>
+          News
+        </h2>
+        <ul class="recent-list">
+          {% assign sorted = site.news | sort: "date" | reverse %}
+          {% for news in sorted limit:5 %}
+          <li class="recent-item">
+            <div class="item-date meta">
+              {{ news.date | date_to_string }}
+            </div>
+            <div class="item-content">
+              <h4>
+                <a href="{{ news.url | prepend: site.baseurl }}">
+                  {{ news.title }}
+                </a>
+              </h4>
+            </div>
+          </li>
+          {% endfor %}
+        </ul>
+        <p><a href="/news">All News</a></p>
       </div>
     </div>
-    {% endfor %}
+    <div class="flex-col">
+      <div id="events-section">
+        <h2>
+          <i class="fas fa-calendar-alt"></i>
+          Events
+        </h2>
+        <ul class="recent-list">
+          {% assign sorted = site.events | sort: "date" %}
+          {% for event in sorted limit:3 %}
+          <li class="recent-item">
+            <div class="item-date meta">
+              {{ event.date | date_to_string }}
+            </div>
+            <div class="item-content">
+              <h4>
+                <a href="{{ event.url | prepend: site.baseurl }}">
+                  {{ event.title }}
+                </a>
+              </h4>
+            </div>
+          </li>
+          {% endfor %}
+        </ul>
+        <p><a href="/events">All Events</a></p>
+      </div>
+      <hr>
+      <div id="twitter-section">
+        <h2>
+          <i class="fab fa-twitter"></i>
+          Tweets
+        </h2>
+        <a class="twitter-timeline" href="https://twitter.com/gofairus?ref_src=twsrc%5Etfw">Tweets by gofairus</a>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
+    </div>
   </div>
-
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url | replace: '//', '/' }}" class="button" >
-      <i class="fa fa-chevron-left"></i>
-      {{ site.theme_settings.str_previous_page }}
-    </a>
-    {% endif %}
-    {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url | replace: '//', '/' }}" class="button" >
-      {{ site.theme_settings.str_next_page }}
-      <i class="fa fa-chevron-right"></i>
-    </a>
-    {% endif %}
-  </div>
-  {% endif %}
 </div>
-
-<br />
-
-<a class="twitter-timeline" href="https://twitter.com/gofairus?ref_src=twsrc%5Etfw">Tweets by gofairus</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

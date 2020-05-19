@@ -36,12 +36,7 @@ a.button {
     transition: all .1s linear;
   }
 }
-.body-link {
-  &:hover {
-    text-decoration: underline;
-    color: darken($link-color, 15%);
-  }
-}
+
 // States
 .disabled {
   opacity: 0.7;

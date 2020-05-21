@@ -40,3 +40,11 @@ The GO FAIR US Support and Coordination Office will disseminate, support and coo
 </ul>
 <p><strong>Declaration</strong><br />
 The US GO FAIR office is actively seeking partners to join in the declaration and suggest ways of building and connecting the US ecosystem for an Internet of FAIR data &amp; services: <a href="https://drive.google.com/file/d/1DuKGqH6jpqTQ87iaqTjb0Vb50R1USQz3/view" target="_blank" rel="noopener noreferrer">GO FAIR US Declaration</a>.</p>
+
+<h3>Partners</h3>
+
+<p>Go FAIR US has engaged with these important partners. Click on the logos to learn more.</p>
+
+<p><a href="https://www.sdsc.edu/" title="SDSC Website and Logo"><img src="../assets/img/partners/sdsc-partner-logo.jpg" alt="SDSC Logo"> <a href="https://renci.org/" title="RENCI Website and Logo"><img src="../assets/img/partners/renci-partner-logo.jpg" alt="RENCI Logo"></a> <a href="https://datascienceconsortium.org/" title="NCDS Website and Logo"><img src="../assets/img/partners/ncds-partner-logo.jpg" alt="NCDS Logo"></a>
+
+

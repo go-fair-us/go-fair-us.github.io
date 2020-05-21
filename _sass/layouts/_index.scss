@@ -52,9 +52,8 @@
 
 .flex-col {
   display: flex;
-  flex-basis: 0;
+  flex: 1 1 0px;
   flex-direction: column;
-  flex-grow: 1;
   margin: 2.5% 2.5% 2.5% 2.5%;
 
   h2 {
@@ -64,6 +63,40 @@
   .fa, .fab, .fas {
     margin-right: 0.3em;
     color: $hover-color;
+  }
+
+  .all-content-link {
+    font-weight: bold;
+    position: relative;
+
+    &:hover {
+      color: $text-color;
+    }
+
+    &::before {
+      background: $selection-color;
+      content: '';
+      position: absolute;
+      bottom: -6px;
+      left: 0;
+      width: 100%;
+      height: 3px;
+    }
+
+    &::after {
+      background: $hover-color;
+      content: '';
+      position: absolute;
+      bottom: -6px;
+      left: 0;
+      width: 0;
+      height: 3px;
+      transition: width .2s linear;
+    }
+
+    &:hover::after {
+      width: 100%;
+    }
   }
 }
 
@@ -87,10 +120,19 @@
     h4 {
       margin: 0;
     }
+  }
 }
+
+.section {
+  text-align: center;
+
+  h2 {
+    color: $link-color;
+  }
 }
 
 #vl-border {
   border: 0;
-  border-right: 1px solid $border-color;
+  border-right: 2px solid $border-color;
+  margin-bottom: 2.5%;
 }

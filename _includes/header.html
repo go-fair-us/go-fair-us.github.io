@@ -15,11 +15,7 @@
 	</div>
 	<nav class="site-nav">
 		<ul>
-			{% if site.theme_settings.site_navigation_sort %}
-			{% assign site_pages = site.pages | sort: site.theme_settings.site_navigation_sort %}
-			{% else %}
-			{% assign site_pages = site.pages %}
-			{% endif %}
+			{% assign site_pages = site.pages | sort:"order" %}
 			{% for page in site_pages %}
 			{% if page.title and page.hide != true %}
 			<li>

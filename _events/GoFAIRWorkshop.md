@@ -1,16 +1,15 @@
 ---
 layout: post
 title: Go FAIR Workshop
+date: 2020-02-25
+date2: 2020-02-27
+location: Atlanta, Georgia
 tags: [Workshop, Go FAIR North America Network]
 ---
 
-# Go FAIR Workshop
-
-## Atlanta, Georgia, February 25-27, 2020
-
 Everybody knows the [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples), am I right? Those things everyone talks about, writes about, references whenever data management comes up?
 
-But what do they mean? 
+But what do they mean?
 
 They are not rules.
 They are not a standard.
@@ -70,7 +69,7 @@ Several presentations stressed the importance of ontology use in FAIR-izing data
 
 ### FAIR Training
 
-Some practical advice was given on creating FAIR training and workshops. 
+Some practical advice was given on creating FAIR training and workshops.
 Chris Erdmann shared his experiences with coordinating and instructing for  FAIR training, and Natalie Meyers presented a FAIR primer on holding an event/workshop. Christine Kirkpatrick gave an excellent and highly amusing presentation on pedagogy, and Nancy J. Hoebelheinrich presented on where we can find resources for finding training materials.
 
 ### Reflections

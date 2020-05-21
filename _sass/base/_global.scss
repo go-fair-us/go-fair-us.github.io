@@ -34,6 +34,12 @@ h1, h2, h3, h4, h5, h6 {
   a {
     color: $link-color;
   }
+
+  a:hover {
+    color: $hover-color;
+    text-decoration: none;
+    transition: all .1s linear;
+    }
 }
 h1 {
   font-size: 2.5em;
@@ -106,7 +112,7 @@ ol, ul {
 }
 hr {
   border: 0;
-  border-top: 1px solid $border-color;
+  border-top: 2px solid $border-color;
   border-bottom: 1px solid #fff;
   margin: 1em 0;
 }

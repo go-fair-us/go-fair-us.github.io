@@ -3,7 +3,7 @@ layout: page
 title: FAIR Principles
 permalink: /principles/
 feature-img: "assets/img/gofair_background.jpg"
-order: 2
+order: 5
 ---
 
 

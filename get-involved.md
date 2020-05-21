@@ -4,7 +4,7 @@ title: Get Involved
 feature-title: Get Involved with GO FAIR US
 permalink: /get-involved/
 feature-img: "assets/img/gofair_background.jpg"
-order: 4
+order: 2
 ---
 
 There are several ways to connect with Go FAIR US:

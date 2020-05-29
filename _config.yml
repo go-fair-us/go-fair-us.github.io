@@ -90,6 +90,7 @@ exclude:
   - assets/desktop.ini
   - assets/css/desktop.ini
   - assets/img/desktop.ini
+  - assets/img/partners/desktop.ini
   - assets/js/desktop.ini
   - _events/desktop.ini
   - _news/desktop.ini

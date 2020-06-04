@@ -94,3 +94,5 @@ exclude:
   - assets/js/desktop.ini
   - _events/desktop.ini
   - _news/desktop.ini
+  - assets/img/events/desktop.ini
+  - assets/img/news/desktop.ini

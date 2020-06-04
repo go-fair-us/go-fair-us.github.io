@@ -14,22 +14,22 @@ hide: true
 <script>
   window.store = {
     {% assign collections = site.collections | where_exp: "collection", "collection.label != 'posts'" %}
-  {% for collection in collections %}
-  {% assign name = collection.label %}
-  {% for post in site[name] %}
-  "{{ post.url | slugify }}": {
-    "title": "{{ post.title | xml_escape }}",
-      "tags": "{{ post.tags | join: ', ' }}",
-        "date": "{{ post.date | date: '%B %-d, %Y' }}",
+    {% for collection in collections %}
+      {% assign name = collection.label %}
+      {% for post in site[name] %}
+        "{{ post.url | slugify }}": {
+          "title": "{{ post.title | xml_escape }}",
+          "tags": "{{ post.tags | join: ', ' }}",
+          "date": "{{ post.date | date: '%B %-d, %Y' }}",
           "author": "{{ post.author | xml_escape }}",
-            "category": "{{ post.category | xml_escape }}",
-              "content": { { post.content | strip_html | strip_newlines | jsonify } },
-    "url": "{{ site.baseurl }}/{{ post.url | xml_escape }}"
-  }
-  {% unless forloop.last %}, {% endunless %}
-  {% endfor %}
-  {% unless forloop.last %}, {% endunless %}
-  {% endfor %}
+          "category": "{{ post.category | xml_escape }}",
+          "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+          "url": "{{ site.baseurl }}/{{ post.url | xml_escape }}"
+        }
+        {% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+      {% unless forloop.last %}, {% endunless %}
+    {% endfor %}
   };
 </script>
 

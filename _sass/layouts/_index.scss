@@ -125,6 +125,21 @@
 
 .section {
   text-align: center;
+
+  h2 {
+    color: $link-color;
+    margin-bottom: 0.7%;
+  }
+
+  a {
+    color: $link-color;
+    transition: 0.1s color linear;
+
+    &:hover {
+      color: $hover-color;
+      transition: 0.1s color linear;
+    }
+  }
 }
 
 .home-call-out {

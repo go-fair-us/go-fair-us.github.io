@@ -1,6 +1,6 @@
 ## Contribute & share
 
-Go FAIR US welcomes FAIR-related news and events posts from our community members. See [Get Involved](get-involved/) to see how you can be a member of the community and use the following three channels to share your ideas:  
+Go FAIR US welcomes FAIR-related news and events posts from our community members. See [Get Involved](https://go-fair-us.github.io/get-involved/) to see how you can be a member of the community and use the following three channels to share your ideas:  
 
 - Slack
 - Google Group
@@ -18,7 +18,7 @@ We recommend three options to format your content in Markdown:
 
 ### Contributing news & events posts
 
-1.  Draft posts go in the `_drafts` folder
+1.  Draft posts go in the `drafts` folder
 
 1.  Copy and use the news and events [template]() for your post
 

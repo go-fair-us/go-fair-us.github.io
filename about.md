@@ -6,6 +6,10 @@ feature-img: "assets/img/gofair_background.jpg"
 order: 1
 ---
 
+<div class="about-img">
+    <img src="../assets/img/Adv_FAIR_Group.jpg" alt="Advancing FAIR in US Atlanta Workshop Group Photo" height="350" />
+    <p>GO FAIR Professional Development Workshop to Advance FAIR and GO FAIR in the US, held at Georgia Tech’s Coda building, Atlanta, GA, February 25-27, 2020</p>
+</div>
 <p>The <strong>GO FAIR USA Support and Coordination office</strong> is hosted by the US National Data Services (NDS) at the San Diego Supercomputer Center (SDSC), University of California San Diego. The US NDS was founded by a consortium that included academia, government, infrastructure providers, and non-profit institutions interested in creating and bridging evolving technologies and platforms that support the publication, discovery, and reuse of data. GO FAIR USA was established in February 2019 as one of the first GO FAIR national offices, see a press release announcing the office start.</p>
 <p><strong>Address</strong><br />
 GO FAIR US Support and Coordination Office, c/o Christine Kirkpatrick<br />

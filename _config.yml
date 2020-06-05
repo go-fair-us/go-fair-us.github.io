@@ -44,7 +44,7 @@ theme_settings:
   google_analytics: "UA-164622183-1"
   disqus_shortname:
   katex: true # Enable if using math markup
-  search: false # Enable the search feature
+  search: true # Enable the search feature
 
   # Localization strings
   str_follow_on: "Follow on"
@@ -90,6 +90,9 @@ exclude:
   - assets/desktop.ini
   - assets/css/desktop.ini
   - assets/img/desktop.ini
+  - assets/img/partners/desktop.ini
   - assets/js/desktop.ini
   - _events/desktop.ini
   - _news/desktop.ini
+  - assets/img/events/desktop.ini
+  - assets/img/news/desktop.ini

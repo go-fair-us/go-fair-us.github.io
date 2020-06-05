@@ -128,6 +128,36 @@
 
   h2 {
     color: $link-color;
+    margin-bottom: 0.7%;
+  }
+
+  a {
+    color: $link-color;
+    transition: 0.1s color linear;
+
+    &:hover {
+      color: $hover-color;
+      transition: 0.1s color linear;
+    }
+  }
+}
+
+.home-call-out {
+  padding: 2.5% 5%;
+}
+
+.home-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: left;
+
+  .home-img {
+    text-align: center;
+  }
+
+  h2 {
+    text-align: center;
   }
 }
 

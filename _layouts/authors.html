@@ -1,0 +1,46 @@
+---
+layout: page
+---
+
+<!-- get list of all authors across collections -->
+{% assign author_list = "" | split: "," %}
+{% for collection in site.collections %}
+    {% assign name = collection.label %}
+    {% assign collection_authors = site[name] | map: 'author' | join: ',' | split: ',' | uniq %}
+    {% for coll_auth in collection_authors %}
+        {% assign author_list = author_list | push: coll_auth %}
+    {% endfor %}
+{% endfor %}
+{% assign author_list = author_list | sort | uniq %}
+
+<!-- loops through author_list to create subheader for each author name -->
+{% for index in (0..author_list.size) %}
+    {% unless forloop.last %}
+    {% assign this_auth = author_list[index] | strip_newlines %}
+    <h2 id="{{ this_auth | cgi_escape }}" class="tag-title">
+        {{ this_auth }}
+    </h2>
+    <!-- lists all posts corresponding to author -->
+    {% assign all_posts = "" | split: ',' %}
+    {% for collection in site.collections %}
+        {% assign name = collection.label %}
+        {% assign posts = site[name] | where_exp: "post", "post.author == this_auth" %}
+        {% for post in posts %}
+            {% assign all_posts = all_posts | push: post %}
+        {% endfor %}
+    {% endfor %}
+    {% assign all_posts = all_posts | sort: 'date' | reverse %}
+    {% for post in all_posts %}
+        <div class="tagged-post">
+            <h3 class="title">
+                <a href="{{ post.url | relative_url }}">
+                    {{ post.title }}
+                </a>
+            </h3>
+            <div class="meta">
+                {{ post.date | date: "%B %-d, %Y" }}
+            </div>
+        </div>
+    {% endfor %}
+    {% endunless %}
+{% endfor %}

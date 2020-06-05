@@ -72,21 +72,19 @@
 
     /* --- Search form --- */
     form {
-        border: 0;
-        border-bottom: 2px solid $search-color;
-        outline: 0;
 
         *:focus {
             outline: none;
         }
 
-        input{
-          width: 95%;
+        input {
+          border: none;
+          width: 30%;
 
             &[type=text] {
                 box-sizing: border-box;
-                border: 0;
-                outline: 0;
+                border-bottom: 2px solid $search-color;
+                outline: none 0;
                 color: $search-color;
             }
 

@@ -47,7 +47,7 @@
 .flex-row {
   display: flex;
   justify-content: space-evenly;
-  margin: 0 2.5%;
+  margin: 2.5% 2.5% 0 2.5%;
 }
 
 .flex-col {
@@ -147,17 +147,55 @@
 }
 
 .home-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
+  margin: auto 10%;
   text-align: left;
-
-  .home-img {
-    text-align: center;
-  }
 
   h2 {
     text-align: center;
+  }
+}
+
+.about-img {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.read-more {
+  font-weight: bold;
+  position: relative;
+  color: $link-color;
+  transition: 0.1s color linear;
+
+  &:hover {
+    color: $background-color;
+    transition: 0.1s color linear;
+  }
+
+  &::before {
+    background: $selection-color;
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    left: 0;
+    width: 100%;
+    height: 3px;
+  }
+
+  &::after {
+    background: $hover-color;
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: width .2s linear;
+  }
+
+  &:hover::after {
+    width: 100%;
   }
 }
 

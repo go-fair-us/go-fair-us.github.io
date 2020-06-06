@@ -11,13 +11,24 @@ layout: null
     <language>en-us</language>
     <copyright>Except where otherwise noted, content on this website is licensed under a Creative Commons Attribution 4.0 International License by GO FAIR US.</copyright>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    {% for post in site.posts limit:15 %}
+    {% assign sorted = site.news | sort: "date" | reverse %}
+    {% for news in sorted limit:15 %}
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <link>{{ post.url | relative_url }}</link>
-        <guid isPermaLink="true">{{ post.url | relative_url }}</guid>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <title>{{ news.title | xml_escape }}</title>
+        <link>{{ news.url | relative_url }}</link>
+        <guid isPermaLink="true">{{ news.url | relative_url }}</guid>
+        <description>{{ news.excerpt | xml_escape }}</description>
+        <pubDate>{{ news.date | date_to_rfc822 }}</pubDate>
+      </item>
+    {% endfor %}
+    {% assign sorted = site.events | sort: "date" | reverse %}
+    {% for events in sorted limit:15 %}
+      <item>
+        <title>{{ events.title | xml_escape }}</title>
+        <link>{{ events.url | relative_url }}</link>
+        <guid isPermaLink="true">{{ events.url | relative_url }}</guid>
+        <description>{{ events.excerpt | xml_escape }}</description>
+        <pubDate>{{ events.date | date_to_rfc822 }}</pubDate>
       </item>
     {% endfor %}
   </channel>

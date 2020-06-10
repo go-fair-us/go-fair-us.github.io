@@ -5,19 +5,19 @@ permalink: /about/
 feature-img: "assets/img/gofair_background.jpg"
 order: 1
 ---
-
+<a href="" title=""></a>
 <h3>Background</h3>
 
-<p>The GO FAIR USA Support and Coordination Office is hosted by the US National Data Services (NDS) at the <a href="https://www.sdsc.edu/" title="San Diego Supercomputer Center (SDSC)">San Diego Supercomputer Center (SDSC)</a>, University of California San Diego. The US NDS was founded by a consortium that included academia, government, infrastructure providers, and non-profit institutions interested in creating and bridging evolving technologies and platforms that support the publication, discovery, and reuse of data. GO FAIR USA was established in February 2019 as one of the first GO FAIR national offices, see the [press release](https://www.sdsc.edu/News%20Items/PR20190228_RDS_GOFAIR.html) announcing the office start along with the [declaration](https://drive.google.com/file/d/1DuKGqH6jpqTQ87iaqTjb0Vb50R1USQz3/view).</p>
+<p>The GO FAIR US Support and Coordination Office is hosted by the US National Data Services (NDS) at the <a href="https://www.sdsc.edu/" title="San Diego Supercomputer Center (SDSC)">San Diego Supercomputer Center (SDSC)</a>, University of California San Diego. The US NDS was founded by a consortium that included academia, government, infrastructure providers, and non-profit institutions interested in creating and bridging evolving technologies and platforms that support the publication, discovery, and reuse of data. GO FAIR US was established in February 2019 as one of the first GO FAIR national offices, see the <a href="https://www.sdsc.edu/News%20Items/PR20190228_RDS_GOFAIR.html" title="GO FAIR US Press Release">press release</a> announcing the office start along with the <a href="https://drive.google.com/file/d/1DuKGqH6jpqTQ87iaqTjb0Vb50R1USQz3/view" title="Go FAIR US Declaration">declaration</a></p>
 
 <h3>Team</h3>
 
 <ul>
-<li>[Christine Kirkpatrick](https://www.linkedin.com/in/kirkpatrickchristine/), Division Director, Research Data Services (RDS), SDSC & Executive Director, US National Data Service</li>
-<li>[Dr. Melissa Cragin](https://www.linkedin.com/in/melissa-cragin-90365a36/), Chief Strategist of Data Initiatives, RDS, SDSC</li>
-<li>[Juliane Schneider](https://www.linkedin.com/in/juliane-schneider-4a06535), MLIS, Team Lead, eagle-i. Harvard Catalyst, Clinical and Translational Science Center</li>
-<li>Chris Erdmann https://www.linkedin.com/in/christopher-erdmann-1213a456/, MLIS, Engagement, Support, Training Expert, Renaissance Computing Institute (RENCI) at UNC, NHLBI BioData Catalyst</li>
-[Ryan Nakashima](https://www.linkedin.com/in/ryannakashima/), Manager of Client Services, RDS, SDSC</li>
+<li><a href="https://www.linkedin.com/in/kirkpatrickchristine/" title="Christine Kirkpatrick">Christine Kirkpatrick</a>, Division Director, Research Data Services (RDS), SDSC & Executive Director, US National Data Service</li>
+<li><a href="https://www.linkedin.com/in/melissa-cragin-90365a36/" title="Dr. Melissa Cragin">Dr. Melissa Cragin</a>, Chief Strategist of Data Initiatives, RDS, SDSC</li>
+<li><a href="https://www.linkedin.com/in/juliane-schneider-4a06535" title="Juliane Schneider">Juliane Schneider</a>, MLIS, Team Lead, eagle-i. Harvard Catalyst, Clinical and Translational Science Center</li>
+<li><a href="https://www.linkedin.com/in/christopher-erdmann-1213a456/" title="hris Erdmann">Chris Erdmann</a>, MLIS, Engagement, Support, Training Expert, Renaissance Computing Institute (RENCI) at UNC, NHLBI BioData Catalyst</li>
+<li><a href="https://www.linkedin.com/in/ryannakashima/" title="Ryan Nakashima">Ryan Nakashima</a>, Manager of Client Services, RDS, SDSC</li>
 </ul>
 
 
@@ -34,7 +34,7 @@ order: 1
 <li>Highlight and foster community discussions on the topic of FAIR (e.g. FAIR in AI, software, data science, reproducible workflows)</li>
 <li>Be a place where FAIR training and assessment approaches and material can be shared and advanced collaboratively</li>
 <li>Liaise with GO FAIR International Support and Coordination Office (GFISCO)</li>
-<li>Build awareness of GO FAIR implementation network (https://www.go-fair.org/implementation-networks/) activities in the US and worldwide</li>
+<li>Build awareness of <a href="https://www.go-fair.org/implementation-networks/" title="GO FAIR Implementation Network (IN)">GO FAIR Implementation Network (IN)</a> activities in the US and worldwide</li>
 </ul>
 
 </p>

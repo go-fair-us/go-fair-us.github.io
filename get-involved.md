@@ -20,7 +20,7 @@ There are several ways to connect with Go FAIR US:
 
   <li><a href="https://github.com/go-fair-us">GitHub Organization</a>. Submit issues/pull requests to Go FAIR US resources on GitHub.</li><br />
 
-  <li><a href="">Contact Form</a>. Send the Go FAIR US Steering Committee general inquiries.</li><br />
+  <li><a href="mailto:christine@sdsc.edu&cc=mcragin@sdsc.edu,erdmannc@renci.org,Juliane_Schneider@hms.harvard.edu&subject=Go%20FAIR%20US%20Inquiry">Contact/a>. Send Go FAIR US general inquiries.</li><br />
 </ul>
 
 <p>Go FAIR US is dedicated to <strong>providing a harassment-free experience for everyone</strong>, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of community members in any form. Sexual language and imagery is generally not appropriate for any venue, including meetings, presentations, and discussions.</p>

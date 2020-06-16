@@ -5,17 +5,30 @@ layout: null
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ site.theme_settings.title | xml_escape }}</title>
-    <atom:link href="{{ "/feed.xml" | relative_url }}" rel="self" type="application/rss+xml"/>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <atom:link href="{{ site.url }}feed.xml" rel="self" type="application/rss+xml"/>
+    <link>{{ site.url }}</link>
     <description>{{ site.theme_settings.description | xml_escape }}</description>
+    <language>en-us</language>
+    <copyright>Except where otherwise noted, content on this website is licensed under a Creative Commons Attribution 4.0 International License by GO FAIR US.</copyright>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    {% for post in site.posts limit:15 %}
+    {% assign sorted = site.news | sort: "date" | reverse %}
+    {% for news in sorted limit:15 %}
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <link>{{ post.url | relative_url }}</link>
-        <guid isPermaLink="true">{{ post.url | relative_url }}</guid>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <title>{{ news.title | xml_escape }}</title>
+        <link>{{ site.url }}{{ news.url | relative_url }}</link>
+        <guid isPermaLink="true">{{ site.url }}{{ news.url | relative_url }}</guid>
+        <description>{{ news.excerpt | xml_escape }}</description>
+        <pubDate>{{ news.date | date_to_rfc822 }}</pubDate>
+      </item>
+    {% endfor %}
+    {% assign sorted = site.events | sort: "date" | reverse %}
+    {% for events in sorted limit:15 %}
+      <item>
+        <title>{{ events.title | xml_escape }}</title>
+        <link>{{ site.url }}{{ events.url | relative_url }}</link>
+        <guid isPermaLink="true">{{ site.url }}{{ events.url | relative_url }}</guid>
+        <description>{{ events.excerpt | xml_escape }}</description>
+        <pubDate>{{ events.date | date_to_rfc822 }}</pubDate>
       </item>
     {% endfor %}
   </channel>

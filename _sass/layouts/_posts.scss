@@ -15,19 +15,22 @@ article {
     margin: 0;
   }
   header {
-    margin-bottom: 6%;
+    margin-bottom: 0%;
     text-align: center;
   }
-  a {
-    @extend .body-link;
-  }
+
   .footnotes {
     font-size: 0.9em;
   }
 }
 header {
   h1 {
+    font-size: 3em;
     margin: 0;
+  }
+
+  .post-title {
+    color: $link-color;
   }
 }
 .meta {
@@ -46,7 +49,7 @@ header {
     color: $feature-image-text-color;
     background-size: $feature-image-size;
     margin-bottom: 0;
-    padding: $padding-large/2.5 $padding-large;
+    padding: $padding-small;
     .meta {
       color: rgba($feature-image-text-color, .7);
     }

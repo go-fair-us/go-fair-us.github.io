@@ -1,25 +1,23 @@
 # SITE CONFIGURATION
-baseurl: "/gofairna"
-url: "https://libcce.github.io/"
+baseurl:
+url: "https://go-fair-us.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: GO FAIR North America Network
+  title: GO FAIR US
   avatar: assets/img/logo.svg
-  favicon: assets/favicon.ico
+  favicon: assets/gofair_favicon.ico
   gravatar: # Email MD5 hash
-  description: "GO FAIR North America Network : Advancing FAIR in North America" # used by search engines
+  description: "GO FAIR US : Advancing FAIR in the US" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Advancing FAIR in North America</p>
-  header_text_feature_image: 
-  footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
-
+     <h1 class="title">Advancing FAIR in the US</h1>
+  header_text_feature_image: assets/img/gofair_background.jpg
+  # footer text located in includes / footer
   # Icons
-  rss: false
+  rss: true
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
@@ -27,7 +25,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "libcce/gofairna"
+  github: go-fair-us
   gitter:
   google_plus:
   instagram:
@@ -38,12 +36,12 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter:
+  twitter: gofairus
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-164622183-1"
   disqus_shortname:
   katex: true # Enable if using math markup
   search: false # Enable the search feature
@@ -65,11 +63,18 @@ theme_settings:
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
 
   # Post navigation
-  post_navigation: false
+  post_navigation: true
 
 # PAGINATION
 paginate: 5
 paginate_path: "blog/page:num"
+
+# COLLECTIONS
+collections:
+  events:
+    output: true
+  news:
+    output: true
 
 # BUILD SETTINGS
 markdown: kramdown
@@ -81,3 +86,13 @@ plugins: [jekyll-paginate]
 exclude:
   - Gemfile
   - Gemfile.lock
+  - desktop.ini
+  - assets/desktop.ini
+  - assets/css/desktop.ini
+  - assets/img/desktop.ini
+  - assets/img/partners/desktop.ini
+  - assets/js/desktop.ini
+  - _events/desktop.ini
+  - _news/desktop.ini
+  - assets/img/events/desktop.ini
+  - assets/img/news/desktop.ini

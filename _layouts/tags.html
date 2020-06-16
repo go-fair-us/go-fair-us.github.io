@@ -2,30 +2,45 @@
 layout: page
 ---
 
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign tag_words = site_tags | split:',' | sort %}
+<!-- get list of all tags across collections -->
+{% assign tag_words = "" | split: "," %}
+{% for collection in site.collections %}
+{% assign name = collection.label %}
+{% assign collection_tags = site[name] | map: 'tags' | join: ',' | split: ',' | uniq %}
+{% for coll_tag in collection_tags %}
+{% assign tag_words = tag_words | push: coll_tag %}
+{% endfor %}
+{% endfor %}
+{% assign tag_words = tag_words | sort | uniq %}
 
-<!-- cycles through tag list and creates subheader for each tag name -->
-{% for item in (0..site.tags.size) %}
-  {% unless forloop.last %}
-    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-    <h2 id="{{ this_word | cgi_escape }}" class="tag-title">
-      #{{ this_word }}
-    </h2>
-    <!-- lists all posts corresponding to specific tag -->
-    {% for post in site.tags[this_word] %}
-      {% if post.title != null %}
-        <div class="tagged-post">
-          <h3 class="title">
-            <a href="{{ post.url | relative_url }}">
-              {{ post.title }}
-            </a>
-          </h3>
-          <div class="meta">
-            {{ post.date | date: "%B %-d, %Y" }}
-          </div>
-        </div>
-      {% endif %}
-    {% endfor %}
-  {% endunless %}
+<!-- loops through tag_words to create subheader for each tag name -->
+{% for index in (0..tag_words.size) %}
+{% unless forloop.last %}
+{% assign this_tag = tag_words[index] | strip_newlines %}
+<h2 id="{{ this_tag | cgi_escape }}" class="tag-title">
+  #{{ this_tag }}
+</h2>
+<!-- lists all posts corresponding to tag -->
+{% assign all_posts = "" | split: ',' %}
+{% for collection in site.collections %}
+{% assign name = collection.label %}
+{% assign posts = site[name] | where_exp: "post", "post.tags contains this_tag" %}
+{% for post in posts %}
+{% assign all_posts = all_posts | push: post %}
+{% endfor %}
+{% endfor %}
+{% assign all_posts = all_posts | sort: 'date' | reverse %}
+{% for post in all_posts %}
+<div class="tagged-post">
+  <h3 class="title">
+    <a href="{{ post.url | relative_url }}">
+      {{ post.title }}
+    </a>
+  </h3>
+  <div class="meta">
+    {{ post.date | date: "%B %-d, %Y" }}
+  </div>
+</div>
+{% endfor %}
+{% endunless %}
 {% endfor %}

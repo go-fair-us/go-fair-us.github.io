@@ -4,7 +4,9 @@ Go FAIR US welcomes FAIR-related news and events posts from our community member
 
 - Slack
 - Google Group
-- Contact Form
+- Twitter
+- GitHub
+- Contact Us
 
 ### Drafting and formatting content
 

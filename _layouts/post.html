@@ -10,6 +10,7 @@ layout: default
       {% if page.author %} - <a href="{{site.baseurl}}/authors#{{ page.author | cgi_escape }}">{{ page.author }}</a>{% endif %}
     </p>
   </header>
+  <p></p>
   <section class="post-content">{{ content }}</section>
   {% include tags_list.html tags=page.tags tag_count=page.tags.size %}
 </article>

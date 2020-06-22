@@ -15,6 +15,7 @@ order: 3
     </a>
   </h3>
   <p class="meta">{{ news.date | date: "%B %-d, %Y" }}</p>
+  <p></p>
   <p class="excerpt">{{ news.excerpt }}</p>
   <a class="button" href="{{ news.url | relative_url }}">
     {{ site.theme_settings.str_continue_reading }}

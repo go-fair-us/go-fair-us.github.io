@@ -8,7 +8,7 @@ author: Juliane Schneider
 tags: ["Workshop", "Atlanta", "Go FAIR US"]
 ---
 
-In the research community, we hear more and more about the  [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples)but what do they mean?
+In the research community, we hear more and more about the  [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples) but what do they mean?
 
 - They are not rules.
 - They are not a standard.
@@ -21,7 +21,7 @@ Facilitate development of a community of practice for FAIR awareness and capacit
 Improve understanding of FAIR technologies, and how to teach this to others; and,
 Preparation for teaching or supporting FAIR data management and policies for researchers, local institutions, professional organizations, and others.
 
-* See [Workshop Materials and Presentations](https://drive.google.com/drive/folders/1Ijdvq7m4ZBcjTNL6DTRBUchP1XIHlpti) *
+_See [Workshop Materials and Presentations](https://drive.google.com/drive/folders/1Ijdvq7m4ZBcjTNL6DTRBUchP1XIHlpti)_
 
 ### Workshop Overview
 
@@ -38,7 +38,7 @@ Workshop participants presented on different aspects of FAIR including:
 
 Don’t let your research data be lonely! Using the FAIR data principles in research data management (RDM) creates an excellent basis for connection. The research community  will be able to discover and possibly access and reuse your FAIR data with or without permission through machine communication channels.
 
-###FAIR Engagement
+### FAIR Engagement
 
 How can we help individuals and institutions translate what FAIR means to their own work?
 

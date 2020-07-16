@@ -11,7 +11,7 @@ Today, July 17, 2020, we are announcing the launch of the Go FAIR US website. Th
 
 Want to [get involved](https://go-fair-us.github.io/get-involved/)? There are number of options including our [email list](https://groups.google.com/forum/#!forum/gofairus) and [Slack channel](https://join.slack.com/t/gofair/signup). If you have US FAIR-related news and/or events to share, see [how you can contribute](https://github.com/go-fair-us/go-fair-us.github.io/blob/master/_drafts/contributing-instructions.md). Or [reach out to us](mailto:christine@sdsc.edu&cc=mcragin@sdsc.edu,erdmannc@renci.org,Juliane_Schneider@hms.harvard.edu&subject=Go%20FAIR%20US%20Inquiry) if you would like to become a partner. 
 
-Special thank you to Henry Chan, a software engineering intern at ServiceNow (previously with SDSC) for helping our team develop the website. 
+Special thank you to Henry Chan, software engineering intern at ServiceNow (previously with SDSC), for helping our team develop the website. 
 
 We hope this website along with associated communication channels will inspire further FAIR-related efforts in the US.
 

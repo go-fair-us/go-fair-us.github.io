@@ -21,7 +21,7 @@ Facilitate development of a community of practice for FAIR awareness and capacit
 Improve understanding of FAIR technologies, and how to teach this to others; and,
 Preparation for teaching or supporting FAIR data management and policies for researchers, local institutions, professional organizations, and others.
 
-_See [Workshop Materials and Presentations](https://drive.google.com/drive/folders/1Ijdvq7m4ZBcjTNL6DTRBUchP1XIHlpti)_
+_See [Workshop Materials and Presentations](https://drive.google.com/drive/folders/1Ijdvq7m4ZBcjTNL6DTRBUchP1XIHlpti) and [Notes from Maria Praetzellis](https://uc3.cdlib.org/2020/04/17/advancing-fair-and-go-fair-in-the-u-s-notes-from-the-workshop/)_
 
 ### Workshop Overview
 

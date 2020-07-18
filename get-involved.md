@@ -7,7 +7,7 @@ feature-img: "assets/img/gofair_background.jpg"
 order: 2
 ---
 
-There are several ways to connect with Go FAIR US:
+Connect with Go FAIR US:
 
 <ul>
   <li><a href="https://groups.google.com/forum/#!forum/gofairus">Google Group</a> Email List. Go FAIR US's main communication channel. Sign up to receive periodic updates.</li><br />
@@ -22,5 +22,15 @@ There are several ways to connect with Go FAIR US:
 
   <li><a href="https://forms.gle/qhvsb3ubCbEyCYQg6">Contact</a>. Send Go FAIR US general inquiries.</li><br />
 </ul>
+
+Deeper ways to engage:
+
+<ul>
+  <li>Join an <a href="https://www.go-fair.org/implementation-networks/" title="Go FAIR Implementation Networks">implementation network</a>.
+  <li>Contribute to the <a href="https://www.go-fair.org/metadata-for-machines/" title="Metadata for Machines">Metadata for Machines</a> Cookbook.
+  <li><a href="https://forms.gle/qhvsb3ubCbEyCYQg6" title="Contact Us">Contact us</a> to present on your FAIR initiative to the GO FAIR community.
+  <li>Submit a guest <a href="https://github.com/go-fair-us/go-fair-us.github.io/blob/master/_drafts/contributing-instructions.md" title="Contributing Instructions">event and/or news blog post</a>.
+</ul>
+
 
 <p>Go FAIR US is dedicated to <strong>providing a harassment-free experience for everyone</strong>, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of community members in any form and will take appropriate action should harassment occur. Respect, mindfulness, and awareness of potentially triggering content should be shown at all times. Sexual language and imagery is generally not appropriate for any venue, including meetings, presentations, and discussions.</p>

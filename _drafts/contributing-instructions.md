@@ -8,6 +8,12 @@ Go FAIR US welcomes FAIR-related news and events posts from our community member
 - GitHub
 - Contact Us
 
+Posts should include a paragraph on the relevance to the US GO FAIR organization and/or goals. Please try to address the following questions as part of your post or announcement:
+
+- What is the benefit or contribution to FAIR capacity in the U.S. (or geographic location)?
+- How does this address “Change, Train, or Build?”
+- Describe the role or relationship of this effort to US GO FAIR - specifically, how does being connected to GO FAIR US help this event, activity, or effort? (e.g. broaden reach, support main aims, provide in-kind support, etc.)
+
 ### Drafting and formatting content
 
 Our news & events content is formatted in [Markdown](https://guides.github.com/features/mastering-markdown/) and rendered by Jekyll as HTML. 

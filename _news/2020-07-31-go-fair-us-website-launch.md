@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Announcing the launch of the Go FAIR US website
-date: 2020-07-17
+date: 2020-07-31
 excerpt_separator: 
 author: Chris Erdmann
 tags: ["Go FAIR US", "Website Launch"]

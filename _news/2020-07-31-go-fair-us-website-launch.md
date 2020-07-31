@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Announcing the launch of the Go FAIR US website
+title: Announcing the launch of the GO FAIR US website
 date: 2020-07-31
 excerpt_separator: 
 author: Chris Erdmann
-tags: ["Go FAIR US", "Website Launch"]
+tags: ["GO FAIR US", "Website Launch"]
 ---
 
-Today, July 17, 2020, we are announcing the launch of the Go FAIR US website. The [GO FAIR Professional Development Workshop](https://uc3.cdlib.org/2020/04/17/advancing-fair-and-go-fair-in-the-u-s-notes-from-the-workshop/) (February 25-27, 2020) highlighted a need to create a place to connect FAIR stakeholders and foster a community where FAIR approaches can be shared, discussed, and advanced collaboratively. We see the website playing this central role to furthering [our goals](https://go-fair-us.github.io/about/).
+Today, July 17, 2020, we are announcing the launch of the GO FAIR US website. The [GO FAIR Professional Development Workshop](https://uc3.cdlib.org/2020/04/17/advancing-fair-and-go-fair-in-the-u-s-notes-from-the-workshop/) (February 25-27, 2020) highlighted a need to create a place to connect FAIR stakeholders and foster a community where FAIR approaches can be shared, discussed, and advanced collaboratively. We see the website playing this central role to furthering [our goals](https://gofair.us/about/).
 
-Want to [get involved](https://go-fair-us.github.io/get-involved/)? There are number of options including our [email list](https://groups.google.com/forum/#!forum/gofairus) and [Slack channel](https://join.slack.com/t/gofair/signup). If you have US FAIR-related news and/or events to share, see [how you can contribute](https://github.com/go-fair-us/go-fair-us.github.io/blob/master/_drafts/contributing-instructions.md). Or [reach out to us](mailto:christine@sdsc.edu&cc=mcragin@sdsc.edu,erdmannc@renci.org,Juliane_Schneider@hms.harvard.edu&subject=Go%20FAIR%20US%20Inquiry) if you would like to become a partner. 
+Want to [get involved](https://gofair.us/get-involved/)? There are number of options including our [email list](https://groups.google.com/forum/#!forum/gofairus) and [Slack channel](https://join.slack.com/t/gofair/signup). If you have US FAIR-related news and/or events to share, see [how you can contribute](https://github.com/go-fair-us/go-fair-us.github.io/blob/master/_drafts/contributing-instructions.md). Or [reach out to us](https://forms.gle/qhvsb3ubCbEyCYQg6) if you would like to become a partner. 
 
 Special thank you to Henry Chan, software engineering intern at ServiceNow (previously with SDSC), for helping our team develop the website. 
 

@@ -26,7 +26,7 @@ Connect with Go FAIR US:
 Deeper ways to engage:
 
 <ul>
-  <li>Join an <a href="https://www.go-fair.org/implementation-networks/" title="GO FAIR Implementation Networks">implementation network</a>.</li><br />
+  <li>Join an <a href="https://www.go-fair.org/implementation-networks/" title="GO FAIR Implementation Networks">Implementation Network (IN)</a>.</li><br />
   
   <li>Contribute to the <a href="https://www.go-fair.org/metadata-for-machines/" title="Metadata for Machines">Metadata for Machines</a> Handbook.</li><br />
   

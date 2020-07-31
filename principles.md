@@ -13,8 +13,8 @@ order: 5
 
 <p>F1. (meta)data are assigned a <u>globally unique and eternally persistent identifier.</u><br />
 	F2. data are described with <u>rich metadata.</u><br />
-	F3. (meta)data are <u>registered or indexed in a searchable resource.</u><br />
-	F4. metadata <u>specify</u> the data identifier.</p>
+	F3. metadata specify the data identifier. </u><br />
+	F4. (meta)data are registered or indexed in a searchable resource.</p>
 
 <h4>To be Accessible:</h4>
 

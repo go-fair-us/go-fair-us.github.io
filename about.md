@@ -32,7 +32,7 @@ order: 1
 <li>Connect and partner with FAIR stakeholders, e.g. researchers, infrastructure providers, institutions, publishers, agencies, industry, libraries, and funders.</li>
 <li>Highlight and foster community discussions on the topic of FAIR. For example, FAIR in AI, software, data science, model commons, new scholarship methods, e.g. notebooks.</li>
 <li>Be a place where FAIR training and assessment approaches and material can be shared and advanced collaboratively.</li>
-<li>Liaise with GO FAIR International Support and Coordination Office (GFISCO).</li>
+<li>Liaise with <href="https://urldefense.com/v3/__https://www.go-fair.org__;!!Mih3wA!TALJ_Jyi-bTbJXrztajxmjr48nBbWfnn528LZOo03jFlxOi-copLDUjJoV0sgLDG$">GO FAIR International Support and Coordination Office (GFISCO)</href>.</li>
 <li>Build awareness of <a href="https://www.go-fair.org/implementation-networks/" title="GO FAIR Implementation Network (IN)">GO FAIR Implementation Network (IN)</a> activities in the US and worldwide.</li>
 <li>Respond rapidly to evolving needs, such as integration and expansion of the Virus Outbreak Data Network (VODAN).</li>
 </ul>

@@ -14,7 +14,7 @@ In the research community, we hear more and more about the  [FAIR Data Principle
 - They are not a standard.
 - They are not a requirement.
 
-They **are** a way of reaching for best data practices, coming to a convergence on what those are, and how to get there. A group of roughly 40 community representatives came together on February 25-27, 2020 to discuss how to support FAIR in the United States with the following goals in mind: .
+They **are** a way of reaching for best data practices, coming to a convergence on what those are, and how to get there. A group of roughly 40 community representatives came together on February 25-27, 2020 to discuss how to support FAIR in the United States with the following goals in mind: 
 
 
 Facilitate development of a community of practice for FAIR awareness and capacity-building in the U.S.;

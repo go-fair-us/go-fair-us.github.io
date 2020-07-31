@@ -7,7 +7,7 @@ feature-img: "assets/img/gofair_background.jpg"
 order: 2
 ---
 
-Connect with Go FAIR US:
+Connect with GO FAIR US:
 
 <ul>
   <li><a href="https://groups.google.com/forum/#!forum/gofairus">Google Group</a> Email List. GO FAIR US's main communication channel. Sign up to receive periodic updates.</li><br />

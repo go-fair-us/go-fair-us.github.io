@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Report back from the Go FAIR US Atlanta workshop
+title: Report back from the GO FAIR US Atlanta workshop
 date: 2020-02-25
 date2: 2020-02-27
 location: Atlanta, Georgia
 author: Juliane Schneider
-tags: ["Workshop", "Atlanta", "Go FAIR US"]
+tags: ["Workshop", "Atlanta", "GO FAIR US"]
 ---
 
 In the research community, we hear more and more about the  [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples) but what do they mean?
@@ -74,12 +74,12 @@ Chris Erdmann shared his experiences from coordinating and running FAIR Training
 
 ### Reflections
 
-Workshop participants spent a lot of time looking at what exists from Go FAIR training resources to engagement opportunities in our communities. The group also relfected on our current assessment of the data landscape, especially in the areas of:
+Workshop participants spent a lot of time looking at what exists from GO FAIR training resources to engagement opportunities in our communities. The group also relfected on our current assessment of the data landscape, especially in the areas of:
 
  - Capacity building
  - Making progress
  - Change, build, and train
 
-One of the concrete outcomes from the workshop is the [Go FAIR US website](http://www.gofair.us/) and communication channels. Visit the website for further information on how to become active in the Go FAIR US community!
+One of the concrete outcomes from the workshop is the [GO FAIR US website](http://www.gofair.us/) and communication channels. Visit the website for further information on how to become active in the GO FAIR US community!
 
 <p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;" src="https://live.staticflickr.com/8720/17011081887_2552773e86_b.jpg" alt="Atlanta Sign"><a href="https://www.flickr.com/photos/131901977@N02/17011081887">"Atlanta Sign"</a><span> by <a href="https://www.flickr.com/photos/131901977@N02">melissa.zilke</a></span> is licensed under <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY 2.0</a><a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /></a></p>

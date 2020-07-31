@@ -28,7 +28,7 @@ Deeper ways to engage:
 <ul>
   <li>Join an <a href="https://www.go-fair.org/implementation-networks/" title="GO FAIR Implementation Networks">Implementation Network (IN)</a>.</li><br />
   
-  <li>Contribute to the <a href="https://www.go-fair.org/metadata-for-machines/" title="Metadata for Machines">Metadata for Machines</a> Handbook.</li><br />
+  <li>Contribute to the <a href="https://www.go-fair.org/how-to-go-fair/">Three Point FAIRification Framework (3PFF) Handbook</a>, which includes <a href="https://www.go-fair.org/metadata-for-machines/" title="Metadata for Machines">Metadata for Machines</a>, FAIR Implementation Profile (FIP), and FAIR Data Point (FDP).</li><br />
   
   <li><a href="https://forms.gle/qhvsb3ubCbEyCYQg6" title="Contact Us">Contact us</a> to present on your FAIR initiative to the GO FAIR community.</li><br />
   

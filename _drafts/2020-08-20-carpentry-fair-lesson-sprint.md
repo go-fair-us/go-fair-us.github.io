@@ -19,7 +19,7 @@ Our goals are to create an introductory FAIR lesson as a global community, that 
 
 ## How to Get Started and Join
 
-We have created a [primer](https://docs.google.com/document/d/1IwnClDjruY9yLmJEUjz-JvRptxqaLsiOTieUlgVbry8/edit?usp=sharing) (instructions) for people looking to learn more about the sprint. We encourage you to read through the primer first and then decide whether you would like to join the effort. The primer includes information on how to [register](https://www.eventbrite.com.au/e/library-carpentry-fair-lesson-sprint-tickets-115957980441) (for Zoom).
+We have created a [primer](https://docs.google.com/document/d/1IwnClDjruY9yLmJEUjz-JvRptxqaLsiOTieUlgVbry8/edit?usp=sharing) (instructions) for people looking to learn more about the sprint. We encourage you to read through the primer first and then decide whether you would like to join the effort. The primer includes information on how to register.
 
 ## How will the Sprint be Organised
 

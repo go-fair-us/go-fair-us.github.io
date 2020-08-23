@@ -7,7 +7,6 @@ author: Chris Erdmann
 tags: ["FAIR", "lesson", "Library Carpentry", "The Carpentries"]
 ---
 
-## Sprint Details
 
 Join us on 2020 August 27-28, for the FAIR (findable, accessible, interoperable, reusable) lesson global sprint. The sprint is being organised through [CarpentryCon @ Home](https://2020.carpentrycon.org/) with partners from around the world (see lesson sprint [Etherpad](https://pad.carpentries.org/FAIR-lesson)).
 

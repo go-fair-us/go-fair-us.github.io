@@ -48,7 +48,7 @@ layout: default
           Events
         </h2>
         <ul class="recent-list">
-          {% assign sorted = site.events | sort: "date" %}
+          {% assign sorted = site.events | sort: "date" | reverse %}
           {% for event in sorted limit:3 %}
           <li class="recent-item">
             <div class="item-date meta">

@@ -6,7 +6,7 @@ feature-img: "assets/img/gofair_background.jpg"
 order: 4
 ---
 
-{% assign sorted = site.events | sort: "date" %}
+{% assign sorted = site.events | sort: "date" | reverse %} 
 {% for event in sorted %}
   <hr>
   <h3>

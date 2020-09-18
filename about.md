@@ -15,7 +15,7 @@ order: 1
 <ul>
 <li><a href="https://www.linkedin.com/in/kirkpatrickchristine/" title="Christine Kirkpatrick">Christine Kirkpatrick</a>, Division Director, Research Data Services (RDS), SDSC & Executive Director, US National Data Service</li>
 <li><a href="https://www.linkedin.com/in/melissa-cragin-90365a36/" title="Melissa Cragin">Melissa Cragin</a>, Chief Strategist of Data Initiatives, RDS, SDSC</li>
-<li><a href="https://www.linkedin.com/in/juliane-schneider-4a06535" title="Juliane Schneider">Juliane Schneider</a>, Senior Bioniformatics Analyst/Data Liaison, Sage Bionetworks</li>
+<li><a href="https://www.linkedin.com/in/juliane-schneider-4a06535" title="Juliane Schneider">Juliane Schneider</a>, Senior Bioinformatics Analyst/Data Liaison, Sage Bionetworks</li>
 <li><a href="https://www.linkedin.com/in/christopher-erdmann-1213a456/" title="hris Erdmann">Chris Erdmann</a>, Engagement, Support, Training Expert, Renaissance Computing Institute (RENCI) at UNC, NHLBI BioData Catalyst</li>
 </ul>
 

@@ -8,7 +8,7 @@ author: Chris Erdmann
 tags: ["Webinar Series", "Launch", "GO FAIR US"]
 ---
 
-Save the date! On October 15 9:00-10:00 PT ([check your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201015T16)) GO FAIR US will kick off a webinar series on FAIR. The initial webinar will introduce the GO FAIR initiative, provide background on the FAIR Principles, some ways in which they are being applied, and what training efforts are underway. We will also discuss next steps on how we can grow the FAIR community in the US and how you can get involved. In addition, we will announce upcoming events in the GO FAIR webinar series.
+Save the date! On October 15 9:00-10:00 PT ([check your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201015T16)) GO FAIR US will kick off a webinar series on FAIR. The initial webinar will introduce the GO FAIR initiative, and provide a FAIR basics overview: what are the FAIR Data Principles, how you can apply them (or not) and what you can do to 'FAIR-'ize your data that causes the least amount of pain but has the most effect. In addition, we will announce upcoming events in the GO FAIR webinar series.
 
 You can register for the event here: <br />
 [https://ucsd.zoom.us/webinar/register/WN_FlR94YaaQCyv7txN-xUNiw](https://ucsd.zoom.us/webinar/register/WN_FlR94YaaQCyv7txN-xUNiw) <br />

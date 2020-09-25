@@ -18,7 +18,7 @@ Additional data, or metadata that describes what is available, can be collected 
 
 “VODAN at large is about using these datasets and programs that we have built up for 1) awareness of the need for machine readable/actionable data, 2) the need to train more data stewards, and 3) the need to change the paradigm from ‘I’ll collect all the data in a lake’ to ‘let my algorithm visit your data’,” explained Kirkpatrick, who also founded and heads the US Coordination Office for the GO FAIR Initiative.
 
-![Image 1 Caption: The VODAN FAIR Data Point (FDP) is developed within the VODAN (Virus Outbreak Data Network) implementation network. With a VODAN FDP, organizations across the world can publish their metadata about virus outbreak datasets. Credit: Luiz Olavo Bonino](../assets/img/news/FDP architecture.png)
+![Image 1 Caption: The VODAN FAIR Data Point FDP is developed within the VODAN Virus Outbreak Data Network implementation network. With a VODAN FDP, organizations across the world can publish their metadata about virus outbreak datasets. Credit: Luiz Olavo Bonino](../assets/img/news/FDP architecture.png)
 
 *Image 1 Caption: The VODAN FAIR Data Point (FDP) is developed within the VODAN (Virus Outbreak Data Network) implementation network. With a VODAN FDP, organizations across the world can publish their metadata about virus outbreak datasets. Credit: Luiz Olavo Bonino*
 

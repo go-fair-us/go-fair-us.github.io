@@ -2,7 +2,7 @@
 layout: post
 title: Virus Outbreak Data Network (VODAN) Correlates Pandemic Metadata
 date: 2020-09-24
-excerpt_separator: New Network Facilitates Information Collection and Exchange of Worldwide COVID-19 Data for Researchers and Policy Makers
+excerpt_separator: 
 author: Kimberly Mann Bruch
 tags: ["GO FAIR", "VODAN", "FAIR Data Point", "National Science Foundation", "VODAN-Africa", "West Big Data Innovation Hub", "GO FAIR US"]
 ---

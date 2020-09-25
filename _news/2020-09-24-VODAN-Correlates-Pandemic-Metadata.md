@@ -7,6 +7,7 @@ author: Kimberly Mann Bruch
 tags: ["GO FAIR", "VODAN", "FAIR Data Point", "National Science Foundation", "VODAN-Africa", "West Big Data Innovation Hub", "GO FAIR US"]
 ---
 
+## New Network Facilitates Information Collection and Exchange of Worldwide COVID-19 Data for Researchers and Policy Makers
 
 According to the World Health Organization (WHO), more than 11,000 deaths were reported during the 2014-2016 Ebola outbreak in West Africa. However, the WHO also noted that additional deaths likely occurred and were not recorded due to substantial healthcare challenges in the region.
 

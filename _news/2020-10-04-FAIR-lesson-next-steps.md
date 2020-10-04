@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Next steps for the FAIR data & software lesson
-date: 2020-08-28
+date: 2020-10-04
 excerpt_separator: 
 author: Chris Erdmann, Kristina Hettne, Liz Stokes
 tags: ["FAIR", "lesson", “sprint”, "The Carpentries", "Library Carpentry"]

@@ -10,9 +10,16 @@ tags: ["Webinar Series", "Launch", "GO FAIR US"]
 
 Save the date! On October 15 9:00-10:00 PT ([check your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201015T16)) GO FAIR US will kick off a webinar series on FAIR. The initial webinar will introduce the GO FAIR initiative, and provide a FAIR basics overview: what are the FAIR Data Principles, how you can apply them (or not) and what you can do to FAIRify your data that causes the least amount of pain but has the most effect. In addition, we will announce upcoming events in the GO FAIR webinar series.
 
-You can register for the event here: <br />
-[https://ucsd.zoom.us/webinar/register/WN_FlR94YaaQCyv7txN-xUNiw](https://ucsd.zoom.us/webinar/register/WN_FlR94YaaQCyv7txN-xUNiw) <br />
-See you there!   
+__FAIR Basics Webinar Details:__
+
+* [Video](https://www.youtube.com/watch?v=JYjT91AZVZM)
+* [Slides](https://gofair.us/assets/slides/2020-10-15-fair-basics.pdf)
+
+__Next Webinar - Introduction to GO FAIR US__ 
+* Date: 10 December 2020
+* Time: 12-1PM Eastern Time / 9-10AM Pacific Time / 4PM UTC
+* [Registration](https://ucsd.zoom.us/webinar/register/WN_UROFK4giRnuQ9VTqgYCGlQ)
+
 
 If there is a FAIR topic you would like us to cover, or a FAIR based project you would like to present through a GO FAIR US webinar, get in touch with us through one of the channels on the [Get Involved](https://gofair.us/get-involved/) page.
 

@@ -13,7 +13,8 @@ Save the date! On October 15 9:00-10:00 PT ([check your timezone](https://www.ti
 __FAIR Basics Webinar Details:__
 
 * [Video](https://www.youtube.com/watch?v=JYjT91AZVZM)
-* [Slides](https://gofair.us/assets/slides/2020-10-15-fair-basics.pdf)
+* [GO FAIR Slides](https://gofair.us/assets/slides/2020-10-15-go-fair-us.pdf)
+* [FAIR Basics Slides](https://gofair.us/assets/slides/2020-10-15-fair-basics.pdf)
 
 __Next Webinar - Introduction to GO FAIR US__ 
 * Date: 10 December 2020

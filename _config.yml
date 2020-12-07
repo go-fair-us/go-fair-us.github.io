@@ -5,7 +5,7 @@ url: "https://go-fair-us.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: GO FAIR US
+  title: 
   avatar: assets/img/new_logo.svg
   favicon: assets/gofair_favicon.ico
   gravatar: # Email MD5 hash

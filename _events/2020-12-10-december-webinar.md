@@ -2,9 +2,9 @@
 layout: post
 title: Advancing FAIR: Connecting Stakeholders, Communities, and Resources
 date: 2020-12-10
-date2: 2020-10-10
-location: Online
-author: Melissa Cragin
+date2: 2020-12-10
+location: online
+auhtor: Melissa Cragin
 tags: ["Webinar Series", "GO FAIR US"]
 ---
 

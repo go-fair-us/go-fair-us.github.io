@@ -17,3 +17,5 @@ __Next Webinar - FAIR and Research Software__
 * Date: 14 January 2021
 * Time: 12-1PM Eastern Time / 9-10AM Pacific Time / 5PM UTC
 * [Registration](https://ucsd.zoom.us/webinar/register/WN_Jdytmnh5SKOeASVTRiIOjA)
+
+<p style="font-size: 0.9rem;font-style: italic;">

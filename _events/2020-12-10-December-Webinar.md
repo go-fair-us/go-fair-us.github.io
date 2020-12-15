@@ -11,7 +11,7 @@ tags: ["Go FAIR US", "Webinar Series"]
 The December webinar, “Advancing FAIR: Connecting Stakeholders, Communities, and Resources,” serves as a general introduction to the GO FAIR. We cover four topics: Contexts for considering the FAIR Principles, the GO FAIR initiative, the GO FAIR US office and activities, and an introduction to emerging technologies and resources for “going FAIR.”
 
 __Advancing FAIR Webinar Details:__
-
+* [Advancing FAIR Video](https://youtu.be/X0Mhf60EtHs)
 * [Advancing FAIR Slides](https://gofair.us/assets/slides/2020-12-10-advancing-fair.pdf)
 
 __Next Webinar - FAIR and Research Software__

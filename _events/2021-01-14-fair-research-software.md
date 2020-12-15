@@ -12,10 +12,10 @@ On January 14th, 2021 (12-1PM Eastern Time / 9-10AM Pacific Time / 4PM UTC), GO 
 
 
 Webinar Details:
-Date: 14 January 2021
-Time: 12-1PM Eastern Time / 9-10AM Pacific Time / 4PM UTC
-Speaker: <a href="https://twitter.com/al_lamprech">Dr. Anna-Lena Lamprecht</a> from Utrecht University
-Topic: FAIR & Research Software 
+Date: 14 January 2021 <br>
+Time: 12-1PM Eastern Time / 9-10AM Pacific Time / 4PM UTC <br>
+Speaker: <a href="https://twitter.com/al_lamprech">Dr. Anna-Lena Lamprecht</a> from Utrecht University <br>
+Topic: FAIR & Research Software <br>
 <a href="https://ucsd.zoom.us/webinar/register/WN_Jdytmnh5SKOeASVTRiIOjA">Registration</a>  
 
 <p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;" src="https://live.staticflickr.com/981/40262456740_f4d3c5d8e6_b.jpg" alt="Software training tips and resources"><a href="https://www.flickr.com/photos/164025557@N06/40262456740">"Software training tips and resources"</a><span> by <a href="https://www.flickr.com/photos/164025557@N06">gremartin</a></span> is licensed under <a href="https://creativecommons.org/licenses/cc0/1.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC0 1.0</a><a href="https://creativecommons.org/licenses/cc0/1.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg?image_id=07957872-c74f-4c66-9d0d-5f3d48ab08da" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-cc0_icon.svg" /></a></p>

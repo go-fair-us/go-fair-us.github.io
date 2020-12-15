@@ -4,7 +4,7 @@ title: FAIR & Research Software
 date: 2021-01-14
 date2: 2021-01-14
 location: Online
-author: Chris Erdmann
+author: Alexandra Andreiu
 tags: ["Webinar Series", "FAIR Research Software", "GO FAIR US"]
 ---
 

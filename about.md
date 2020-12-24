@@ -18,6 +18,7 @@ order: 1
 <li><a href="https://www.linkedin.com/in/juliane-schneider-4a06535" title="Juliane Schneider">Juliane Schneider</a>, Senior Bioinformatics Analyst/Data Liaison, Sage Bionetworks</li>
 <li><a href="https://www.linkedin.com/in/christopher-erdmann-1213a456/" title="Chris Erdmann">Chris Erdmann</a>, Engagement, Support, Training Expert, Renaissance Computing Institute (RENCI) at UNC, NHLBI BioData Catalyst</li>
 <li><a href="https://www.linkedin.com/in/nancy-hoebelheinrich-0576ba3/" title="Nancy J. Hoebelheinrich">Nancy J. Hoebelheinrich</a>, Information Analyst / Principal, Knowledge Motifs LLC</li> 
+<li><a href="https://https://www.linkedin.com/in/alexandra-andreiu-5a40a9176//" title="Alexandra Andreiu">Alexandra Andreiu</a>, Cognitive Science Undergradute Student / University of California, San Diego</li> 
 </ul>
 
 

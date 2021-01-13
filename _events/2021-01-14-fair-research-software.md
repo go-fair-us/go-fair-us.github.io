@@ -8,12 +8,12 @@ author: Alexandra Andreiu
 tags: ["Webinar Series", "FAIR Research Software", "GO FAIR US"]
 ---
 
-On January 14th, 2021 (12-1PM Eastern Time / 9-10AM Pacific Time / 4PM UTC), GO FAIR US will be hosting the next in our webinar series with invited speaker, <a href="https://twitter.com/al_lamprech">Dr. Anna-Lena Lamprecht</a> from Utrecht University, who will be discussing how FAIR Principles can be applied to research software. Making data and digital research objects findable, accessible, interoperable, and reusable is at the core of the FAIR initiative; however, can FAIR principles be applied to other data domains, such as research software? During this webinar, Dr. Lamprecht will investigate the applicability of FAIR principles to research software and what can be done to make software FAIR(er). By evaluating many of the international community initiatives that are working towards creating, developing, and standardizing FAIR principles for research software, Dr. Lamprecht hopes to foster a deeper understanding of the versatility and interdisciplinary nature of the FAIR principles. In addition, she will provide ways in which you can gain a better understanding of how and when to FAIRify research software. 
+On January 14th, 2021 (12-1PM Eastern Time / 9-10AM Pacific Time / 5PM UTC), GO FAIR US will be hosting the next in our webinar series with invited speaker, <a href="https://twitter.com/al_lamprech">Dr. Anna-Lena Lamprecht</a> from Utrecht University, who will be discussing how FAIR Principles can be applied to research software. Making data and digital research objects findable, accessible, interoperable, and reusable is at the core of the FAIR initiative; however, can FAIR principles be applied to other data domains, such as research software? During this webinar, Dr. Lamprecht will investigate the applicability of FAIR principles to research software and what can be done to make software FAIR(er). By evaluating many of the international community initiatives that are working towards creating, developing, and standardizing FAIR principles for research software, Dr. Lamprecht hopes to foster a deeper understanding of the versatility and interdisciplinary nature of the FAIR principles. In addition, she will provide ways in which you can gain a better understanding of how and when to FAIRify research software. 
 
 
 <b>Webinar Details:</b><br>
 Date: 14 January 2021 <br>
-Time: 12-1PM Eastern Time / 9-10AM Pacific Time / 4PM UTC <br>
+Time: 12-1PM Eastern Time / 9-10AM Pacific Time / 5PM UTC <br>
 Speaker: <a href="https://twitter.com/al_lamprech">Dr. Anna-Lena Lamprecht</a> from Utrecht University <br>
 Topic: FAIR & Research Software <br>
 <a href="https://ucsd.zoom.us/webinar/register/WN_Jdytmnh5SKOeASVTRiIOjA">Registration</a>  

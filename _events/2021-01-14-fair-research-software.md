@@ -13,6 +13,7 @@ On January 14th, 2021 (12-1PM Eastern Time / 9-10AM Pacific Time / 5PM UTC), GO 
 
 <b>Webinar Details:</b><br>
 [FAIR & Research Software Video](https://youtu.be/E6S7k3UNZyU)<br>
+[FAIR & Research Software Slides](https://gofair.us/assets/slides/2020-01-14-fair-software.pdf)<br>
 Date: 14 January 2021 <br>
 Time: 12-1PM Eastern Time / 9-10AM Pacific Time / 5PM UTC <br>
 Speaker: <a href="https://twitter.com/al_lamprech">Dr. Anna-Lena Lamprecht</a> from Utrecht University <br>

@@ -12,7 +12,7 @@ On [22 January 2021](https://dknet.org/about/webinar/2140), and 01 February 2021
 I was able to ask the two communities the same set of questions below:
 
 - What is motivating you to learn more about FAIR?
-- How are you responding to the principles? Particularly the F1 and R1.3 principles.
+- How are you responding to the [principles](https://gofair.us/principles/)? Particularly the F1 and R1.3 principles.
 - Are there [#FAIRexamples](https://twitter.com/search?q=%23FAIRexamples) you've found helpful?
 
 You can find the answers from the participants in the [collaborative notes](https://github.com/go-fair-us/go-fair-us.github.io/new/master/assets/slides/2021-02-01-fair-scholarly-comms-notes.md). In addition, if you have [#FAIRexamples](https://twitter.com/search?q=%23FAIRexamples) to share, please use the Twitter hashtag.

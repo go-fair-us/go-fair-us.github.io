@@ -13,7 +13,7 @@ Join the GO FAIR US team on Thursday February 18th at 12 pm PST/ 3 pm EST for an
 
 <b>Webinar Details:</b><br>
 [WIPs and CHIPs Webinar Video](https://youtu.be/-_Q7dEWOzFQ)<br>
-[WIPs and CHIPs Webinar Slides](https://gofair.us/assets/slides/WIPs-and-CHIPs-Webinar-Slides.pdf)<br>
+[WIPs and CHIPs Webinar Slides](https://gofair.us/assets/slides/2021-02-18-wips-chips.pdf)<br>
 Date: 18 February 2021 <br>
 Time: 3-4PM Eastern Time / 12-1PM Pacific Time / 8PM UTC <br>
 Topic: WIPs and CHIPs <br>

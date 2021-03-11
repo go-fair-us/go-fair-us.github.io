@@ -8,7 +8,7 @@ author: Alexandra Andreiu
 tags: ["Webinar Series", "FAIR Implementation", "GO FAIR US"]
 ---
 
-On April 1st, 2021, the GO FAIR US Team will be hosting our FAIR on the Ground Webinar at 9 am PST/12 pm EST/4 pm UTC. Dr. Amanda Charbonneau, Project Manager for the Common Fund Data Ecosystem at UC Davis, and Dr. Laura Biven, Data Science Technical Lead at the Office of Data Science Strategy at NIH. Both will address current FAIR efforts in their respective organizations, and fundamental challenges for FAIR implementation. The registration link is below, and additional information will be posted here shortly.
+On April 1st, 2021, the GO FAIR US Team will be hosting our FAIR on the Ground Webinar at 9 am PST/12 pm EST/5 pm UTC. Dr. Amanda Charbonneau, Project Manager for the Common Fund Data Ecosystem at UC Davis, and Dr. Laura Biven, Data Science Technical Lead at the Office of Data Science Strategy at NIH. Both will address current FAIR efforts in their respective organizations, and fundamental challenges for FAIR implementation. The registration link is below, and additional information will be posted here shortly.
 
 
 <b>Webinar Details:</b><br>

@@ -19,7 +19,7 @@ Topic: FAIR on the Ground <br>
 
 <b> Meet the Speakers:</b><br>
 
-<a href="https://datascience.nih.gov/about/staff ">Dr. Laura Biven</a><br>
+<b>Dr. Laura Biven</b><br>
 <img src="/assets/img/Laura_Biven_photo_.png" height="200" /><br>
 Dr. Laura Biven is the data science technical lead for the Office of Data Science Strategy (ODSS) at NIH. Before she joined NIH, she spent 12 years at the Department fo Energy where led strategic efforts in data management and data science, including the development of the department-wide data management plan requirements, and new research avenues to better leverage DOE data and advance AI. Prior to joining the Department of Energy, Laura was an AAAS Science and Technology Policy Fellow, serving first in the U.S. Department of Agriculture and then at the Department of State. Laura holds a MSci in math and physics from the University of Bristol and a Ph.D. in applied mathematics from the University of Warwick. 
 

@@ -8,7 +8,7 @@ author: Alexandra Andreiu
 tags: ["Webinar Series", "FAIR Implementation", "GO FAIR US"]
 ---
 
-On April 1st, 2021, the GO FAIR US Team will be hosting our FAIR on the Ground Webinar at 9 am PST/12 pm EST/5 pm UTC. Dr. Amanda Charbonneau, Project Manager for the Common Fund Data Ecosystem at UC Davis, and Dr. Laura Biven, Data Science Technical Lead at the Office of Data Science Strategy at NIH. Both will address current FAIR efforts in their respective organizations, and fundamental challenges for FAIR implementation. The registration link is below, and additional information will be posted here shortly.
+On April 1st, 2021, the GO FAIR US Team will be hosting our FAIR on the Ground Webinar at 9 am PST/12 pm EST/5 pm UTC. Dr. Amanda Charbonneau, Project Manager for the Common Fund Data Ecosystem at UC Davis will be giving a talk titled “Operationalizing FAIR at the Common Fund”, and Dr. Laura Biven, Data Science Technical Lead at the Office of Data Science Strategy at NIH, will be giving a talk titled “Toward a Modern and FAIR Biomedical Data Ecosystem”. Both will address current FAIR efforts in their respective organizations, and fundamental challenges for FAIR implementation. 
 
 
 <b>Webinar Details:</b><br>
@@ -17,4 +17,12 @@ Time: 12-1PM Eastern Time / 9-10AM Pacific Time / 5PM UTC <br>
 Topic: FAIR on the Ground <br>
 <a href="https://ucsd.zoom.us/webinar/register/WN_3lRzGNCBQvmcxmXBePh1vw ">Registration</a>
 
-<p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Earth_and_Physical_Sciences_building_-_University_of_California%2C_Davis_-_DSC03316.JPG" alt="File:Earth and Physical Sciences building - University of California, Davis - DSC03316.JPG"><a href="https://commons.wikimedia.org/w/index.php?curid=39124025">"File:Earth and Physical Sciences building - University of California, Davis - DSC03316.JPG"</a><span> by <a href="https://commons.wikimedia.org/wiki/User:Daderot">Daderot</a></span> is licensed under <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en?ref=ccsearch&atype=html" style="margin-right: 5px;">CC0 1.0</a><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg?image_id=4e5665d1-cb00-4de2-bf02-a79829c5ac07" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-cc0_icon.svg" /></a></p>
+<b> Meet the Speakers:</b><br>
+
+<a href="https://datascience.nih.gov/about/staff ">Dr. Laura Biven</a><br>
+<img src="/assets/img/Laura_Biven_photo_.png" height="200" /><br>
+Dr. Laura Biven is the data science technical lead for the Office of Data Science Strategy (ODSS) at NIH. Before she joined NIH, she spent 12 years at the Department fo Energy where led strategic efforts in data management and data science, including the development of the department-wide data management plan requirements, and new research avenues to better leverage DOE data and advance AI. Prior to joining the Department of Energy, Laura was an AAAS Science and Technology Policy Fellow, serving first in the U.S. Department of Agriculture and then at the Department of State. Laura holds a MSci in math and physics from the University of Bristol and a Ph.D. in applied mathematics from the University of Warwick. 
+
+<b>Dr. Amanda Charbonneau</b><br>
+
+Amanda Charbonneau is the Inreach and Outreach Coordinator for the Common Fund Data Ecosystem Coordination Center, an NIH initiative to increase access and use of NIH Common Fund datasets. She has an eclectic scientific background and has variously worked on topics such as population genetics, spectrometry, entomology, genomics, and building tank armor. She uses these experiences to train scientists to use new computational tools and data types, as well as to build and manage communities. Her interests include statistics, coding, video games, and occasionally tweeting at https://twitter.com/procrastinomics

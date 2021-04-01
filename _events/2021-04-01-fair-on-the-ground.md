@@ -12,6 +12,11 @@ On April 1st, 2021, the GO FAIR US Team will be hosting our FAIR on the Ground W
 
 
 <b>Webinar Details:</b><br>
+[Dr. Laura Biven's Talk Video](https://youtu.be/SRIS1cCWJ6s) and 
+[Slides](https://gofair.us/assets/slides/2021-04-01-laura-biven.pdf)<br>
+[Dr. Amanda Charbonneau's Talk Video](https://youtu.be/Ft1GVJdVy6g) and
+[Slides ](https://gofair.us/assets/slides/2021-04-01-amanda-charbonneau.pdf)<br>
+
 Date: 1 April 2021 <br>
 Time: 12-1PM Eastern Time / 9-10AM Pacific Time / 5PM UTC <br>
 Topic: FAIR on the Ground <br>

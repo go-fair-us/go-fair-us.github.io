@@ -1,8 +1,8 @@
 ---
 layout: post
 title: GO FAIR International Partner Events
-date: 2021-04-01
-date2: 2021-04-01
+date: 2021-05-12
+date2: 2021-09-08
 location: Online
 author: Alexandra Andreiu
 tags: ["International", "Data Stewardship", "GO FAIR"]

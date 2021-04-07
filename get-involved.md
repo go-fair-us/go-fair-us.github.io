@@ -37,6 +37,9 @@ Deeper ways to engage:
   <li>Submit a guest <a href="https://github.com/go-fair-us/go-fair-us.github.io/blob/master/_drafts/contributing-instructions.md" title="Contributing Instructions">event and/or news blog post</a>.</li><br />
 </ul>
 
+
+<p>GO FAIR US is dedicated to <strong>providing a harassment-free experience for everyone</strong>, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of community members in any form and will take appropriate action should harassment occur. Respect, mindfulness, and awareness of potentially triggering content should be shown at all times. Sexual language and imagery is generally not appropriate for any venue, including meetings, presentations, and discussions.</p>
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -57,5 +60,3 @@ Deeper ways to engage:
 </div>
 
 <!--End mc_embed_signup-->
-
-<p>GO FAIR US is dedicated to <strong>providing a harassment-free experience for everyone</strong>, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of community members in any form and will take appropriate action should harassment occur. Respect, mindfulness, and awareness of potentially triggering content should be shown at all times. Sexual language and imagery is generally not appropriate for any venue, including meetings, presentations, and discussions.</p>

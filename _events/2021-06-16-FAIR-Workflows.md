@@ -22,6 +22,6 @@ Topic: FAIR Workflows <br>
 <a href="">Registration will open soon!</a>
 
 
-![WorkflowHub | width=250](https://workflowhub.eu/assets/logos/workflowhub-902d467e74d8797a4a2ac8313621208a1a2b215329e568e07b620baa03ed910b.svg)
+<img src="https://workflowhub.eu/assets/logos/workflowhub-902d467e74d8797a4a2ac8313621208a1a2b215329e568e07b620baa03ed910b.svg" width="250" alt="WorkflowHub">
 
-![Dockstore](https://www.nextflow.io/img/dockstore.png)
+<img src="https://www.nextflow.io/img/dockstore.png" width="250" alt="Dockstore">

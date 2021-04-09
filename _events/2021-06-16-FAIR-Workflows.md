@@ -10,9 +10,9 @@ tags: ["Webinar Series", "FAIR Workflows", "GO FAIR US"]
 
 On June 16, 2021, the GO FAIR US Team will be hosting a webinar on FAIR Workflows at 12 pm PST / 3 pm EST / 7 pm UTC.
 
-Carole Goble and Frederik Coppens will discuss steps towards FAIR principles for computational tools and workflows and how these are supported by the tool-suite of the European EOSC-Life Research Infrastructure Cluster. During the webinar we will show how [WorkflowHub.eu](https://workflowhub.eu/), our registry of workflows, uses community-driven metadata standardisation efforts (CWL, Bioschemas, RO-Crate) for describing and exchanging workflows, operates with an ecosystem of registries, and supports integration with workflow management systems,  and execution platforms.  
+**Carole Goble and Frederik Coppens** will discuss steps towards FAIR principles for computational tools and workflows and how these are supported by the tool-suite of the European EOSC-Life Research Infrastructure Cluster. During the webinar we will show how [WorkflowHub.eu](https://workflowhub.eu/), our registry of workflows, uses community-driven metadata standardisation efforts (CWL, Bioschemas, RO-Crate) for describing and exchanging workflows, operates with an ecosystem of registries, and supports integration with workflow management systems,  and execution platforms.  
 
-Denis Yuen and Beth Sheets will be discussing how [Dockstore](https://dockstore.org/), a computational tool and workflow sharing site, attempts to help researchers increase the portability and reproducibility of their work. During this webinar, we will discuss our features that promote FAIRness, our best practices for FAIR workflows, prominent work or communities on Dockstore, and standardization efforts like GA4GH TRS.
+**Denis Yuen and Beth Sheets** will be discussing how [Dockstore](https://dockstore.org/), a computational tool and workflow sharing site, attempts to help researchers increase the portability and reproducibility of their work. During this webinar, we will discuss our features that promote FAIRness, our best practices for FAIR workflows, prominent work or communities on Dockstore, and standardization efforts like GA4GH TRS.
 
 
 <b>Webinar Details:</b><br>

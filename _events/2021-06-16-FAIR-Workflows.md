@@ -19,7 +19,7 @@ On June 16, 2021, the GO FAIR US Team will be hosting a webinar on FAIR Workflow
 Date: 16 June 2021 <br>
 Time: 12 pm PST / 3 pm EST / 7 pm UTC <br>
 Topic: FAIR Workflows <br>
-<a href="https://ucsd.zoom.us/webinar/register/WN__gyo8ZowRJOnzpB2LlrGFg">Registration will open soon!</a>
+<a href="https://ucsd.zoom.us/webinar/register/WN__gyo8ZowRJOnzpB2LlrGFg">Register Here!</a>
 
 
 <img src="https://workflowhub.eu/assets/logos/workflowhub-902d467e74d8797a4a2ac8313621208a1a2b215329e568e07b620baa03ed910b.svg" width="250" alt="WorkflowHub">

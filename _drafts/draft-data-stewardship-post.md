@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Follow up from the GO FAIR US Data Stewardship Interest Group Meeting and Next Steps
-date: 2021-05-07
+title: GO FAIR US Data Stewardship Interest Group Meeting and Next Steps
+date: 2021-05-08
 excerpt_separator: 
 author: Chris Erdmann
 tags: ["FAIR", "Data Stewardship", "Research Data Alliance", "Interest Group", “data", "stewardship"]
@@ -11,19 +11,19 @@ On 30 April 2021, GO FAIR US hosted a Data Stewardship Interest Group Meeting wi
 
 _NIH, NHLBI, NIEH, ORNL, SDSC, Figshare, 18F, GSA, Notre Dame, Lyrasis, U of Rio de Janeiro, U of Cincinnati, KIU, U of Illinois, Musée de la Civilisation, AGU, U of New Mexico, OME, Axveco, BLM, BNL, NCRI, NASA, LBL, Research Space, CDC, CNA, RENCI, Embrapa, CNB, OSTI, African Union, U of Iowa, KM, RSU, U of Ljubljana, HESC, Maastricht U, FSU, Smartlogic, RTI, DOE, Sage Bionetworks, U of Manchester, Brac University, UK Polar Data Centre, NRCC, UCLA, UBC, JPL, Grenoble U, Cornell, Children's Hospital of Philadelphia_
 
-The meeting was not US centric and was [open to all](https://twitter.com/gofairus/status/1384817439758770179?s=20). We began with [Kathryn Knight](https://www.linkedin.com/in/kathrynknight1/) (ORNL) providing background on the challenges that data stewards face, from her perspective at ORNL. Slides from the background session are [available here](GO-FAIR-US-Data-Stewardship-IG.pdf). Kathryn then guided us through a Menti session where we polled the attendees on the following points:
+The meeting was not US centric and was [open to all](https://twitter.com/gofairus/status/1384817439758770179?s=20). We began with [Katie Knight](https://www.linkedin.com/in/kathrynknight1/) (ORNL) providing background on the challenges that data stewards face, from her perspective at ORNL. Slides from the background session are [available here](../assets/slides/2021-04-30-GO-FAIR-US-Data-Stewardship-IG.pdf). Katie then guided us through a Menti session where we polled the attendees on the following points:
 
--
--
--
--
+- What are core competencies for Data Stewards? ([CSV](../assets/slides/2021-04-30--Data-Stewardship-Interest-Group-GO-FAIR-US.csv))
+- How many Data Stewards does your workplace employ? ([JPG](../assets/img/news/2-how-many-data-stewards-does-your-workplace-employ.jpg), [CSV](../assets/slides/2021-04-30--Data-Stewardship-Interest-Group-GO-FAIR-US.csv))
+- What kind of Data Stewardship training is needed? ([JPG](../assets/img/news/3-what-kind-of-data-stewardship-training-is-needed.jpg), [CSV](../assets/slides/2021-04-30--Data-Stewardship-Interest-Group-GO-FAIR-US.csv))
+- I would like a FAIR Data Stewardship community to... ([JPG](../assets/img/news/4-i-would-like-a-fair-data-stewardship-community-to-.jpg), [CSV](../assets/slides/2021-04-30--Data-Stewardship-Interest-Group-GO-FAIR-US.csv))
 
-The poll results from the Menti session can be [found here](). Beyond the challenges that we responded to in the Menti poll, it was clear that we needed to connect with the [Research Data Alliance Professionalizing Data Stewardship Interest Group](https://rd-alliance.org/groups/professionalising-data-stewardship-ig) via [Debora Drucker](https://www.linkedin.com/in/debora-drucker) (Embrapa), as our liaison. Four pillars that we focused on in our follow up discussion, attended by Kathryn, Debora, [Sandra Gesing](http://sandra-gesing.com/) (Notre Dame), and [Chris Erdmann](https://www.linkedin.com/in/christopher-erdmann-1213a456/) (AGU), included:
+The poll results from the Menti session can be found above via the exported CSV and JPG. Beyond the challenges that we responded to in the Menti poll, it was clear that we needed to connect with the [Research Data Alliance Professionalizing Data Stewardship Interest Group](https://rd-alliance.org/groups/professionalising-data-stewardship-ig) via [Debora Drucker](https://www.linkedin.com/in/debora-drucker) (Embrapa), as our liaison. Four pillars that we focused on in our follow up discussion, attended by Katie, Debora, [Sandra Gesing](http://sandra-gesing.com/) (Notre Dame), and [Chris Erdmann](https://www.linkedin.com/in/christopher-erdmann-1213a456/) (AGU), included:
 
 - An **open email list** that can facilitate communication between many of us interested in data stewardship (that might not attend RDA for various reasons). Many of us still use listservs that are run out of universities or organizations and an open solution like this that can be archived, open, and available to all resonated. 
 - A **website that is search engine optimized (SEO)** where materials shared by the community and RDA outputs by the Professionalizing Data Stewardship can be more easily discovered via a web search. Material via the RDA website is not entirely discoverable vs the other examples that were brought up on the discussion such as the [US Research Software Engineers](https://us-rse.org/) group or GO FAIR US, both run on GitHub. These solutions are also open for community contributions and collaboration via GitHub. 
 - A **Slack Channel** which already exists via the RDA Professionalizing Data Stewardship IG but where the sign up link is more discoverable and persistent. The [sign up link](https://join.slack.com/t/rdadatastewardship/shared_invite/zt-p198ribm-ympM9eh_tqmF14GbC4QALg) to the Slack Channel was broken at the time of our IG Meeting and resolved during the Meeting. 
-- Finally, what resonated is that the **RDA Professionalizing Data Stewardship IG can be the place where community initiatives can roll up into concerted group efforts** that are already ongoing. Already, the IG has been focusing on producing guidance/reports on three main areas: Terminology, Job Profiles, Business Cases/Models. The IG has also other interest areas that they would like to address in the near future (which the broader community can help inform).
+- Finally, what resonated is that the **RDA Professionalizing Data Stewardship IG can be the place where community initiatives can roll up into concerted group efforts** that are already ongoing. Already, the IG has been focusing on producing guidance/reports on three main areas: [Business Case, Terminology & Organisational Models](https://www.rd-alliance.org/plenaries/rda-17th-plenary-meeting-edinburgh-virtual/professionalising-data-stewardship-business). The IG has also other interest areas that they would like to address in the near future (which the broader community can help inform).
 
 So where are we at? Our liaison to the RDA Professionalizing Data Stewardship IG, Debora, will reach out to the other IG co-chairs to see how we might work together to move these ideas forward. Debora also highlighted in our follow up meeting that [GO FAIR Brazil](https://www.go-fair.org/go-fair-initiative/go-fair-offices/go-fair-brazil-office/) is on board with GO FAIR US on addressing the importance of this topic and we plan on discussing it once again in the upcoming [GO FAIR Festival](https://www.go-fair.org/events/fair-festival-2021/). We are eager to create a more open solution for the broader community of data stewards and hope to provide further information here in the next few weeks, if not sooner.
 

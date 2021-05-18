@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FAIR Workflows
+title: FAIR Festival 2021
 date: 2021-06-21
 date2: 2021-06-23
 location: Online
@@ -15,4 +15,4 @@ GO FAIR US and GO FAIR Brazil are collaborating to offer informational sessions 
 Check out GO FAIR International’s post on the <a href = "https://www.go-fair.org/events/fair-festival-2021/">2021 FAIR Festival</a>! 
 
 
-<img src="/assests/img/FAIR_Festival_2021_Save-the-Date-768x432.png" alt="FAIR Festival">
+<img src="/assets/img/FAIR_Festival_2021_Save-the-Date-768x432.png" alt="FAIR Festival">

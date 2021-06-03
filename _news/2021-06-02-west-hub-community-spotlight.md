@@ -1,11 +1,12 @@
 ---
 layout: post
 title: West Hub Community Spotlight— Alaska Projects Focused on Data-Driven Environmental Systems
-date: 2021-06-02
-excerpt_separator:
+date: 2020-09-24
+excerpt_separator: 
 author: Alexandra Andreiu
-tags: ["GO FAIR US", "West Hub", "Community Spotlight"]
+tags: ["Community Spotlight", "West Big Data Innovation Hub", "GO FAIR US"]
 ---
+
 
 Chris Turner, a data librarian in Anchorage, Alaska at Axiom Data Science, recently spoke with science writer Kim Bruch from West Hub about his most recent data-related projects and how he strives to keep data FAIR. 
 

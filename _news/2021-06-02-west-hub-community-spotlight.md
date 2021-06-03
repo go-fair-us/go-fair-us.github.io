@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "West Hub Community Spotlight: Alaska Projects Focused on Data-Driven Environmental Systems"
+title: West Hub Community Spotlight— Alaska Projects Focused on Data-Driven Environmental Systems
 date: 2021-06-02
 excerpt_separator: 
 author: Alexandra Andreiu

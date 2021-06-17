@@ -16,6 +16,11 @@ On June 16, 2021, the GO FAIR US Team will be hosting a webinar on FAIR Workflow
 
 
 <b>Webinar Details:</b><br>
+* [FAIR Workflows Video](https://www.youtube.com/watch?v=eaObgNzxsqw)
+* [Towards FAIR Workflows Slides](https://gofair.us/assets/slides/2021-06-16-towards-FAIR-workflows.pdf) 
+* [Dockstore and FAIR Slides](https://gofair.us/assets/slides/2021-06-16-dockstore-and-FAIR.pdf)<br>
+
+
 Date: 16 June 2021 <br>
 Time: 12 pm PST / 3 pm EST / 7 pm UTC <br>
 Topic: FAIR Workflows <br>

@@ -34,7 +34,7 @@ order: 1
     margin-bottom: 14px;
     padding: 0 10px;">
     <div class = "card">
-      <img src="/assets/img/Melissa_Cragin_Profile.png" alt = "Melissa" height= "200" style="width:100%"/>
+      <img src="/assets/img/Melissa_Profile.png" alt = "Melissa" height= "200" style="width:100%"/>
       <div class = "container">
         <h2>Melissa Cragin</h2>
         <p class = "title" style = "color:grey;">GO CHANGE Chair, SDSC/UC San Diego</p>
@@ -94,7 +94,7 @@ order: 1
     margin-bottom: 14px;
     padding: 0 10px;">
     <div class = "card">
-      <img src="/assets/img/Katie_Knight_Profile.jpeg" alt = "Katie" height= "200" style="width:100%"/>
+      <img src="/assets/img/Katie_Profile.png" alt = "Katie" height= "200" style="width:100%"/>
       <div class = "container">
         <h2>Katie Knight</h2>
         <p class = "title" style = "color:grey;">GO TRAIN Chair, Oak Ridge National Laboratory (ORNL)</p>
@@ -124,7 +124,7 @@ order: 1
     margin-bottom: 14px;
     padding: 0 10px;">
     <div class = "card">
-      <img src="/assets/img/Alexandra_Andreiu_Profile.jpg" alt = "Alexandra" height= "200" style="width:100%"/>
+      <img src="/assets/img/Alex_Andreiu_Profile.jpg" alt = "Alexandra" height= "200" style="width:100%"/>
       <div class = "container">
         <h2>Alexandra Andreiu</h2>
         <p class = "title" style = "color:grey;">GO FAIR US Office Project Manager, SDSC/UC San Diego</p>

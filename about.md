@@ -15,7 +15,7 @@ order: 1
 <div class = "row">
   <div class = "column" style=
     "float: left;
-    width: 25%;
+    width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
     <div class = "card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);">
@@ -31,7 +31,7 @@ order: 1
 <div class = "row">
   <div class = "column" style=
     "float: center;
-    width: 25%;
+    width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
     <div class = "card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);">
@@ -47,7 +47,7 @@ order: 1
 <div class = "row">
   <div class = "column" style=
     "float: left;
-    width: 25%;
+    width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
     <div class = "card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);">
@@ -63,7 +63,7 @@ order: 1
 <div class = "row">
   <div class = "column" style=
     "float: left;
-    width: 25%;
+    width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
     <div class = "card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);">
@@ -79,7 +79,7 @@ order: 1
 <div class = "row">
   <div class = "column" style=
     "float: left;
-    width: 25%;
+    width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
     <div class = "card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);">
@@ -95,7 +95,7 @@ order: 1
 <div class = "row">
   <div class = "column" style=
     "float: center;
-    width: 25%;
+    width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
     <div class = "card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);">
@@ -111,7 +111,7 @@ order: 1
 <div class = "row">
   <div class = "column" style=
     "float: left;
-    width: 25%;
+    width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
     <div class = "card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);">
@@ -127,7 +127,7 @@ order: 1
 <div class = "row">
   <div class = "column" style=
     "float: left;
-    width: 25%;
+    width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
     <div class = "card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);">
@@ -139,6 +139,7 @@ order: 1
       </div>
     </div>
   </div>
+  
   
 <h3>Focus</h3>
 

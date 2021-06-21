@@ -4,27 +4,14 @@ title: About
 permalink: /about/
 feature-img: "assets/img/gofair_background.jpg"
 order: 1
-output:
-  html_document:
-    css: "about.css"
 ---
+<link href="about.css" rel="stylesheet">
 <a href="" title=""></a>
 <h3>Background</h3>
 
 <p>The GO FAIR US Support and Coordination Office is hosted by the <a href="https://www.sdsc.edu/" title="San Diego Supercomputer Center (SDSC)">San Diego Supercomputer Center (SDSC)</a>, University of California San Diego. SDSC is involved in other related and high profile research data efforts, including the US National Science Foundation-funded <a href="https://westbigdatahub.org/" title="">West Big Data Innovation Hub</a> and the <a href="http://www.nationaldataservice.org/" title="US National Data Service (NDS)">US National Data Service (NDS)</a>. The US NDS, based at the National Center for Supercomputing Applications (NCSA) at the University of Illinois Urbana Champaign, with Christine Kirkpatrick as Executive Director, was founded by a consortium that included academia, government, infrastructure providers, and non-profit institutions interested in creating and bridging evolving technologies and platforms that support the publication, discovery, andreuse of data. GO FAIR US was established in February 2019 as one of the first GO FAIR national offices, see the <a href="https://www.sdsc.edu/News%20Items/PR20190228_RDS_GOFAIR.html" title="GO FAIR US Press Release">press release</a> announcing the office start along with the <a href="https://www.go-fair.org/wp-content/uploads/2020/08/Declaration-GO-FAIR-US.pdf" title="Go FAIR US Declaration">declaration.</a></p>
 
 <h3>Team</h3>
-
-<ul>
-<li><a href="https://www.linkedin.com/in/kirkpatrickchristine/" title="Christine Kirkpatrick">Christine Kirkpatrick</a>, Division Director, Research Data Services (RDS), SDSC & Executive Director, US National Data Service</li>
-<li><a href="https://www.linkedin.com/in/melissa-cragin-90365a36/" title="Melissa Cragin">Melissa Cragin</a>, Chief Strategist of Data Initiatives, RDS, SDSC</li>
-<li><a href="https://www.linkedin.com/in/juliane-schneider-4a06535" title="Juliane Schneider">Juliane Schneider</a>, Senior Bioinformatics Analyst/Data Liaison, Sage Bionetworks</li>
-<li><a href="https://www.linkedin.com/in/christopher-erdmann-1213a456/" title="Chris Erdmann">Chris Erdmann</a>, Assistant Director, Data Stewardship, American Geophysical Union (AGU)</li>
-<li><a href="https://www.linkedin.com/in/nancy-hoebelheinrich-0576ba3/" title="Nancy J. Hoebelheinrich">Nancy J. Hoebelheinrich</a>, Information Analyst / Principal, Knowledge Motifs LLC</li> 
-<li><a href="https://www.linkedin.com/in/kathrynknight1/" title="Katie Knight">Katie Knight</a>, Data Engineer,Oak Ridge National Laboratory (OANL)</li>
-<li><a href="https://www.linkedin.com/in/nkmeyers/" title="Natalie Meyers">Natalie Meyers</a>, Informationist and Enbedded Data Librarian, Navari Family Center for Digital Scholarship</li> 
-<li><a href="https://www.linkedin.com/in/alexandra-andreiu-5a40a9176///" title="Alexandra Andreiu">Alexandra Andreiu</a>, Cognitive Science Undergradute Student / University of California, San Diego</li> 
-</ul>
 
 <div class = "row">
   <div class = "column">

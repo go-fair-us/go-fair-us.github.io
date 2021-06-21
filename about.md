@@ -5,7 +5,6 @@ permalink: /about/
 feature-img: "assets/img/gofair_background.jpg"
 order: 1
 ---
-<link href="about.css" rel="stylesheet">
 <a href="" title=""></a>
 <h3>Background</h3>
 
@@ -14,105 +13,129 @@ order: 1
 <h3>Team</h3>
 
 <div class = "row">
-  <div class = "column">
+  <div class = "column" style=
+    "float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;">
     <div class = "card">
-      <img src="/assets/img/Christine_Kirkpatrick_Profile.jpeg" alt = "Christine" style = "width:100%"/>
+      <img src="/assets/img/Christine_Kirkpatrick_Profile.jpeg" alt = "Christine" height = "200"/>
       <div class = "container">
         <h2>Christine Kirkpatrick</h2>
-        <p class = "title"> GO FAIR US Founder, Research Data Services (RDS) at SDSC</p>
+        <p class = "title" style = "color:grey;"> GO FAIR US Office Head, SDSC/UC San Diego</p>
         <p> gofairus@gmail.com</p>
-        <p><button class = "button">Contact</button></p>
       </div>
     </div>
   </div>
 
 <div class = "row">
-  <div class = "column">
+  <div class = "column" style=
+    "float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;">
     <div class = "card">
-      <img src="/assets/img/Melissa_Cragin_Profile.png" alt = "Melissa" style = "width:100%"/>
+      <img src="/assets/img/Melissa_Cragin_Profile.png" alt = "Melissa" height = "200"/>
       <div class = "container">
         <h2>Melissa Cragin</h2>
-        <p class = "title">GO BUILD Chair, Research Data Services (RDS) at SDSC</p>
+        <p class = "title" style = "color:grey;">GO CHANGE Chair, SDSC/UC San Diego</p>
         <p> gofairus@gmail.com</p>
-        <p><button class = "button">Contact</button></p>
       </div>
     </div>
   </div>
 
 <div class = "row">
-  <div class = "column">
+  <div class = "column" style=
+    "float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;">
     <div class = "card">
-      <img src="" alt = "Juliane" height = "200"/>
+      <img src="Juliane_Schneider_Profile.jpeg" alt = "Juliane" height = "200"/>
       <div class = "container">
         <h2>Juliane Schneider</h2>
-        <p class = "title">GO FAIR US Founding Member, Sage Bionetworks</p>
+        <p class = "title" style = "color:grey;">GO FAIR US Office, Sage Bionetworks</p>
         <p> gofairus@gmail.com</p>
-        <p><button class = "button">Contact</button></p>
       </div>
     </div>
   </div>
   
 <div class = "row">
-  <div class = "column">
+  <div class = "column" style=
+    "float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;">
     <div class = "card">
-      <img src="/assets/img/Chris_Erdmann_Profile.jpeg" alt = "Chris" style = "width:100%"/>
+      <img src="/assets/img/Chris_Erdmann_Profile.jpeg" alt = "Chris" height = "200"/>
       <div class = "container">
         <h2>Chris Erdmann</h2>
-        <p class = "title">GO TRAIN Chair, American Geophysical Union (AGU)</p>
+        <p class = "title" style = "color:grey;">GO BUILD Chair, American Geophysical Union (AGU)</p>
         <p> gofairus@gmail.com</p>
-        <p><button class = "button">Contact</button></p>
       </div>
     </div>
   </div>
   
 <div class = "row">
-  <div class = "column">
+  <div class = "column" style=
+    "float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;">
     <div class = "card">
-      <img src="/assets/img/Nancy_Hoebelheinrich_Profile.png" alt = "Nancy" style = "width:100%"/>
+      <img src="/assets/img/Nancy_Hoebelheinrich_Profile.png" alt = "Nancy" height = "200"/>
       <div class = "container">
         <h2>Nancy J. Hoebelheinrich</h2>
-        <p class = "title">Ambassador Chair, Knowledge Motifs LLC</p>
+        <p class = "title" style = "color:grey;">Ambassadors Chair, Knowledge Motifs LLC</p>
         <p> gofairus@gmail.com</p>
-        <p><button class = "button">Contact</button></p>
       </div>
     </div>
   </div>
   
 <div class = "row">
-  <div class = "column">
+  <div class = "column" style=
+    "float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;">
     <div class = "card">
-      <img src="/assets/img/Katie_Knight_Profile.jpeg" alt = "Katie" style = "width:100%"/>
+      <img src="/assets/img/Katie_Knight_Profile.jpeg" alt = "Katie" height = "200"/>
       <div class = "container">
         <h2>Katie Knight</h2>
-        <p class = "title">GO FAIR US Member, Oak Ridge National Laboratory (OANL)</p>
+        <p class = "title" style = "color:grey;">GO TRAIN Chair, Oak Ridge National Laboratory (ORNL)</p>
         <p> gofairus@gmail.com</p>
-        <p><button class = "button">Contact</button></p>
       </div>
     </div>
   </div>
   
 <div class = "row">
-  <div class = "column">
+  <div class = "column" style=
+    "float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;">
     <div class = "card">
-      <img src="" alt = "Natalie" style = "width:100%"/>
+      <img src="Natalie_Meyers_Profile.jpeg" alt = "Natalie" height = "200"/>
       <div class = "container">
         <h2>Natalie Meyers</h2>
-        <p class = "title">GO FAIR US Member, Navari Family Center for Digital Scholarship</p>
+        <p class = "title" style = "color:grey;">GO FAIR US Office, Notre Dame</p>
         <p> gofairus@gmail.com</p>
-        <p><button class = "button">Contact</button></p>
       </div>
     </div>
   </div>
   
 <div class = "row">
-  <div class = "column">
+  <div class = "column" style=
+    "float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;">
     <div class = "card">
-      <img src="" alt = "Alexandra" style = "width:100%"/>
+      <img src="Alexandra_Andreiu_Profile.jpg" alt = "Alexandra" height = "200"/>
       <div class = "container">
         <h2>Alexandra Andreiu</h2>
-        <p class = "title">Project Manager, University of California, San Diego</p>
+        <p class = "title" style = "color:grey;">GO FAIR US Office Project Manager, SDSC/UC San Diego</p>
         <p> gofairus@gmail.com</p>
-        <p><button class = "button">Contact</button></p>
       </div>
     </div>
   </div>

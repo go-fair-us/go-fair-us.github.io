@@ -30,7 +30,7 @@ order: 1
 
 <div class = "row">
   <div class = "column" style=
-    "float: center;
+    "float: left;
     width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
@@ -94,7 +94,7 @@ order: 1
   
 <div class = "row">
   <div class = "column" style=
-    "float: center;
+    "float: left;
     width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">

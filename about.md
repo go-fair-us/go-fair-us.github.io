@@ -12,7 +12,7 @@ order: 1
 
 <h3>Team</h3>
 
-<div class = "row">
+<div class = "row" style= "content: ""; clear: both; display: table;">
   <div class = "column" style=
     "float: left;
     width: 33.3%;
@@ -20,7 +20,7 @@ order: 1
     padding: 0 8px;">
     <div class = "card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);">
       <img src="/assets/img/Christine_Kirkpatrick_Profile.jpeg" alt = "Christine" style="width:100%"/>
-      <div class = "container">
+      <div class = "container" style= "content: ""; clear: both; display: table;">
         <h2>Christine Kirkpatrick</h2>
         <p class = "title" style = "color:grey;"> GO FAIR US Office Head, SDSC/UC San Diego</p>
         <p> gofairus@gmail.com</p>
@@ -28,7 +28,7 @@ order: 1
     </div>
   </div>
 
-<div class = "row">
+<div class = "row" style= "content: ""; clear: both; display: table;">
   <div class = "column" style=
     "float: left;
     width: 33.3%;
@@ -36,7 +36,7 @@ order: 1
     padding: 0 8px;">
     <div class = "card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);">
       <img src="/assets/img/Melissa_Cragin_Profile.png" alt = "Melissa" style="width:100%"/>
-      <div class = "container">
+      <div class = "container" style= "content: ""; clear: both; display: table;">
         <h2>Melissa Cragin</h2>
         <p class = "title" style = "color:grey;">GO CHANGE Chair, SDSC/UC San Diego</p>
         <p> gofairus@gmail.com</p>
@@ -44,7 +44,7 @@ order: 1
     </div>
   </div>
 
-<div class = "row">
+<div class = "row" style= "content: ""; clear: both; display: table;">
   <div class = "column" style=
     "float: left;
     width: 33.3%;
@@ -52,7 +52,7 @@ order: 1
     padding: 0 8px;">
     <div class = "card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);">
       <img src="/assets/img/Juliane_Schneider_Profile.jpeg" alt = "Juliane" style="width:100%"/>
-      <div class = "container">
+      <div class = "container" style= "content: ""; clear: both; display: table;">
         <h2>Juliane Schneider</h2>
         <p class = "title" style = "color:grey;">GO FAIR US Office, Sage Bionetworks</p>
         <p> gofairus@gmail.com</p>
@@ -60,7 +60,7 @@ order: 1
     </div>
   </div>
   
-<div class = "row">
+<div class = "row" style= "content: ""; clear: both; display: table;">
   <div class = "column" style=
     "float: left;
     width: 33.3%;
@@ -68,7 +68,7 @@ order: 1
     padding: 0 8px;">
     <div class = "card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);">
       <img src="/assets/img/Chris_Erdmann_Profile.jpeg" alt = "Chris" style="width:100%"/>
-      <div class = "container">
+      <div class = "container" style= "content: ""; clear: both; display: table;">
         <h2>Chris Erdmann</h2>
         <p class = "title" style = "color:grey;">GO BUILD Chair, American Geophysical Union (AGU)</p>
         <p> gofairus@gmail.com</p>
@@ -76,7 +76,7 @@ order: 1
     </div>
   </div>
   
-<div class = "row">
+<div class = "row" style= "content: ""; clear: both; display: table;">
   <div class = "column" style=
     "float: left;
     width: 33.3%;
@@ -84,7 +84,7 @@ order: 1
     padding: 0 8px;">
     <div class = "card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);">
       <img src="/assets/img/Nancy_Hoebelheinrich_Profile.png" alt = "Nancy" style="width:100%"/>
-      <div class = "container">
+      <div class = "container" style= "content: ""; clear: both; display: table;">
         <h2>Nancy J. Hoebelheinrich</h2>
         <p class = "title" style = "color:grey;">Ambassadors Chair, Knowledge Motifs LLC</p>
         <p> gofairus@gmail.com</p>
@@ -92,7 +92,7 @@ order: 1
     </div>
   </div>
   
-<div class = "row">
+<div class = "row" style= "content: ""; clear: both; display: table;">
   <div class = "column" style=
     "float: left;
     width: 33.3%;
@@ -100,7 +100,7 @@ order: 1
     padding: 0 8px;">
     <div class = "card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);">
       <img src="/assets/img/Katie_Knight_Profile.jpeg" alt = "Katie" style="width:100%"/>
-      <div class = "container">
+      <div class = "container" style= "content: ""; clear: both; display: table;">
         <h2>Katie Knight</h2>
         <p class = "title" style = "color:grey;">GO TRAIN Chair, Oak Ridge National Laboratory (ORNL)</p>
         <p> gofairus@gmail.com</p>
@@ -108,7 +108,7 @@ order: 1
     </div>
   </div>
   
-<div class = "row">
+<div class = "row" style= "content: ""; clear: both; display: table;">
   <div class = "column" style=
     "float: left;
     width: 33.3%;
@@ -116,7 +116,7 @@ order: 1
     padding: 0 8px;">
     <div class = "card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);">
       <img src="/assets/img/Natalie_Meyers_Profile.jpeg" alt = "Natalie" style="width:100%"/>
-      <div class = "container">
+      <div class = "container" style= "content: ""; clear: both; display: table;">
         <h2>Natalie Meyers</h2>
         <p class = "title" style = "color:grey;">GO FAIR US Office, Notre Dame</p>
         <p> gofairus@gmail.com</p>
@@ -124,7 +124,7 @@ order: 1
     </div>
   </div>
   
-<div class = "row">
+<div class = "row" style= "content: ""; clear: both; display: table;">
   <div class = "column" style=
     "float: left;
     width: 33.3%;
@@ -132,14 +132,13 @@ order: 1
     padding: 0 8px;">
     <div class = "card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);">
       <img src="/assets/img/Alexandra_Andreiu_Profile.jpg" alt = "Alexandra" style="width:100%"/>
-      <div class = "container">
+      <div class = "container" style= "content: ""; clear: both; display: table;">
         <h2>Alexandra Andreiu</h2>
         <p class = "title" style = "color:grey;">GO FAIR US Office Project Manager, SDSC/UC San Diego</p>
         <p> gofairus@gmail.com</p>
       </div>
     </div>
-  </div>
-  
+  </div><br>
   
 <h3>Focus</h3>
 

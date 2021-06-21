@@ -18,7 +18,7 @@ order: 1
     width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
-    <div class = "card">
+    <div class = "card" style="box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0,2;">
       <img src="/assets/img/Christine_Kirkpatrick_Profile.jpeg" alt = "Christine" height = "200"/>
       <div class = "container">
         <h2>Christine Kirkpatrick</h2>
@@ -34,7 +34,7 @@ order: 1
     width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
-    <div class = "card">
+    <div class = "card" style="box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0,2;">
       <img src="/assets/img/Melissa_Cragin_Profile.png" alt = "Melissa" height = "200"/>
       <div class = "container">
         <h2>Melissa Cragin</h2>
@@ -50,8 +50,8 @@ order: 1
     width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
-    <div class = "card">
-      <img src="Juliane_Schneider_Profile.jpeg" alt = "Juliane" height = "200"/>
+    <div class = "card" style="box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0,2;">
+      <img src="/assets/img/Juliane_Schneider_Profile.jpeg" alt = "Juliane" height = "200"/>
       <div class = "container">
         <h2>Juliane Schneider</h2>
         <p class = "title" style = "color:grey;">GO FAIR US Office, Sage Bionetworks</p>
@@ -66,7 +66,7 @@ order: 1
     width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
-    <div class = "card">
+    <div class = "card" style="box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0,2;">
       <img src="/assets/img/Chris_Erdmann_Profile.jpeg" alt = "Chris" height = "200"/>
       <div class = "container">
         <h2>Chris Erdmann</h2>
@@ -82,7 +82,7 @@ order: 1
     width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
-    <div class = "card">
+    <div class = "card" style="box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0,2;">
       <img src="/assets/img/Nancy_Hoebelheinrich_Profile.png" alt = "Nancy" height = "200"/>
       <div class = "container">
         <h2>Nancy J. Hoebelheinrich</h2>
@@ -98,7 +98,7 @@ order: 1
     width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
-    <div class = "card">
+    <div class = "card" style="box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0,2;">
       <img src="/assets/img/Katie_Knight_Profile.jpeg" alt = "Katie" height = "200"/>
       <div class = "container">
         <h2>Katie Knight</h2>
@@ -114,8 +114,8 @@ order: 1
     width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
-    <div class = "card">
-      <img src="Natalie_Meyers_Profile.jpeg" alt = "Natalie" height = "200"/>
+    <div class = "card" style="box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0,2;">
+      <img src="/assets/img/Natalie_Meyers_Profile.jpeg" alt = "Natalie" height = "200"/>
       <div class = "container">
         <h2>Natalie Meyers</h2>
         <p class = "title" style = "color:grey;">GO FAIR US Office, Notre Dame</p>
@@ -130,8 +130,8 @@ order: 1
     width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;">
-    <div class = "card">
-      <img src="Alexandra_Andreiu_Profile.jpg" alt = "Alexandra" height = "200"/>
+    <div class = "card" style="box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0,2;">
+      <img src="/assets/img/Alexandra_Andreiu_Profile.jpg" alt = "Alexandra" height = "200"/>
       <div class = "container">
         <h2>Alexandra Andreiu</h2>
         <p class = "title" style = "color:grey;">GO FAIR US Office Project Manager, SDSC/UC San Diego</p>

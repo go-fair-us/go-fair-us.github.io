@@ -17,7 +17,7 @@ order: 1
     "float: left;
     width: 33.3%;
     margin-bottom: 14px;
-    padding: 0 10px;">
+    padding: 0 8px;">
     <div class = "card">
       <img src="/assets/img/Christine_Kirkpatrick_Profile.jpeg" alt = "Christine" height= "200" style="width:100%"/>
       <div class = "container">
@@ -32,7 +32,7 @@ order: 1
     "float: left;
     width: 33.3%;
     margin-bottom: 14px;
-    padding: 0 10px;">
+    padding: 0 8px;">
     <div class = "card">
       <img src="/assets/img/Melissa_Profile.png" alt = "Melissa" height= "200" style="width:100%"/>
       <div class = "container">
@@ -47,7 +47,7 @@ order: 1
     "float: left;
     width: 33.3%;
     margin-bottom: 14px;
-    padding: 0 10px;">
+    padding: 0 8px;">
     <div class = "card">
       <img src="/assets/img/Juliane_Schneider_Profile.jpeg" alt = "Juliane" height= "200" style="width:100%"/>
       <div class = "container">
@@ -62,7 +62,7 @@ order: 1
     "float: left;
     width: 33.3%;
     margin-bottom: 14px;
-    padding: 0 10px;">
+    padding: 0 8px;">
     <div class = "card">
       <img src="/assets/img/Chris_Erdmann_Profile.jpeg" alt = "Chris" height= "200" style="width:100%"/>
       <div class = "container">
@@ -77,7 +77,7 @@ order: 1
     "float: left;
     width: 33.3%;
     margin-bottom: 14px;
-    padding: 0 10px;">
+    padding: 0 8px;">
     <div class = "card">
       <img src="/assets/img/Katie_Profile.png" alt = "Katie" height= "200" style="width:100%"/>
       <div class = "container">
@@ -92,7 +92,7 @@ order: 1
     "float: left;
     width: 33.3%;
     margin-bottom: 14px;
-    padding: 0 10px;">
+    padding: 0 8px;">
     <div class = "card">
       <img src="/assets/img/Natalie_Meyers_Profile.jpeg" alt = "Natalie" height= "200" style="width:100%"/>
       <div class = "container">
@@ -107,7 +107,7 @@ order: 1
     "float: left;
     width: 33.3%;
     margin-bottom: 14px;
-    padding: 0 10px;">
+    padding: 0 8px;">
     <div class = "card">
       <img src="/assets/img/Alex_Andreiu_Profile.jpg" alt = "Alexandra" height= "200" style="width:100%"/>
       <div class = "container">
@@ -122,7 +122,7 @@ order: 1
     "float: left;
     width: 33.3%;
     margin-bottom: 14px;
-    padding: 0 10px;">
+    padding: 0 8px;">
     <div class = "card">
       <img src="/assets/img/Nancy_Hoebelheinrich_Profile.png" alt = "Nancy" height= "200" style="width:100%"/>
       <div class = "container">

@@ -26,7 +26,7 @@ order: 1
 <div class = "row">
   <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
     <div class = "card">
-      <img src="/assets/img/Melissa_Cragin_Profile.png" alt = "Melissa" height= "200"/>
+      <img src="/assets/img/Melissa_Profile.png" alt = "Melissa" height= "200"/>
       <div class = "container">
         <h4>Melissa Cragin</h4>
         <p class = "title" style = "color:grey;">GO CHANGE Chair, SDSC/UC San Diego</p>

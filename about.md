@@ -21,7 +21,7 @@ order: 1
     <div class = "card">
       <img src="/assets/img/Christine_Kirkpatrick_Profile.jpeg" alt = "Christine" height= "200" style="width:100%"/>
       <div class = "container">
-        <h2>Christine Kirkpatrick</h2>
+        <h3>Christine Kirkpatrick</h3>
         <p class = "title" style = "color:grey;"> GO FAIR US Office Head, SDSC/UC San Diego</p>
       </div>
     </div>
@@ -36,7 +36,7 @@ order: 1
     <div class = "card">
       <img src="/assets/img/Melissa_Profile.png" alt = "Melissa" height= "200" style="width:100%"/>
       <div class = "container">
-        <h2>Melissa Cragin</h2>
+        <h3>Melissa Cragin</h3>
         <p class = "title" style = "color:grey;">GO CHANGE Chair, SDSC/UC San Diego</p>
       </div>
     </div>
@@ -51,7 +51,7 @@ order: 1
     <div class = "card">
       <img src="/assets/img/Juliane_Schneider_Profile.jpeg" alt = "Juliane" height= "200" style="width:100%"/>
       <div class = "container">
-        <h2>Juliane Schneider</h2>
+        <h3>Juliane Schneider</h3>
         <p class = "title" style = "color:grey;">GO FAIR US Office, Sage Bionetworks</p>
       </div>
     </div>
@@ -66,7 +66,7 @@ order: 1
     <div class = "card">
       <img src="/assets/img/Chris_Erdmann_Profile.jpeg" alt = "Chris" height= "200" style="width:100%"/>
       <div class = "container">
-        <h2>Chris Erdmann</h2>
+        <h3>Chris Erdmann</h3>
         <p class = "title" style = "color:grey;">GO BUILD Chair, American Geophysical Union (AGU)</p>
       </div>
     </div>
@@ -81,7 +81,7 @@ order: 1
     <div class = "card">
       <img src="/assets/img/Katie_Profile.png" alt = "Katie" height= "200" style="width:100%"/>
       <div class = "container">
-        <h2>Katie Knight</h2>
+        <h3>Katie Knight</h3>
         <p class = "title" style = "color:grey;">GO TRAIN Chair, Oak Ridge National Laboratory (ORNL)</p>
       </div>
     </div>
@@ -96,7 +96,7 @@ order: 1
     <div class = "card">
       <img src="/assets/img/Natalie_Meyers_Profile.jpeg" alt = "Natalie" height= "200" style="width:100%"/>
       <div class = "container">
-        <h2>Natalie Meyers</h2>
+        <h3>Natalie Meyers</h3>
         <p class = "title" style = "color:grey;">GO FAIR US Office, Notre Dame</p>
       </div>
     </div>
@@ -111,7 +111,7 @@ order: 1
     <div class = "card">
       <img src="/assets/img/Alex_Andreiu_Profile.jpg" alt = "Alexandra" height= "200" style="width:100%"/>
       <div class = "container">
-        <h2>Alexandra Andreiu</h2>
+        <h3>Alexandra Andreiu</h3>
         <p class = "title" style = "color:grey;">GO FAIR US Office Project Manager, SDSC/UC San Diego</p>
       </div>
     </div>
@@ -126,7 +126,7 @@ order: 1
     <div class = "card">
       <img src="/assets/img/Nancy_Hoebelheinrich_Profile.png" alt = "Nancy" height= "200" style="width:100%"/>
       <div class = "container">
-        <h2>Nancy Hoebelheinrich</h2>
+        <h3>Nancy Hoebelheinrich</h3>
         <p class = "title" style = "color:grey;">Ambassadors Chair, Knowledge Motifs LLC</p>
       </div>
     </div>

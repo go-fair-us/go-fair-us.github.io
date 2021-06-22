@@ -12,9 +12,8 @@ order: 1
 
 <h3>Team</h3>
 
-<div class = "row" style = "content: ""; display: table; clear: both;">
-  <div class = "column" style=
-    "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+<div class = "row" style = "display: table; clear: both;">
+  <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
     <div class = "card">
       <img src="/assets/img/Christine_Kirkpatrick_Profile.jpeg" alt = "Christine" height= "200"/>
       <div class = "container">
@@ -24,9 +23,8 @@ order: 1
     </div>
   </div>
 
-<div class = "row" style = "content: ""; display: table; clear: both;">
-  <div class = "column" style=
-    "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+<div class = "row" style = "display: table; clear: both;">
+  <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
     <div class = "card">
       <img src="/assets/img/Melissa_Profile.png" alt = "Melissa" height= "200"/>
       <div class = "container">
@@ -36,9 +34,8 @@ order: 1
     </div>
   </div>
 
-<div class = "row" style = "content: ""; display: table; clear: both;">
-  <div class = "column" style=
-    "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+<div class = "row" style = "display: table; clear: both;">
+  <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
     <div class = "card">
       <img src="/assets/img/Juliane_Schneider_Profile.jpeg" alt = "Juliane" height= "200"/>
       <div class = "container">
@@ -48,9 +45,8 @@ order: 1
     </div>
   </div>
   
-<div class = "row" style = "content: ""; display: table; clear: both;">
-  <div class = "column" style=
-    "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+<div class = "row" style = "display: table; clear: both;">
+  <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
     <div class = "card">
       <img src="/assets/img/Chris_Erdmann_Profile.jpeg" alt = "Chris" height= "200"/>
       <div class = "container">
@@ -60,9 +56,8 @@ order: 1
     </div>
   </div>
   
-<div class = "row" style = "content: ""; display: table; clear: both;">
-  <div class = "column" style=
-    "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+<div class = "row" style = "display: table; clear: both;">
+  <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
     <div class = "card">
       <img src="/assets/img/Katie_Profile.png" alt = "Katie" height= "200"/>
       <div class = "container">
@@ -72,9 +67,8 @@ order: 1
     </div>
   </div>
   
-<div class = "row" style = "content: ""; display: table; clear: both;">
-  <div class = "column" style=
-    "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+<div class = "row" style = "display: table; clear: both;">
+  <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
     <div class = "card">
       <img src="/assets/img/Natalie_Meyers_Profile.jpeg" alt = "Natalie" height= "200"/>
       <div class = "container">
@@ -84,9 +78,8 @@ order: 1
     </div>
   </div>
   
-<div class = "row" style = "content: ""; display: table; clear: both;">
-  <div class = "column" style=
-    "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+<div class = "row" style = "display: table; clear: both;">
+  <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
     <div class = "card">
       <img src="/assets/img/Alex_Andreiu_Profile.jpg" alt = "Alexandra" height= "200"/>
       <div class = "container">
@@ -96,9 +89,8 @@ order: 1
     </div>
   </div>
   
-<div class = "row" style = "content: ""; display: table; clear: both;">
-  <div class = "column" style=
-    "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+<div class = "row" style = "display: table; clear: both;">
+  <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
     <div class = "card">
       <img src="/assets/img/Nancy_Hoebelheinrich_Profile.png" alt = "Nancy" height= "200"/>
       <div class = "container">

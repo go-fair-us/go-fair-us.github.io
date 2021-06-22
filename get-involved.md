@@ -7,7 +7,7 @@ feature-img: "assets/img/gofair_background.jpg"
 order: 2
 ---
 
-Connect with GO FAIR US:
+<h3>Connect with GO FAIR US:</h3>
 
 <ul>
   <li><a href="http://eepurl.com/hvjaQX">Mail List</a>. GO FAIR US's main communication channel. Sign up to receive periodic updates.</li><br />
@@ -25,7 +25,7 @@ Connect with GO FAIR US:
   <li><a href="https://forms.gle/qhvsb3ubCbEyCYQg6">Contact</a>. Send GO FAIR US general inquiries.</li><br />
 </ul>
 
-Deeper ways to engage:
+<h3>Deeper ways to engage:</h3>
 
 <ul>
   <li>Join an <a href="https://www.go-fair.org/implementation-networks/" title="GO FAIR Implementation Networks">Implementation Network (IN)</a>.</li><br />

@@ -126,7 +126,7 @@ order: 1
     <div class = "card">
       <img src="/assets/img/Alex_Andreiu_Profile.jpg" alt = "Alexandra" height= "200" style="width:100%"/>
       <div class = "container">
-        <h2>Alexandra Andreiu</h2>
+        <h2>Alex Andreiu</h2>
         <p class = "title" style = "color:grey;">GO FAIR US Office Project Manager, SDSC/UC San Diego</p>
       </div>
     </div>

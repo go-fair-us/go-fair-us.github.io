@@ -79,21 +79,6 @@ order: 1
     margin-bottom: 14px;
     padding: 0 10px;">
     <div class = "card">
-      <img src="/assets/img/Nancy_Hoebelheinrich_Profile.png" alt = "Nancy" height= "200" style="width:100%"/>
-      <div class = "container">
-        <h2>Nancy Hoebelheinrich</h2>
-        <p class = "title" style = "color:grey;">Ambassadors Chair, Knowledge Motifs LLC</p>
-      </div>
-    </div>
-  </div>
-  
-<div class = "row">
-  <div class = "column" style=
-    "float: left;
-    width: 33.3%;
-    margin-bottom: 14px;
-    padding: 0 10px;">
-    <div class = "card">
       <img src="/assets/img/Katie_Profile.png" alt = "Katie" height= "200" style="width:100%"/>
       <div class = "container">
         <h2>Katie Knight</h2>
@@ -113,6 +98,21 @@ order: 1
       <div class = "container">
         <h2>Natalie Meyers</h2>
         <p class = "title" style = "color:grey;">GO FAIR US Office, Notre Dame</p>
+      </div>
+    </div>
+  </div>
+  
+<div class = "row">
+  <div class = "column" style=
+    "float: left;
+    width: 33.3%;
+    margin-bottom: 14px;
+    padding: 0 10px;">
+    <div class = "card">
+      <img src="/assets/img/Nancy_Hoebelheinrich_Profile.png" alt = "Nancy" height= "200" style="width:100%"/>
+      <div class = "container">
+        <h2>Nancy Hoebelheinrich</h2>
+        <p class = "title" style = "color:grey;">Ambassadors Chair, Knowledge Motifs LLC</p>
       </div>
     </div>
   </div>

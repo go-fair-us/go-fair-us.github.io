@@ -51,7 +51,7 @@ order: 1
       <img src="/assets/img/Chris_Erdmann_Profile.jpeg" alt = "Chris" height= "200"/>
       <div class = "container">
         <h4>Chris Erdmann</h4>
-        <p class = "title" style = "color:grey;">GO BUILD Chair, American Geophysical Union (AGU)</p>
+        <p class = "title" style = "color:grey;">GO BUILD Chair, American Geophysical Union</p>
       </div>
     </div>
   </div>
@@ -73,7 +73,7 @@ order: 1
       <img src="/assets/img/Katie_Profile.png" alt = "Katie" height= "200"/>
       <div class = "container">
         <h4>Katie Knight</h4>
-        <p class = "title" style = "color:grey;">GO TRAIN Chair, Oak Ridge National Laboratory (ORNL)</p>
+        <p class = "title" style = "color:grey;">GO TRAIN Chair, Oak Ridge National Laboratory</p>
       </div>
     </div>
   </div>
@@ -84,7 +84,7 @@ order: 1
       <img src="/assets/img/Alex_Andreiu_Profile.jpg" alt = "Alexandra" height= "200"/>
       <div class = "container">
         <h4>Alexandra Andreiu</h4>
-        <p class = "title" style = "color:grey;">GO FAIR US Office Project Manager, SDSC/UC San Diego</p>
+        <p class = "title" style = "color:grey;">GO FAIR US Office Project Manager, SDSC/UCSD</p>
       </div>
     </div>
   </div>
@@ -100,7 +100,7 @@ order: 1
     </div>
   </div>
   
-<br><br><h3>Focus</h3>
+<h3>Focus</h3>
 
 <p>The GO FAIR US Support and Coordination Office disseminates, supports and coordinates the recommendations and activities related to the adoption of the GO FAIR implementation networks within the United States and its territories. GO FAIR US focuses on all knowledge domains and the general goal of increasing FAIR data stewardship; the values and goals of GO FAIR are complementary to the aims of other data initiatives and memberships including NDS, and the NSF Big Data Hubs. This synergy was enshrined in the <a href="https://www.go-fair.org/2020/03/30/data-together-statement/" title="2020 Data Together Statement">2020 Data Together Statement</a> issued by GO FAIR, CODATA, WDS, and the Research Data Alliance. SDSC has a rich history of providing the latest in techniques and technologies for supporting data-driven discovery and research. The GO FAIR partnership provides a strategic way to develop the US research data stewardship ecosystem through partnerships with local industry on training and techniques that make data more accessible to people and machines.
   

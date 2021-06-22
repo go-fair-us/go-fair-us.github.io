@@ -130,7 +130,9 @@ order: 1
         <p class = "title" style = "color:grey;">GO FAIR US Office Project Manager, SDSC/UC San Diego</p>
       </div>
     </div>
-  </div><br>
+  </div>
+ <br>
+  
   
 <h3>Focus</h3>
 

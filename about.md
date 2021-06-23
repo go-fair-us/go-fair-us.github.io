@@ -6,7 +6,6 @@ feature-img: "assets/img/gofair_background.jpg"
 order: 1
 css: "about.css"
 ---
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <a href="" title=""></a>
 <h3>Background</h3>
 

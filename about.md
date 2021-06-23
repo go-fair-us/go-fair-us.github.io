@@ -14,7 +14,7 @@ order: 1
 <h3>Team</h3>
   <div class = "row" style = "position:static;">
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:static;">
-      <div class = "card" style = "position:static;>
+      <div class = "card" style = "position:static;">
         <img src="/assets/img/Christine_Profile.png" alt = "Christine" height= "200" width= "170" 
              style="border-radius:50%;"/>
         <div class = "container">

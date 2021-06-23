@@ -12,9 +12,9 @@ order: 1
 
 
 <h3>Team</h3>
-  <div class = "row" style = "position:static;">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:static;">
-      <div class = "card" style = "position:static;">
+  <div class = "row" style = "position:absolute;">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:absolute;">
+      <div class = "card" style = "position:absolute;">
         <img src="/assets/img/Christine_Profile.png" alt = "Christine" height= "200" width= "170" 
              style="border-radius:50%;"/>
         <div class = "container">
@@ -24,9 +24,9 @@ order: 1
       </div>
     </div>
 
-  <div class = "row" stlye = "position:static;">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:static;">
-      <div class = "card" style = "position:static;">
+  <div class = "row" stlye = "position:absolute;">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:absolute;">
+      <div class = "card" style = "position:absolute;">
         <img src="/assets/img/Melissa_Profile.png" alt = "Melissa" height= "200" width= "170"
              style="border-radius:50%;"/>
         <div class = "container">
@@ -36,9 +36,9 @@ order: 1
       </div>
     </div>
 
-  <div class = "row" stlye = "position:static;">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:static;">
-      <div class = "card" style = "position:static;">
+  <div class = "row" stlye = "position:absolute;">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:absolute;">
+      <div class = "card" style = "position:absolute;">
         <img src="/assets/img/Juliane_Schneider_Profile.jpeg" alt = "Juliane" height= "200" width= "170"
              style="border-radius:50%;"/>
         <div class = "container">
@@ -48,9 +48,9 @@ order: 1
       </div>
     </div>
 
-  <div class = "row" stlye = "position:static;">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:static;">
-      <div class = "card" style = "position:static;">
+  <div class = "row" stlye = "position:absolute;">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:absolute;">
+      <div class = "card" style = "position:absolute;">
         <img src="/assets/img/Chris_Profile.png" alt = "Chris" height= "200" width= "170"
              style="border-radius:50%;"/>
         <div class = "container">
@@ -60,9 +60,9 @@ order: 1
       </div>
     </div>
 
-  <div class = "row" stlye = "position:static;">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:static;">
-      <div class = "card" style = "position:static;">
+  <div class = "row" stlye = "position:absolute;">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:absolute">
+      <div class = "card" style = "position:absolute;">
         <img src="/assets/img/Natalie_Profile.png" alt = "Natalie" height= "200" width= "170"
              style="border-radius:50%;"/>
         <div class = "container">
@@ -72,9 +72,9 @@ order: 1
       </div>
     </div>
 
-  <div class = "row" stlye = "position:static;">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:static;">
-      <div class = "card" style = "position:static;">
+  <div class = "row" stlye = "position:absolute;">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:absolute;">
+      <div class = "card" style = "position:absolute;">
         <img src="/assets/img/Katie_Profile.png" alt = "Katie" height= "200" width= "170"
              style="border-radius:50%;"/>
         <div class = "container">
@@ -84,9 +84,9 @@ order: 1
       </div>
     </div>
 
-  <div class = "row" stlye = "position:static;">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:static;">
-      <div class = "card" style = "position:static;">
+  <div class = "row" stlye = "position:absolute;">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:absolute;">
+      <div class = "card" style = "position:absolute;">
         <img src="/assets/img/Alexandra_Andreiu_Profile.jpg" alt = "Alexandra" height= "200" width= "170"
              style="border-radius:50%;"/>
         <div class = "container">
@@ -96,9 +96,9 @@ order: 1
       </div>
     </div>
 
-  <div class = "row" stlye = "position:static;">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:static;">
-      <div class = "card" style = "position:static;">
+  <div class = "row" stlye = "position:absolute;">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; position:absolute;">
+      <div class = "card" style = "position:absolute;">
         <img src="/assets/img/Nancy_Hoebelheinrich_Profile.png" alt = "Nancy" height= "200" width= "170"
              style="border-radius:50%;"/>
         <div class = "container">
@@ -108,7 +108,7 @@ order: 1
       </div>
     </div>
 <br>  
-<h3 stlye = "position:static;">Focus</h3>
+<h3 stlye = "position:absolute;">Focus</h3>
 
 <p>The GO FAIR US Support and Coordination Office disseminates, supports and coordinates the recommendations and activities related to the adoption of the GO FAIR implementation networks within the United States and its territories. GO FAIR US focuses on all knowledge domains and the general goal of increasing FAIR data stewardship; the values and goals of GO FAIR are complementary to the aims of other data initiatives and memberships including NDS, and the NSF Big Data Hubs. This synergy was enshrined in the <a href="https://www.go-fair.org/2020/03/30/data-together-statement/" title="2020 Data Together Statement">2020 Data Together Statement</a> issued by GO FAIR, CODATA, WDS, and the Research Data Alliance. SDSC has a rich history of providing the latest in techniques and technologies for supporting data-driven discovery and research. The GO FAIR partnership provides a strategic way to develop the US research data stewardship ecosystem through partnerships with local industry on training and techniques that make data more accessible to people and machines.
 

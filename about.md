@@ -5,6 +5,7 @@ permalink: /about/
 feature-img: "assets/img/gofair_background.jpg"
 order: 1
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <a href="" title=""></a>
 <h3>Background</h3>
 
@@ -13,7 +14,8 @@ order: 1
 
 <h3>Team</h3>
   <div class = "row">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;" @media screen and (max-width: 650px) "width: 100%;
+    display: block;">
       <div class = "card">
         <img src="/assets/img/Christine_Profile.png" alt = "Christine" height= "200" width= "170" 
              style="border-radius:50%;"/>

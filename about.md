@@ -52,7 +52,7 @@ order: 1
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
         <img src="/assets/img/Chris_Profile.png" alt = "Chris" height= "200" width= "170"
-             style="border-radius:50%;"/>
+             style="border-radius:50%; position:static;"/>
         <div class = "container">
           <h4>Chris Erdmann</h4>
           <p class = "title" style = "color:grey;">GO BUILD Chair, American Geophysical Union</p>
@@ -64,7 +64,7 @@ order: 1
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card" style = "position:absolute;">
         <img src="/assets/img/Natalie_Profile.png" alt = "Natalie" height= "200" width= "170"
-             style="border-radius:50%;"/>
+             style="border-radius:50%; position:static;"/>
         <div class = "container">
           <h4>Natalie Meyers</h4>
           <p class = "title" style = "color:grey;">GO FAIR US Office, Notre Dame</p>
@@ -76,7 +76,7 @@ order: 1
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
         <img src="/assets/img/Katie_Profile.png" alt = "Katie" height= "200" width= "170"
-             style="border-radius:50%;"/>
+             style="border-radius:50%; position:static;"/>
         <div class = "container">
           <h4>Katie Knight</h4>
           <p class = "title" style = "color:grey;">GO TRAIN Chair, Oak Ridge National Laboratory</p>
@@ -88,7 +88,7 @@ order: 1
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
         <img src="/assets/img/Alexandra_Andreiu_Profile.jpg" alt = "Alexandra" height= "200" width= "170"
-             style="border-radius:50%;"/>
+             style="border-radius:50%; position:static;"/>
         <div class = "container">
           <h4>Alexandra Andreiu</h4>
           <p class = "title" style = "color:grey;">GO FAIR US Office Project Manager, SDSC/UCSD</p>
@@ -100,7 +100,7 @@ order: 1
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
         <img src="/assets/img/Nancy_Hoebelheinrich_Profile.png" alt = "Nancy" height= "200" width= "170"
-             style="border-radius:50%;"/>
+             style="border-radius:50%; position:static;"/>
         <div class = "container">
           <h4>Nancy Hoebelheinrich</h4>
           <p class = "title" style = "color:grey;">Ambassadors Chair, Knowledge Motifs LLC</p>

@@ -10,8 +10,8 @@ order: 1
 
 <p>The GO FAIR US Support and Coordination Office is hosted by the <a href="https://www.sdsc.edu/" title="San Diego Supercomputer Center (SDSC)">San Diego Supercomputer Center (SDSC)</a>, University of California San Diego. SDSC is involved in other related and high profile research data efforts, including the US National Science Foundation-funded <a href="https://westbigdatahub.org/" title="">West Big Data Innovation Hub</a> and the <a href="http://www.nationaldataservice.org/" title="US National Data Service (NDS)">US National Data Service (NDS)</a>. The US NDS, based at the National Center for Supercomputing Applications (NCSA) at the University of Illinois Urbana Champaign, with Christine Kirkpatrick as Executive Director, was founded by a consortium that included academia, government, infrastructure providers, and non-profit institutions interested in creating and bridging evolving technologies and platforms that support the publication, discovery, andreuse of data. GO FAIR US was established in February 2019 as one of the first GO FAIR national offices, see the <a href="https://www.sdsc.edu/News%20Items/PR20190228_RDS_GOFAIR.html" title="GO FAIR US Press Release">press release</a> announcing the office start along with the <a href="https://www.go-fair.org/wp-content/uploads/2020/08/Declaration-GO-FAIR-US.pdf" title="Go FAIR US Declaration">declaration.</a></p>
 
+<div class = "page" stlye = "position:fixed;">
 <h3>Team</h3>
-<div class = "team" stlye = "position:fixed;">
   <div class = "row">
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
@@ -99,7 +99,6 @@ order: 1
         </div>
       </div>
     </div>
-</div>
   
 <h3>Focus</h3>
 
@@ -128,3 +127,4 @@ order: 1
 <p>GO FAIR US is engaged with other leaders in research data, including these important partners.</p>
 
 <p><a href="https://www.sdsc.edu/" title="SDSC Website and Logo"><img src="../assets/img/partners/sdsc-partner-logo.jpg" alt="SDSC Logo"> <a href="https://renci.org/" title="RENCI Website and Logo"><img src="../assets/img/partners/renci-partner-logo.jpg" alt="RENCI Logo"></a> <a href="https://datascienceconsortium.org/" title="NCDS Website and Logo"><img src="../assets/img/partners/ncds-partner-logo.jpg" alt="NCDS Logo"></a>
+</div>

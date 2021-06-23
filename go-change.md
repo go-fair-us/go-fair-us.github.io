@@ -7,7 +7,7 @@ feature-img: "assets/img/gofair_background.jpg"
 hide: true
 ---
 
-<h3> GO Change Initiative</h3>
+<h3> GO CHANGE Initiative</h3>
 
 <p> The GO CHANGE Pillar of GO FAIR US will focus on monitoring, translating and adapting policy and incentives for the implementation of FAIR. The Founding Chair will be Melissa Cragin.
  </p>

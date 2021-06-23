@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 feature-img: "assets/img/gofair_background.jpg"
 order: 1
+css: "about.css"
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <a href="" title=""></a>
@@ -40,23 +41,23 @@ order: 1
   <div class = "row">
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
-        <img src="/assets/img/Juliane_Schneider_Profile.jpeg" alt = "Juliane" height= "200" width= "170"
-             style="border-radius:50%; position:static;"/>
-        <div class = "container">
-          <h4>Juliane Schneider</h4>
-          <p class = "title" style = "color:grey;">GO FAIR US Office, Sage Bionetworks</p>
-        </div>
-      </div>
-    </div>
-
-  <div class = "row">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
-      <div class = "card">
         <img src="/assets/img/Chris_Profile.png" alt = "Chris" height= "200" width= "170"
              style="border-radius:50%; position:static;"/>
         <div class = "container">
           <h4>Chris Erdmann</h4>
           <p class = "title" style = "color:grey;">GO BUILD Chair, American Geophysical Union</p>
+        </div>
+      </div>
+    </div>
+    
+  <div class = "row">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+      <div class = "card">
+        <img src="/assets/img/Juliane_Schneider_Profile.jpeg" alt = "Juliane" height= "200" width= "170"
+             style="border-radius:50%; position:static;"/>
+        <div class = "container">
+          <h4>Juliane Schneider</h4>
+          <p class = "title" style = "color:grey;">GO FAIR US Office, Sage Bionetworks</p>
         </div>
       </div>
     </div>

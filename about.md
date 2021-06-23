@@ -5,7 +5,6 @@ permalink: /about/
 feature-img: "assets/img/gofair_background.jpg"
 order: 1
 ---
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
 <a href="" title=""></a>
 <h3>Background</h3>
 
@@ -17,7 +16,7 @@ order: 1
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
         <img src="/assets/img/Christine_Profile.png" alt = "Christine" height= "200" width= "170" 
-             style="border-radius:50%;"/>
+             style="border-radius:50%; position:static"/>
         <div class = "container">
           <h4>Christine Kirkpatrick</h4>
           <p class = "title" style = "color:grey;"> GO FAIR US Office Head, SDSC/UC San Diego</p>
@@ -29,7 +28,7 @@ order: 1
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
         <img src="/assets/img/Melissa_Profile.png" alt = "Melissa" height= "200" width= "170"
-             style="border-radius:50%;"/>
+             style="border-radius:50%; position:static""/>
         <div class = "container">
           <h4>Melissa Cragin</h4>
           <p class = "title" style = "color:grey;">GO CHANGE Chair, SDSC/UC San Diego</p>
@@ -41,7 +40,7 @@ order: 1
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
         <img src="/assets/img/Juliane_Schneider_Profile.jpeg" alt = "Juliane" height= "200" width= "170"
-             style="border-radius:50%;"/>
+             style="border-radius:50%; position:static"/>
         <div class = "container">
           <h4>Juliane Schneider</h4>
           <p class = "title" style = "color:grey;">GO FAIR US Office, Sage Bionetworks</p>

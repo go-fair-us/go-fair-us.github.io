@@ -98,7 +98,7 @@ order: 1
     </div>
 
   <div class = "row">
-    <div class = "column" style = "float: left; width: 12.5%; margin-bottom: 18px; padding: 0 8px;">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
         <img src="/assets/img/Nancy_Hoebelheinrich_Profile.png" alt = "Nancy" height= "200" width= "170"
              style="border-radius:50%; position:static;"/>

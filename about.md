@@ -12,7 +12,6 @@ order: 1
 
 
 <h3>Team</h3>
-<div class = "page" style = "position:absolute;">
   <div class = "row">
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
@@ -108,9 +107,9 @@ order: 1
         </div>
       </div>
     </div>
-  </div>
+    
 <br>  
-<h3>Focus</h3>
+<h3 style = "position:absolute;">Focus</h3>
 
 <p>The GO FAIR US Support and Coordination Office disseminates, supports and coordinates the recommendations and activities related to the adoption of the GO FAIR implementation networks within the United States and its territories. GO FAIR US focuses on all knowledge domains and the general goal of increasing FAIR data stewardship; the values and goals of GO FAIR are complementary to the aims of other data initiatives and memberships including NDS, and the NSF Big Data Hubs. This synergy was enshrined in the <a href="https://www.go-fair.org/2020/03/30/data-together-statement/" title="2020 Data Together Statement">2020 Data Together Statement</a> issued by GO FAIR, CODATA, WDS, and the Research Data Alliance. SDSC has a rich history of providing the latest in techniques and technologies for supporting data-driven discovery and research. The GO FAIR partnership provides a strategic way to develop the US research data stewardship ecosystem through partnerships with local industry on training and techniques that make data more accessible to people and machines.
 

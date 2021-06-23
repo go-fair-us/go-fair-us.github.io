@@ -1,7 +1,14 @@
 # SITE CONFIGURATION
 baseurl:
 url: "https://go-fair-us.github.io/"
-
+nav:
+  - 'about.md'
+  - 'get-involved.md' 
+     - 'go-train.md'
+  - 'news.md'
+  - 'events.md'
+  - 'principles.md'
+  
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta

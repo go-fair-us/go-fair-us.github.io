@@ -13,7 +13,7 @@ order: 1
 
 <h3>Team</h3>
   <div class = "row" style = "display:flex;">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; flex:50%">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; flex:25%">
       <div class = "card">
         <img src="/assets/img/Christine_Profile.png" alt = "Christine" height= "200" width= "170" 
              style="border-radius:50%; position:static;"/>
@@ -25,7 +25,7 @@ order: 1
     </div>
 
   <div class = "row" style = "display:flex;">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; flex:50%">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; flex:25%">
       <div class = "card">
         <img src="/assets/img/Melissa_Profile.png" alt = "Melissa" height= "200" width= "170"
              style="border-radius:50%; position:static;"/>
@@ -37,7 +37,7 @@ order: 1
     </div>
 
   <div class = "row" style = "display:flex;">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; flex:50%">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; flex:25%">
       <div class = "card">
         <img src="/assets/img/Juliane_Schneider_Profile.jpeg" alt = "Juliane" height= "200" width= "170"
              style="border-radius:50%; position:static;"/>
@@ -49,7 +49,7 @@ order: 1
     </div>
 
   <div class = "row" style = "display:flex;">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; flex:50%">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; flex:25%">
       <div class = "card">
         <img src="/assets/img/Chris_Profile.png" alt = "Chris" height= "200" width= "170"
              style="border-radius:50%; position:static;"/>
@@ -61,7 +61,7 @@ order: 1
     </div>
 
   <div class = "row" style = "display:flex;">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; flex:50%">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; flex:25%">
       <div class = "card" style = "position:absolute;">
         <img src="/assets/img/Natalie_Profile.png" alt = "Natalie" height= "200" width= "170"
              style="border-radius:50%; position:static;"/>
@@ -73,7 +73,7 @@ order: 1
     </div>
 
   <div class = "row" style = "display:flex;">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; flex:50%">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; flex:25%">
       <div class = "card">
         <img src="/assets/img/Katie_Profile.png" alt = "Katie" height= "200" width= "170"
              style="border-radius:50%; position:static;"/>
@@ -85,7 +85,7 @@ order: 1
     </div>
 
   <div class = "row" style = "display:flex;">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; flex:50%">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; flex:25%">
       <div class = "card">
         <img src="/assets/img/Alexandra_Andreiu_Profile.jpg" alt = "Alexandra" height= "200" width= "170"
              style="border-radius:50%; position:static;"/>
@@ -97,7 +97,7 @@ order: 1
     </div>
 
   <div class = "row" style = "display:flex;">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; flex:50%">
+    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px; flex:25%">
       <div class = "card">
         <img src="/assets/img/Nancy_Hoebelheinrich_Profile.png" alt = "Nancy" height= "200" width= "170"
              style="border-radius:50%; position:static;"/>

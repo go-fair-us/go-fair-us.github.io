@@ -62,7 +62,7 @@ order: 1
 
   <div class = "row">
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
-      <div class = "card" style = "position:absolute;">
+      <div class = "card" style = "position:static;">
         <img src="/assets/img/Natalie_Profile.png" alt = "Natalie" height= "200" width= "170"
              style="border-radius:50%; position:static;"/>
         <div class = "container">

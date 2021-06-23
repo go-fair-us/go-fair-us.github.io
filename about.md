@@ -12,12 +12,12 @@ order: 1
 
 
 <h3>Team</h3>
-<div class = "page" stlye = "position:fixed;">
+<div class = "page" stlye = "position:static;">
   <div class = "row">
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
         <img src="/assets/img/Christine_Profile.png" alt = "Christine" height= "200" width= "170" 
-             style="box-shadow:2px 2px;border-radius:50%;"/>
+             style="border-radius:50%;"/>
         <div class = "container">
           <h4>Christine Kirkpatrick</h4>
           <p class = "title" style = "color:grey;"> GO FAIR US Office Head, SDSC/UC San Diego</p>
@@ -29,7 +29,7 @@ order: 1
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
         <img src="/assets/img/Melissa_Profile.png" alt = "Melissa" height= "200" width= "170"
-             style="box-shadow:2px 2px;border-radius:50%;"/>
+             style="border-radius:50%;"/>
         <div class = "container">
           <h4>Melissa Cragin</h4>
           <p class = "title" style = "color:grey;">GO CHANGE Chair, SDSC/UC San Diego</p>
@@ -41,7 +41,7 @@ order: 1
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
         <img src="/assets/img/Juliane_Schneider_Profile.jpeg" alt = "Juliane" height= "200" width= "170"
-             style="box-shadow:2px 2px;border-radius:50%;"/>
+             style="border-radius:50%;"/>
         <div class = "container">
           <h4>Juliane Schneider</h4>
           <p class = "title" style = "color:grey;">GO FAIR US Office, Sage Bionetworks</p>
@@ -53,7 +53,7 @@ order: 1
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
         <img src="/assets/img/Chris_Profile.png" alt = "Chris" height= "200" width= "170"
-             style="box-shadow:2px 2px;border-radius:25px;"/>
+             style="border-radius:50%;"/>
         <div class = "container">
           <h4>Chris Erdmann</h4>
           <p class = "title" style = "color:grey;">GO BUILD Chair, American Geophysical Union</p>
@@ -65,7 +65,7 @@ order: 1
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
         <img src="/assets/img/Natalie_Profile.png" alt = "Natalie" height= "200" width= "170"
-             style="box-shadow:2px 2px;border-radius:25px;"/>
+             style="border-radius:50%;"/>
         <div class = "container">
           <h4>Natalie Meyers</h4>
           <p class = "title" style = "color:grey;">GO FAIR US Office, Notre Dame</p>
@@ -77,7 +77,7 @@ order: 1
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
         <img src="/assets/img/Katie_Profile.png" alt = "Katie" height= "200" width= "170"
-             style="box-shadow:2px 2px;border-radius:25px;"/>
+             style="border-radius:50%;"/>
         <div class = "container">
           <h4>Katie Knight</h4>
           <p class = "title" style = "color:grey;">GO TRAIN Chair, Oak Ridge National Laboratory</p>
@@ -89,7 +89,7 @@ order: 1
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
         <img src="/assets/img/Alexandra_Andreiu_Profile.jpg" alt = "Alexandra" height= "200" width= "170"
-             style="box-shadow:2px 2px;border-radius:25px;"/>
+             style="border-radius:50%;"/>
         <div class = "container">
           <h4>Alexandra Andreiu</h4>
           <p class = "title" style = "color:grey;">GO FAIR US Office Project Manager, SDSC/UCSD</p>
@@ -101,7 +101,7 @@ order: 1
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
         <img src="/assets/img/Nancy_Hoebelheinrich_Profile.png" alt = "Nancy" height= "200" width= "170"
-             style="box-shadow:2px 2px;border-radius:25px;"/>
+             style="border-radius:50%;"/>
         <div class = "container">
           <h4>Nancy Hoebelheinrich</h4>
           <p class = "title" style = "color:grey;">Ambassadors Chair, Knowledge Motifs LLC</p>
@@ -109,33 +109,32 @@ order: 1
       </div>
     </div>
 </div>
+  
+<h3>Focus</h3>
 
-<div class = "focus" stlye = "position:fixed;">
-  <h3>Focus</h3>
+<p>The GO FAIR US Support and Coordination Office disseminates, supports and coordinates the recommendations and activities related to the adoption of the GO FAIR implementation networks within the United States and its territories. GO FAIR US focuses on all knowledge domains and the general goal of increasing FAIR data stewardship; the values and goals of GO FAIR are complementary to the aims of other data initiatives and memberships including NDS, and the NSF Big Data Hubs. This synergy was enshrined in the <a href="https://www.go-fair.org/2020/03/30/data-together-statement/" title="2020 Data Together Statement">2020 Data Together Statement</a> issued by GO FAIR, CODATA, WDS, and the Research Data Alliance. SDSC has a rich history of providing the latest in techniques and technologies for supporting data-driven discovery and research. The GO FAIR partnership provides a strategic way to develop the US research data stewardship ecosystem through partnerships with local industry on training and techniques that make data more accessible to people and machines.
 
-  <p>The GO FAIR US Support and Coordination Office disseminates, supports and coordinates the recommendations and activities related to the adoption of the GO FAIR implementation networks within the United States and its territories. GO FAIR US focuses on all knowledge domains and the general goal of increasing FAIR data stewardship; the values and goals of GO FAIR are complementary to the aims of other data initiatives and memberships including NDS, and the NSF Big Data Hubs. This synergy was enshrined in the <a href="https://www.go-fair.org/2020/03/30/data-together-statement/" title="2020 Data Together Statement">2020 Data Together Statement</a> issued by GO FAIR, CODATA, WDS, and the Research Data Alliance. SDSC has a rich history of providing the latest in techniques and technologies for supporting data-driven discovery and research. The GO FAIR partnership provides a strategic way to develop the US research data stewardship ecosystem through partnerships with local industry on training and techniques that make data more accessible to people and machines.
+</p>
 
-  </p>
+<h3>Goals</h3>
 
-  <h3>Goals</h3>
+<p>Within the general guidelines for involvement in GO FAIR at the country/region level, the US Office, commits to the following activities in the context of     science and innovation:
 
-   <p>Within the general guidelines for involvement in GO FAIR at the country/region level, the US Office, commits to the following activities in the context of     science and innovation:
+<ul>
+<li>Connect and partner with FAIR stakeholders, e.g. researchers, infrastructure providers, institutions, publishers, agencies, industry, libraries, and funders.</li>
+<li>Highlight and foster community discussions on the topic of FAIR. For example, FAIR in AI, software, data science, model commons, new scholarship methods, e.g. notebooks.</li>
+<li>Be a place where FAIR training and assessment approaches and material can be shared and advanced collaboratively.</li>
+<li>Liaise with <a href="https://www.go-fair.org/go-fair-initiative/go-fair-offices/">GO FAIR International Support and Coordination Office (GFISCO)</a>.</li>
+<li>Build awareness of <a href="https://www.go-fair.org/implementation-networks/" title="GO FAIR Implementation Network (IN)">GO FAIR Implementation Network (IN)</a> activities in the US and worldwide.</li>
+<li>Respond rapidly to evolving needs, such as integration and expansion of the Virus Outbreak Data Network (VODAN).</li>
+</ul>
 
-  <ul>
-  <li>Connect and partner with FAIR stakeholders, e.g. researchers, infrastructure providers, institutions, publishers, agencies, industry, libraries, and funders.</li>
-  <li>Highlight and foster community discussions on the topic of FAIR. For example, FAIR in AI, software, data science, model commons, new scholarship methods, e.g. notebooks.</li>
-  <li>Be a place where FAIR training and assessment approaches and material can be shared and advanced collaboratively.</li>
-  <li>Liaise with <a href="https://www.go-fair.org/go-fair-initiative/go-fair-offices/">GO FAIR International Support and Coordination Office (GFISCO)</a>.</li>
-  <li>Build awareness of <a href="https://www.go-fair.org/implementation-networks/" title="GO FAIR Implementation Network (IN)">GO FAIR Implementation Network (IN)</a> activities in the US and worldwide.</li>
-  <li>Respond rapidly to evolving needs, such as integration and expansion of the Virus Outbreak Data Network (VODAN).</li>
-  </ul>
-
-  </p>
+</p>
 
 
-  <h3>Partners</h3>
+<h3>Partners</h3>
 
-  <p>GO FAIR US is engaged with other leaders in research data, including these important partners.</p>
+<p>GO FAIR US is engaged with other leaders in research data, including these important partners.</p>
 
-  <p><a href="https://www.sdsc.edu/" title="SDSC Website and Logo"><img src="../assets/img/partners/sdsc-partner-logo.jpg" alt="SDSC Logo"> <a href="https://renci.org/" title="RENCI Website and Logo"><img src="../assets/img/partners/renci-partner-logo.jpg" alt="RENCI Logo"></a> <a href="https://datascienceconsortium.org/" title="NCDS Website and Logo"><img src="../assets/img/partners/ncds-partner-logo.jpg" alt="NCDS Logo"></a>
-</div>
+<p><a href="https://www.sdsc.edu/" title="SDSC Website and Logo"><img src="../assets/img/partners/sdsc-partner-logo.jpg" alt="SDSC Logo"> <a href="https://renci.org/" title="RENCI Website and Logo"><img src="../assets/img/partners/renci-partner-logo.jpg" alt="RENCI Logo"></a> <a href="https://datascienceconsortium.org/" title="NCDS Website and Logo"><img src="../assets/img/partners/ncds-partner-logo.jpg" alt="NCDS Logo"></a>
+

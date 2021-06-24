@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 feature-img: "assets/img/gofair_background.jpg"
 order: 1
+css: "about.css"
 ---
 <a href="" title=""></a>
 <h3>Background</h3>
@@ -13,97 +14,97 @@ order: 1
 
 <h3>Team</h3>
   <div class = "row">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+    <div class = "column">
       <div class = "card">
         <img src="/assets/img/Christine_Profile.png" alt = "Christine" height= "200" width= "170" 
              style="border-radius:50%; position:static;"/>
         <div class = "container">
           <h4>Christine Kirkpatrick</h4>
-          <p class = "title" style = "color:grey;"> GO FAIR US Office Head, SDSC/UC San Diego</p>
+          <p class = "title"> GO FAIR US Office Head, SDSC/UC San Diego</p>
         </div>
       </div>
     </div>
 
   <div class = "row">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+    <div class = "column">
       <div class = "card">
         <img src="/assets/img/Melissa_Profile.png" alt = "Melissa" height= "200" width= "170"
              style="border-radius:50%; position:static;"/>
         <div class = "container">
           <h4>Melissa Cragin</h4>
-          <p class = "title" style = "color:grey;">GO CHANGE Chair, SDSC/UC San Diego</p>
+          <p class = "title">GO CHANGE Chair, SDSC/UC San Diego</p>
         </div>
       </div>
     </div>
     
   <div class = "row">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+    <div class = "column">
       <div class = "card">
         <img src="/assets/img/Juliane_Schneider_Profile.jpeg" alt = "Juliane" height= "200" width= "170"
              style="border-radius:50%; position:static;"/>
         <div class = "container">
           <h4>Juliane Schneider</h4>
-          <p class = "title" style = "color:grey;">GO FAIR US Office, Sage Bionetworks</p>
+          <p class = "title">GO FAIR US Office, Sage Bionetworks</p>
         </div>
       </div>
     </div>
  
   <div class = "row">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+    <div class = "column">
       <div class = "card">
         <img src="/assets/img/Chris_Profile.png" alt = "Chris" height= "200" width= "170"
              style="border-radius:50%; position:static;"/>
         <div class = "container">
           <h4>Chris Erdmann</h4>
-          <p class = "title" style = "color:grey;">GO BUILD Chair, American Geophysical Union</p>
+          <p class = "title">GO BUILD Chair, American Geophysical Union</p>
         </div>
       </div>
     </div>
 
   <div class = "row">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
-      <div class = "card" style = "position:static;">
+    <div class = "column">
+      <div class = "card">
         <img src="/assets/img/Natalie_Profile.png" alt = "Natalie" height= "200" width= "170"
              style="border-radius:50%; position:static;"/>
         <div class = "container">
           <h4>Natalie Meyers</h4>
-          <p class = "title" style = "color:grey;">GO FAIR US Office, Notre Dame</p>
+          <p class = "title">GO FAIR US Office, Notre Dame</p>
         </div>
       </div>
     </div>
 
   <div class = "row">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+    <div class = "column">
       <div class = "card">
         <img src="/assets/img/Katie_Profile.png" alt = "Katie" height= "200" width= "170"
              style="border-radius:50%; position:static;"/>
         <div class = "container">
           <h4>Katie Knight</h4>
-          <p class = "title" style = "color:grey;">GO TRAIN Chair, Oak Ridge National Laboratory</p>
+          <p class = "title">GO TRAIN Chair, Oak Ridge National Laboratory</p>
         </div>
       </div>
     </div>
 
   <div class = "row">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+    <div class = "column">
       <div class = "card">
         <img src="/assets/img/Alexandra_Andreiu_Profile.jpg" alt = "Alexandra" height= "200" width= "170"
              style="border-radius:50%; position:static;"/>
         <div class = "container">
           <h4>Alexandra Andreiu</h4>
-          <p class = "title" style = "color:grey;">GO FAIR US Office Project Manager, SDSC/UCSD</p>
+          <p class = "title">GO FAIR US Office Project Manager, SDSC/UCSD</p>
         </div>
       </div>
     </div>
 
   <div class = "row">
-    <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
+    <div class = "column">
       <div class = "card">
         <img src="/assets/img/Nancy_Hoebelheinrich_Profile.png" alt = "Nancy" height= "200" width= "170"
-             style="border-radius:50%; position:static;"/>
+             style="border-radius:50%; position:static;">
         <div class = "container">
           <h4>Nancy Hoebelheinrich</h4>
-          <p class = "title" style = "color:grey;">Ambassadors Chair, Knowledge Motifs LLC</p>
+          <p class = "title">Ambassadors Chair, Knowledge Motifs LLC</p>
         </div>
       </div>
     </div>

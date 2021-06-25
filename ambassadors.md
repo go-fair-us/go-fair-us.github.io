@@ -4,7 +4,6 @@ title: Ambassadors
 feature-title: Ambassadors
 permalink: /ambassadors/
 feature-img: "assets/img/gofair_background.jpg"
-category: get-involved
 hide: true
 ---
 

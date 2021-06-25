@@ -4,7 +4,7 @@ title: GO TRAIN
 feature-title: Go TRAIN
 permalink: /go-train/
 feature-img: "assets/img/gofair_background.jpg"
-hide: true
+category: get-involved
 ---
 
 <h3> GO TRAIN Initiative</h3>

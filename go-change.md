@@ -4,7 +4,7 @@ title: GO CHANGE
 feature-title: GO CHANGE
 permalink: /go-change/
 feature-img: "assets/img/gofair_background.jpg"
-hide: true
+category: get-involved
 ---
 
 <h3> GO CHANGE Initiative</h3>

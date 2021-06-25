@@ -4,7 +4,7 @@ title: GO BUILD
 feature-title: GO BUILD
 permalink: /go-build/
 feature-img: "assets/img/gofair_background.jpg"
-hide: true
+category: get-involved
 ---
 
 <h3> GO BUILD Initiative</h3>

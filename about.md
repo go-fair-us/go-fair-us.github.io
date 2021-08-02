@@ -27,7 +27,7 @@ order: 1
   <div class = "row">
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
-        <img src="/assets/img/cragin_m.jpeg" alt = "Melissa" height= "200" width= "170"
+        <img src="/assets/img/cragin_m-1.jpeg" alt = "Melissa" height= "250" width= "160"
              style="border-radius:50%; position:static;"/>
         <div class = "container">
           <h4>Melissa Cragin</h4>

@@ -14,7 +14,5 @@ GO FAIR US serves in a coordination, outreach, and dissemination role, leveragin
 
 
 <form action="https://mailchi.mp/ab82c95d763c/go-fair-us-august-newsletter" method="get" target="_blank"><button type="submit">Read Newsletter</button></form><br>
-
-
-<form action="https://mailchi.mp/ab82c95d763c/go-fair-us-august-newsletter" method="get" target="_blank"><button type="submit">Subscribe to Newsletter</button></form>
+<form action="https://gofair.us1.list-manage.com/subscribe?u=818fb884553fa17542a908d42&id=be598de3d7" method="get" target="_blank"><button type="submit">Subscribe to Newsletter</button></form>
 

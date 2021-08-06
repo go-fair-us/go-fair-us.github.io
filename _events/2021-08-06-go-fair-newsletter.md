@@ -13,6 +13,6 @@ The GO FAIR US Team is excited to announce the launch of our newsletter! We will
 GO FAIR US serves in a coordination, outreach, and dissemination role, leveraging the deep, cross-cutting expertise of the Office team, key partners, and our growing member network. Our organizational and newsletter structure is modeled after GO FAIR's 3 pillars: Build (Technology), Change (Policy, Culture), and Train(ing). There is a recognized gap of available experts, especially with domain expertise. We've added a fourth key area we call Ambassadors, to help identify experts and to build and grow the data stewardship capacity in the US.
 
 
-<form action="https://mailchi.mp/ab82c95d763c/go-fair-us-august-newsletter" method="get" target="_blank"><button type="submit">Read Newsletter</button></form>
+<form action="https://mailchi.mp/ab82c95d763c/go-fair-us-august-newsletter" method="get" target="_blank"><button type="submit">Read Newsletter</button></form><br>
 <form action="http://eepurl.com/hvjaQX" method="get" target="_blank"><button type="submit">Subscribe to Newsletter</button></form>
 

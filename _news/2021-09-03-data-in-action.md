@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data in Action Spotlight- Advancing the Study of the Body’s Metabolic Systems through Bold Approaches in Data Repository Management
-date: 2020-09-03
+date: 2021-09-03
 excerpt_separator: 
 author: Kimberly Mann Bruch
 tags: ["GO FAIR US", "West Hub", "Data in Action"]

@@ -21,4 +21,4 @@ Not only does the repository allow users to access the metadata, there are multi
 
 “Having a large open-source repository of studies covering a broad range of species, tissue sources, disease associations and analytical instrumentation provides a valuable resource for metabolomics researchers around the world” said Fahy. “Free access to the underlying raw data and experimental conditions also supports re-analysis and comparative analysis across multiple studies and other ‘omics’ platforms which is likely to lead to key insights in systems biology in the future”.
 
-The NMDR is funded by NIH grant number U2C-DK119886.
+This work was supported by National Metabolomics Data Repository - nextgen Metabolomics Workbench (National Institutes of Health (NIH) Award # 190398) and “BD Hubs: Collaborative Proposal: West: Accelerating the Big Data Innovation Ecosystem” (National Science Foundation Award #1916481).

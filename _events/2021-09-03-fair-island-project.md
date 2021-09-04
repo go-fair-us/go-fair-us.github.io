@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The FAIR Island Project- Realizing Place-based, Open Science
-date: 2021-09-028
+date: 2021-09-28
 date2: 2021-09-28
 location: Online
 author: Alexandra Andreiu
@@ -41,7 +41,7 @@ California Digital Library<br>
 University of California Curation Center (UC3)<br>
 Product Manager, DMPTool <br>
 USA<br>
-https://orcid.org/0000-0001-5047-3090
+https://orcid.org/0000-0001-5047-3090<br>
 Maria Praetzellis is Product Manager for the California Digital Library’s research data management initiatives, including DMPTool, the FAIR Island Project, and the NSF-funded machine-actionable DMP grant project. <br>
 
 <img src="/assets/img/neil-davies.jpeg" height="200"/><br>

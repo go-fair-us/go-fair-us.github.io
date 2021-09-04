@@ -13,6 +13,7 @@ Thanks to funding from the National Institutes of Health (NIH), a group of scien
 
 For instance, one of the studies found in the repository encompasses a diabetes study containing data from 12,000 worldwide patient samples. The metadata includes metabolite measurements that can help practitioners better understand individual “typical” ranges for those suffering from diabetes.
 
+<img src="/assets/img/data-in-action-article-image.png"/><br>
 
 Founded on the principles of FAIR (findable, accessible, interoperable, and reusable) data, the National Metabolomics Data Repository has implemented a robust set of studies that provide metadata on a range of worldwide research including 195 cases involving cancer and 66 regarding diabetes. 
 “Metabolite markers in blood is our first window into human physiology,” said Subramaniam, principal investigator for the NIH-funded repository. “Our project takes this information and creates the ability to study human metabolomics.”

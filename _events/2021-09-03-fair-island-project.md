@@ -8,7 +8,7 @@ author: Alexandra Andreiu
 tags: ["Webinar Series", "FAIR Island Project", "GO FAIR US"]
 ---
 
-On Tuesday, Sept. 28 at 9:00am Pacific / 12:00pm Eastern, GO FAIR US will be hosting a webinar on the <a href = "https://www.fairisland.org/home/about/" >FAIR Island Project</a>. Erin Robinson, Maria Praetzellis, and Neil Davies will be giving a talk titled: “The FAIR Island Project: Realizing Place-based, Open Science.” Registration for the webinar is available at <a href = "https://ucsd.zoom.us/webinar/register/WN_CsNbTob5SVe1pUfekrVwxg" >this link</a>.
+On <b>Tuesday, Sept. 28 at 9:00am Pacific / 12:00pm Eastern</b>, GO FAIR US will be hosting a webinar on the <a href = "https://www.fairisland.org/home/about/" >FAIR Island Project</a>. <b>Erin Robinson</b>, <b>Maria Praetzellis</b>, and <b>Neil Davies</b> will be giving a talk titled: “The FAIR Island Project: Realizing Place-based, Open Science.” Registration for the webinar is available at <a href = "https://ucsd.zoom.us/webinar/register/WN_CsNbTob5SVe1pUfekrVwxg" >this link</a>.
 
 
 <b>Abstract:</b>
@@ -28,29 +28,26 @@ Our hope is that the work we do with the FAIR Island Infrastructure will be reus
 <b>Presenters:</b>
 
 <img src="/assets/img/erin-robinson.jpeg" height="200"/><br>
-<b>Erin Robinson</b>
+<b><a href = "https://orcid.org/0000-0001-9998-0114">Erin Robinson</a></b><br>
 Metadata Game Changers LLC<br>
 Co-Founder & CEO<br>
 USA<br>
-https://orcid.org/0000-0001-9998-0114<br>
 Erin’s research interest centers around understanding information infrastructure. She is the Research Data Management Advisor for FAIR Island and the co-founder and CEO of Metadata Game Changers LLC.  <br>
 
 <img src="/assets/img/maria-praetzellis.jpeg" height="200"/><br>
-<b>Maria Praetzellis</b> 
+<b><a href = "https://orcid.org/0000-0001-5047-3090"> Maria Praetzellis</a></b><br> 
 California Digital Library<br> 
 University of California Curation Center (UC3)<br>
 Product Manager, DMPTool <br>
 USA<br>
-https://orcid.org/0000-0001-5047-3090<br>
 Maria Praetzellis is Product Manager for the California Digital Library’s research data management initiatives, including DMPTool, the FAIR Island Project, and the NSF-funded machine-actionable DMP grant project. <br>
 
 <img src="/assets/img/neil-davies.jpeg" height="200"/><br>
-<b>Neil Davies</b>  
+<b><a href = "https://orcid.org/0000-0001-8085-5014"> Neil Davies</a></b> <br>
 Executive Director, Richard B. Gump South Pacific Research Station<br>
 Senior Fellow, Berkeley Institute for Data Science<br>
 VP & Science Director, Tetiaroa Society<br>
 French Polynesia<br>
-https://orcid.org/0000-0001-8085-5014<br>
 Based in French Polynesia since 2000, I am Director of the UC Gump South Pacific Research Station and a Research Affiliate at the Berkeley Institute for Data Science. I am a founding director of the Tetiaroa Society and the Blue Climate Initiative.<br>
 
 
@@ -58,4 +55,4 @@ Based in French Polynesia since 2000, I am Director of the UC Gump South Pacific
 Date: 28 September 2021 <br>
 Time: 12-1PM Eastern Time / 9-10AM Pacific Time / 5PM UTC <br>
 Topic: The FAIR Island Project- Realizing Place-based, Open Science <br>
-<a href="https://ucsd.zoom.us/webinar/register/WN_CsNbTob5SVe1pUfekrVwxg">Registration</a>
+<b><a href="https://ucsd.zoom.us/webinar/register/WN_CsNbTob5SVe1pUfekrVwxg">Registration</a></b>

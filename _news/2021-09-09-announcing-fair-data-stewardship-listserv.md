@@ -18,7 +18,7 @@ The Data Stewardship listserv aims to facilitate informal communication between 
 Membership is open to all, and we hope this will be another means to connect Data Stewards of all kinds to help foster discussion, knowledge, and professional connections.
 
 <p align="center">
-<img src="https://source.unsplash.com/V5vqWC9gyEU/640x426" alt="Volodymyr Hryshchenko. Orange sheets of paper lie on a green school board and form a chat bubble with three crumpled papers. unsplash. 2019. https://source.unsplash.com/V5vqWC9gyEU/640x426.">
-Volodymyr Hryshchenko. Orange sheets of paper lie on a green school board and form a chat bubble with three crumpled papers. unsplash. 2019. https://source.unsplash.com/V5vqWC9gyEU/640x426.
+<img src="https://source.unsplash.com/V5vqWC9gyEU/640x426" alt="Volodymyr Hryshchenko. Orange sheets of paper lie on a green school board and form a chat bubble with three crumpled papers. unsplash. 2019. https://source.unsplash.com/V5vqWC9gyEU/640x426."> <br>
+Volodymyr Hryshchenko. Orange sheets of paper lie on a green school board and form a chat bubble with three crumpled papers. unsplash. 2019. [https://source.unsplash.com/V5vqWC9gyEU/640x426](https://source.unsplash.com/V5vqWC9gyEU/640x426).
 </p>
 

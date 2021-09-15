@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lauch of GO FAIR US Newsletter!
+title: Launch of GO FAIR US Newsletter!
 date: 2021-08-06
 date2: 2021-08-06
 location: Online

@@ -64,7 +64,7 @@ order: 1
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card" style = "position:static;">
         <img src="/assets/img/Natalie_Profile.png" alt = "Natalie" height= "200" width= "170"
-             style="border-radius:50%; position:absolute;"/>
+             style="border-radius:50%; position:relative;"/>
         <div class = "container">
           <h4>Natalie Meyers</h4>
           <p class = "title" style = "color:grey;">GO FAIR US Office, Notre Dame</p>

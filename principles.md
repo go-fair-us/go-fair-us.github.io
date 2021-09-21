@@ -38,5 +38,3 @@ order: 5
 
 <p>The latest developments on FAIR are available at <a href="https://www.go-fair.org/fair-principles/">GO-FAIR</a>.</p>
 
-<br />
-

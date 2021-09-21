@@ -37,3 +37,6 @@ order: 5
 	R1.3. (meta)data <u>meet domain-relevant community standards.</u></p>
 
 <p>The latest developments on FAIR are available at <a href="https://www.go-fair.org/fair-principles/">GO-FAIR</a>.</p>
+
+<br />
+

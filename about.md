@@ -23,6 +23,7 @@ order: 1
         </div>
       </div>
     </div>
+ </div>
 
   <div class = "row">
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
@@ -35,7 +36,8 @@ order: 1
         </div>
       </div>
     </div>
-    
+ </div>
+  
   <div class = "row">
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
@@ -47,7 +49,8 @@ order: 1
         </div>
       </div>
     </div>
- 
+ </div>
+  
   <div class = "row">
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
@@ -59,7 +62,8 @@ order: 1
         </div>
       </div>
     </div>
-
+ </div>
+ 
   <div class = "row">
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card" style = "position:static;">
@@ -71,7 +75,8 @@ order: 1
         </div>
       </div>
     </div>
-
+ </div>
+ 
   <div class = "row">
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
@@ -83,7 +88,8 @@ order: 1
         </div>
       </div>
     </div>
-
+ </div>
+ 
   <div class = "row">
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
@@ -95,7 +101,8 @@ order: 1
         </div>
       </div>
     </div>
-
+ </div>
+ 
   <div class = "row">
     <div class = "column" style = "float: left; width: 25%; margin-bottom: 18px; padding: 0 8px;">
       <div class = "card">
@@ -107,7 +114,8 @@ order: 1
         </div>
       </div>
     </div>
-   </div>
+ </div>
+ 
 <br><br>  
 <h3>Focus</h3>
 

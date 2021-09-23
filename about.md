@@ -107,7 +107,7 @@ order: 1
         </div>
       </div>
     </div>
-    
+   </div>
 <br><br>  
 <h3>Focus</h3>
 

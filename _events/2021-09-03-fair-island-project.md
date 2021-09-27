@@ -8,7 +8,7 @@ author: Alexandra Andreiu
 tags: ["Webinar Series", "FAIR Island Project", "GO FAIR US"]
 ---
 
-On <b>[EVENT DATE POSTPONED UNTIL FURTHER NOTICE]</b>, GO FAIR US will be hosting a webinar on the <a href = "https://www.fairisland.org/home/about/" >FAIR Island Project</a>. <b>Erin Robinson</b>, <b>Maria Praetzellis</b>, and <b>Neil Davies</b> will be giving a talk titled: “The FAIR Island Project: Realizing Place-based, Open Science.” Registration for the webinar is available at <a href = "https://ucsd.zoom.us/webinar/register/WN_CsNbTob5SVe1pUfekrVwxg" >this link</a>.
+On <b>[EVENT DATE POSTPONED UNTIL FURTHER NOTICE]</b>, GO FAIR US will be hosting a webinar on the <a href = "https://www.fairisland.org/home/about/" >FAIR Island Project</a>. <b>Erin Robinson</b>, <b>Maria Praetzellis</b>, and <b>Neil Davies</b> will be giving a talk titled: “The FAIR Island Project: Realizing Place-based, Open Science.” Registration for the webinar is available at <a href="">[EVENT POSTPONED UNTIL FURTHER NOTICE]</a>.
 
 
 <b>Abstract:</b>

@@ -8,7 +8,7 @@ author: Alexandra Andreiu
 tags: ["Webinar Series", "FAIR Island Project", "GO FAIR US"]
 ---
 
-On <p style="text-decoration: line-through;"><b>Tuesday, Sept. 28 at 9:00am Pacific / 12:00pm Eastern</b></p><b>[POSTPONED UNTIL FURTHER NOTICE]</b>, GO FAIR US will be hosting a webinar on the <a href = "https://www.fairisland.org/home/about/" >FAIR Island Project</a>. <b>Erin Robinson</b>, <b>Maria Praetzellis</b>, and <b>Neil Davies</b> will be giving a talk titled: “The FAIR Island Project: Realizing Place-based, Open Science.” Registration for the webinar is available at <a href = "https://ucsd.zoom.us/webinar/register/WN_CsNbTob5SVe1pUfekrVwxg" >this link</a>.
+On <b>[EVENT DATE POSTPONED UNTIL FURTHER NOTICE]</b>, GO FAIR US will be hosting a webinar on the <a href = "https://www.fairisland.org/home/about/" >FAIR Island Project</a>. <b>Erin Robinson</b>, <b>Maria Praetzellis</b>, and <b>Neil Davies</b> will be giving a talk titled: “The FAIR Island Project: Realizing Place-based, Open Science.” Registration for the webinar is available at <a href = "https://ucsd.zoom.us/webinar/register/WN_CsNbTob5SVe1pUfekrVwxg" >this link</a>.
 
 
 <b>Abstract:</b>
@@ -52,8 +52,5 @@ Based in French Polynesia since 2000, I am Director of the UC Gump South Pacific
 
 
 <b>Webinar Details:</b><br>
-<p style="text-decoration: line-through;">
-Date: 28 September 2021 <br>
-Time: 12-1PM Eastern Time / 9-10AM Pacific Time / 5PM UTC <br></p>
 Topic: The FAIR Island Project- Realizing Place-based, Open Science <br>
-<b><a href="">POSTPONED UNTIL FURTHER NOTICE</a></b>
+<b><a href="">EVENT POSTPONED UNTIL FURTHER NOTICE</a></b>

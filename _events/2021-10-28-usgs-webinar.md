@@ -26,7 +26,7 @@ Viv Hutchison is the Branch Chief for Science Data Management in the Core Scienc
 
 <b>Webinar Details:</b><br>
 Date: 28 October 2021 <br>
-Video: [GO FAIR US & USGS Webinar](https://youtu.be/X0Mhf60EtHs) <br>
+Video: [GO FAIR US & USGS Webinar](https://youtu.be/oLFOZ4f5Tqg) <br>
 Time: 12-1PM Eastern Time / 9-10AM Pacific Time / 5PM UTC <br>
 Topic: Mapping GOFAIR Pillars to the new USGS Roadmap for enabling FAIR data  <br>
 

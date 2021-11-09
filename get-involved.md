@@ -38,5 +38,5 @@ order: 2
 </ul>
 
 
-<p>GO FAIR US is dedicated to <strong>providing a harassment-free experience for everyone</strong>, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of community members in any form and will take appropriate action should harassment occur. Respect, mindfulness, and awareness of potentially triggering content should be shown at all times. Sexual language and imagery is generally not appropriate for any venue, including meetings, presentations, and discussions.</p>
+<p>Read through our <a href = "https://gofair.us/assets/GO FAIR US Community Participation Guidelines.pdf"> Community Participation Guidelines</a> to learn more about how GO FAIR US will create an inclusive, respectful, and safe place for all community members to feel empowered and included.</p>
 

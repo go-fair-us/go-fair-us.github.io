@@ -8,7 +8,7 @@ author: Alexandra Andreiu
 tags: ["Webinar Series", "USGS", "GO FAIR US"]
 ---
 
-On October 28th, 2021 at 9 am PST/12 pm EST/5 pm UTC, GO FAIR US will be hosting a webinar on how USGS has utilized the GO FAIR Pillars in their roadmap for enabling FAIR Data. <b>Fran Lightsom</b> and <b>Viv Hutchinson</b> will be giving a talk titled: “Mapping GO FAIR Pillars to the new USGS Roadmap for enabling FAIR Data.” Registration for the webinar is available at <a href="https://ucsd.zoom.us/webinar/register/WN_XHebz24wRGyKUcIwP5rulA">this link</a>.
+On October 28th, 2021 at 9 am PST/12 pm EST/5 pm UTC, GO FAIR US hosted a webinar on how USGS has utilized the GO FAIR Pillars in their roadmap for enabling FAIR Data. <b>Viv Hutchinson</b> gave a talk titled: “Mapping GO FAIR Pillars to the new USGS Roadmap for enabling FAIR Data.”
 
 <b>Abstract:</b>
 

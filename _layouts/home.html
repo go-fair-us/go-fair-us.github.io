@@ -21,7 +21,7 @@ layout: default
         </h2>
         <ul class="recent-list">
           {% assign sorted = site.news | sort: "date" | reverse %}
-          {% for news in sorted limit:5 %}
+          {% for news in sorted limit:3 %}
           <li class="recent-item">
             <div class="item-date meta">
               {{ news.date | date_to_string }}

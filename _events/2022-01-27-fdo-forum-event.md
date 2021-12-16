@@ -68,7 +68,7 @@ Debora Drucker is a research data management specialist at Embrapa Digital Agric
 <b>Event Details:</b><br>
 Date: 27 January 2022 <br>
 Time: 8AM-12PM Eastern Time / 5AM-9AM Pacific Time / 1PM to 5PM UTC <br>
-Registration: <a href = "https://ucsd.zoom.us/j/92302933025"> https://ucsd.zoom.us/j/92302933025</a>
+Registration: <a href = "https://ucsd.zoom.us/j/92302933025"> https://ucsd.zoom.us/j/92302933025</a><br>
 Topic: High Level Panel on Future Data Space: How a Vision of the Internet of FAIR Data & Services Becomes a Reality
 
 <img src="/assets/img/FDO Forum.png" height="200"/><br>

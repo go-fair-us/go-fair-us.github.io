@@ -10,7 +10,7 @@ tags: ["FDO Forum", "Future Data Space", "GO FAIR US"]
 
 Organised by the FAIR Digital Objects Forum, this High Level Panel featuring innovative thinkers and discussants will take place online on 27 January 2022, 8AM-12PM EST / 5AM-9AM PST / 1PM to 5PM UTC.
 
-<b>Register here:</b> https://ucsd.zoom.us/j/92302933025
+<b>Register here:</b> <a href = "https://ucsd.zoom.us/j/92302933025"> https://ucsd.zoom.us/j/92302933025</a>
 
 Large sums of money, and equally great ambitions, are already being directed towards developing data/research infrastructures, for science and for industry, and there is no doubt that much additional awareness, new insights and new types of services and tools will emerge. Despite these huge investments there is no agreed view on how the future data space should be organized, what its key pillars should be and how access to data will be managed and facilitated. EOSC for example is based on the FAIR principles and a distributed service landscape, with further specifications currently being derived by expert Task Forces. Similar to the ESFRI process, NFDI relies on a process of discipline-driven infrastructure building, while recognizing that this leaves a gap to be bridged with respect to common services and standards. NIH Commons a conceptual framework for a digital environment was designed to allow efficient storage, manipulation, and sharing of research objects. Meanwhile, big industry is defining strategies for offering services on data based on proprietary binding mechanisms, seriously hampering innovation.
 
@@ -68,7 +68,7 @@ Debora Drucker is a research data management specialist at Embrapa Digital Agric
 <b>Event Details:</b><br>
 Date: 27 January 2022 <br>
 Time: 8AM-12PM Eastern Time / 5AM-9AM Pacific Time / 1PM to 5PM UTC <br>
-Registration: https://ucsd.zoom.us/j/92302933025
+Registration: <a href = "https://ucsd.zoom.us/j/92302933025"> https://ucsd.zoom.us/j/92302933025</a>
 Topic: High Level Panel on Future Data Space: How a Vision of the Internet of FAIR Data & Services Becomes a Reality
 
 <img src="/assets/img/FDO Forum.png" height="200"/><br>

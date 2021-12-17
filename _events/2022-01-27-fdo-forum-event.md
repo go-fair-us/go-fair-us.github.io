@@ -1,8 +1,8 @@
 ---
 layout: post
 title: FAIR Digital Objects Forum &#58; High Level Panel on Future Data Space
-date: 2022-01-27
-date2: 2022-01-27
+date: 2022-01-19
+date2: 2022-01-19
 location: Online
 author: Alexandra Andreiu
 tags: ["FDO Forum", "Future Data Space", "GO FAIR US"]
@@ -66,7 +66,7 @@ Sabina Leonelli serves as the Co-Director of the Exeter Centre for the Study of 
 Debora Drucker is a research data management specialist at Embrapa Digital Agriculture, one of the Brazilian Agricultural Research Corporation Research Centers. She is one of the co-chairs of the Research Data Alliance IGAD Community of Practice (Improving Global Agricultural Data) and Professionalizing Data Stewardship Interest Group and an expert at the Data and Knowledge Task Force of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES). She holds a degree in Forestry from University of São Paulo, Master in Ecology at the National Institute for Amazonian Research and Phd in Environment and Society from University of Campinas. <br>
 
 <b>Event Details:</b><br>
-Date: 27 January 2022 <br>
+Date: 19 January 2022 <br>
 Time: 8AM-12PM Eastern Time / 5AM-9AM Pacific Time / 1PM to 5PM UTC <br>
 Registration: <a href = "https://ucsd.zoom.us/j/92302933025"> https://ucsd.zoom.us/j/92302933025</a><br>
 Topic: High Level Panel on Future Data Space: How a Vision of the Internet of FAIR Data & Services Becomes a Reality

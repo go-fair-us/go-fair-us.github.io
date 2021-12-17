@@ -2,7 +2,6 @@
 layout: post
 title: FAIR Digital Objects Forum — High Level Panel on Future Data Space
 date: 2022-01-19
-date2: 2022-01-19
 location: Online
 author: Alexandra Andreiu
 tags: ["FDO Forum", "Future Data Space", "GO FAIR US"]

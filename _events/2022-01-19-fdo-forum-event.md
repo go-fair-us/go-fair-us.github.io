@@ -8,7 +8,7 @@ author: Alexandra Andreiu
 tags: ["FDO Forum", "Future Data Space", "GO FAIR US"]
 ---
 
-Organised by the FAIR Digital Objects Forum, this High Level Panel featuring innovative thinkers and discussants will take place online on 27 January 2022, 8AM-12PM EST / 5AM-9AM PST / 1PM to 5PM UTC.
+Organised by the FAIR Digital Objects Forum, this High Level Panel featuring innovative thinkers and discussants will take place online on 19 January 2022, 8AM-12PM EST / 5AM-9AM PST / 1PM to 5PM UTC.
 
 <b>Register here:</b> <a href = "https://ucsd.zoom.us/j/92302933025"> https://ucsd.zoom.us/j/92302933025</a>
 

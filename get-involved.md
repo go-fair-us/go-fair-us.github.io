@@ -16,13 +16,15 @@ order: 2
 
   <li><a href="https://twitter.com/gofairus">Twitter</a>. Follow GO FAIR US on Twitter, learn about what community members are doing, and get updates.</li><br />
 
-  <li>Go FAIR US <a href="{{ site.baseurl }}/news/">News & Events</a>. Stay up-to-date on news and events of interest to the Go FAIR US community.</li><br />
+  <li>GO FAIR US <a href="{{ site.baseurl }}/news/">News & Events</a>. Stay up-to-date on news and events of interest to the Go FAIR US community.</li><br />
   
   <li><a href="https://www.youtube.com/channel/UCQQfwuUYz5zZ6yC98BP5VzA/">YouTube</a>. Watch GO FAIR US outreach and webinar videos.</li><br />
 
   <li><a href="https://github.com/go-fair-us">GitHub Organization</a>. Submit issues/pull requests to Go FAIR US resources on GitHub.</li><br />
-
+  
   <li><a href="https://forms.gle/qhvsb3ubCbEyCYQg6">Contact</a>. Send GO FAIR US general inquiries.</li><br />
+  
+  <li><a href="https://forms.gle/gbsG7WGeTF89upx19">Request Letter</a>. Collaborate with the GO FAIR US Office.</li><br />
 </ul>
 
 <h3>Deeper ways to engage:</h3>

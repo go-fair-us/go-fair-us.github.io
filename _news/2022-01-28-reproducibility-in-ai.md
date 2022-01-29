@@ -14,4 +14,5 @@ Within Artificial Intelligence and Machine Learning, reproducibility is even mor
 
 To watch the entire presentation, click on this <a href ="https://www.youtube.com/watch?v=onqJeT-hQpI">link</a>.
 
-
+<img src="/assets/img/scientific_method_cs.jpg"><br>
+10.1098/rsta.2020.0210, Odd Erik Gundersen

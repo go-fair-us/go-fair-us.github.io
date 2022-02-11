@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: FAIR Points
 permalink: /fairpoints/
 feature-img: "assets/img/gofair_background.jpg"

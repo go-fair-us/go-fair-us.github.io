@@ -14,7 +14,9 @@ Making data open and available, however, is only part of the answer to the quest
 
 Although these FAIR principles were first published in 2016, researchers are still figuring out how they apply to particular datasets. In a new study, researchers from UC San Diego, the U.S. Department of Energy’s Argonne National Laboratory, MIT and the Universities of Minnesota and Illinois Urbana-Champaign have laid out a set of new practices to guide the curation of high energy physics datasets that make them more FAIR.
 
-<img src="/assets/img/PR20220214_FAIR_physics.jpeg" height = "300"><br>
+<p align="center">
+<img src="/assets/img/PR20220214_FAIR_physics.jpeg" height = "400"><br>
+</p>
 
 The research, published in Nature Scientific Data, demonstrates how to FAIRify an open simulation dataset, consisting of Higgs boson decays and quark and gluon background, produced by the CMS Collaboration at the CERN Large Hadron Collider (LHC).
 

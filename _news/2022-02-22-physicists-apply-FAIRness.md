@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Physicists Apply FAIRness to Data Studies — San Diego Supercomputer Center Leads National Efforts to Align Principles with Practice
-date: 2022-01-22
+date: 2022-02-22
 date2: 2022-02-22
 location: Online
 author: Kimberly Mann Bruchu

@@ -4,7 +4,7 @@ title: Physicists Apply FAIRness to Data Studies — San Diego Supercomputer Cen
 date: 2022-02-22
 date2: 2022-02-22
 location: Online
-author: Kimberly Mann Bruchu
+author: Kimberly Mann Bruch
 tags: ["Physicists", "SDSC", "GO FAIR US"]
 ---
 

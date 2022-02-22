@@ -1,6 +1,6 @@
 ---
 layout: post
-title: US GO FAIR Office Applauds Physicists’ Application of FAIRness to Data Studies — San Diego Supercomputer Center Leads National Efforts to Align Principles with Practice
+title: FAIRifying Open Simulation Datasets to Further Mine Insights from Large Hadron Collider (LHC) Data with Practice
 date: 2022-02-22
 date2: 2022-02-22
 location: Online

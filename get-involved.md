@@ -24,7 +24,7 @@ order: 2
   
   <li><a href="https://forms.gle/qhvsb3ubCbEyCYQg6">Contact</a>. Send GO FAIR US general inquiries.</li><br />
   
-  <li><a href="https://forms.gle/gbsG7WGeTF89upx19">Request Letter</a>. Collaborate with the GO FAIR US Office.</li><br />
+  <li><a href="https://forms.gle/LqZanosgfBFYEfgd9">Request Letter</a>. Collaborate with the GO FAIR US Office.</li><br />
 </ul>
 
 <h3>Deeper ways to engage:</h3>

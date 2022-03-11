@@ -145,5 +145,5 @@ order: 1
   <p>GO FAIR US is engaged with other leaders in research data, including these important partners.</p>
 
   <p><a href="https://www.sdsc.edu/" title="SDSC Website and Logo"><img src="../assets/img/partners/sdsc-partner-logo.jpg" alt="SDSC Logo"> <a  href="https://renci.org/" title="RENCI Website and Logo"><img src="../assets/img/partners/renci-partner-logo.jpg" alt="RENCI Logo"></a> <a  href="https://datascienceconsortium.org/" title="NCDS Website and Logo"><img src="../assets/img/partners/ncds-partner-logo.jpg" alt="NCDS Logo"></a> <a
- href="https://www.fairpoints.org/" title="FAIRPoints Website and Logo"><img src="../assets/img/partners/FAIRPoints.logo.svg" alt="FAIRPoints Logo"></a>
+ href="https://www.fairpoints.org/" title="FAIRPoints Website and Logo"><img src="../assets/img/partners/FAIRPoints.logo.svg" alt="FAIRPoints Logo" height= "200" width= "170"></a>
 
